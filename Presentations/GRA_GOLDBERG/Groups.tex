@@ -1,0 +1,110 @@
+\documentclass[%
+pdf,
+%nocolorBG,
+colorBG,
+slideColor,
+%slideBW,
+%draft,
+%frames
+%azure
+%contemporain
+%nuancegris
+%troispoints
+%lignesbleues
+%darkblue
+%alienglow
+%autumn
+]{prosper}
+\usepackage{pifont, amsmath, multicol}
+%\usepackage{wrapfig,subfigure}
+\usepackage{color}
+%\usepackage{floatflt}
+\usepackage{epsfig}
+\usepackage{pifont}
+%\usepackage[francais]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[latin1]{inputenc}
+%\catcode`\«=\active
+%\catcode`\»=\active
+%\def«{\og\ignorespaces}%
+%\def»{{\fg}}%
+
+\newcommand{\spacer}{\rule[-3mm]{0mm}{8mm}}
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{problem}[theorem]{Problem}
+\newtheorem{lemma}{Lemma}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{proposition}[theorem]{Proposition}
+
+
+\newcommand{\RR}{\ensuremath{\mathbb{R}}}
+\newcommand{\NN}{\ensuremath{\mathbb{N}}}
+\newcommand{\QQ}{\ensuremath{\mathbb{Q}}}
+\newcommand{\CC}{\ensuremath{\mathbb{C}}}
+\newcommand{\ZZ}{\ensuremath{\mathbb{Z}}}
+\newcommand{\TT}{\ensuremath{\mathbb{T}}}
+
+\def\QuotS#1#2{\leavevmode\kern-.0em\raise.2ex\hbox{$#1$}\kern-.1em/\kern-.1em\lower.25ex\hbox{$#2$}}
+
+
+\title{\Large \textcolor{blue}{Goldberg-Coxeter construction}\\[3mm]
+\textcolor{blue}{for $3$- or $4$-valent plane graphs}}
+\author{
+\textcolor{red}{\large Mathieu Dutour}\\[2mm]
+\textcolor{red}{\Large ENS/CNRS, Paris and Hebrew University, Jerusalem}\\[2mm]
+\textcolor{red}{\large Michel Deza}\\[2mm]
+\textcolor{red}{\Large ENS/CNRS, Paris and ISM, Tokyo}
+}
+\slideCaption{}
+
+\date{}
+
+
+
+\begin{document}
+
+
+
+\begin{slide}{Icosahedral, Octahedral}
+\begin{itemize}
+\item Icosahedral symmetry
+\begin{itemize}
+\item $I$(order $60$): the groups of rotations of the Icosahedron
+\item $I_h$(order $120$): the groups of isometries of the Icosahedron
+\end{itemize}
+\item Cubic symmetry
+\begin{itemize}
+\item $O$(order $24$): the groups of rotations of the Cube
+\item $O_h$(order $48$): the groups of isometries of the Cube
+\end{itemize}
+\item Tetrahedral symmetry
+\begin{itemize}
+\item $T$(order $12$): the groups of rotations of the Tetrahedron
+\item $T_d$(order $24$): the groups of isometries of the Tetrahedron
+\item $T_h$(order $24$): $T\cup -T$
+\end{itemize}
+
+\end{itemize}
+
+
+\end{slide}
+
+
+
+\begin{slide}{Dihedral symmetry}
+\begin{itemize}
+\item $D_m$ is the group formed of all rotations preserving the Prism of order $m$:
+\item $D_{mh}$ is the group formed of all isometries preserving the Prism of order $m$:
+\item $D_{md}$ is the group formed of all isometries preserving the AntiPrism of order $m$:
+\item $C_m$ is the rotation group of order $m$.
+
+
+\end{itemize}
+\end{slide}
+
+
+\end{document}
