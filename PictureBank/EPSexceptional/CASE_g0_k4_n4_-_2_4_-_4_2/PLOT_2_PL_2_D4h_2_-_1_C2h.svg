@@ -1,0 +1,22 @@
+<svg height="600" width="600">
+  <path d="M551.005 170.931 C 512.448 217.617, 441.53 303.563, 425.869 348.961" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M425.869 348.961 C 410.207 394.36, 412.296 507.239, 413.347 568.58" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M551.005 170.931 C 577.688 219.012, 619.906 339.611, 600 400.814" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M600 400.814 C 580.094 462.017, 469.048 540.242, 413.347 568.58" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M551.005 170.931 C 530.064 120.711, 470.239 21.5517, 417.856 0.829179" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M417.856 0.829179 C 365.473 -19.8933, 241.733 9.55497, 183.875 31.51" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M551.005 170.931 C 492.658 174.051, 385.862 179.782, 344.156 163.802" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M344.156 163.802 C 302.45 147.823, 225.681 72.3814, 183.875 31.51" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M183.875 31.51 C 128.893 57.3693, 22.1177 125.262, 0 179.056" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M0 179.056 C -22.1177 232.851, 6.98224 356.278, 28.5237 414.149" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M183.875 31.51 C 183.136 91.9256, 181.779 203.153, 164.119 246.736" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M164.119 246.736 C 146.459 290.318, 70.1404 370.411, 28.5237 414.149" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M28.5237 414.149 C 54.3093 469.54, 122.086 577.127, 176.061 599.171" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M176.061 599.171 C 230.035 621.215, 354.67 590.844, 413.347 568.58" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M28.5237 414.149 C 88.7425 414.386, 199.983 415.029, 243.867 432.633" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M243.867 432.633 C 287.751 450.237, 368.923 526.81, 413.347 568.58" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <ellipse cx="551.005" cy="170.931" rx="1.87293" ry="1.87293"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="183.875" cy="31.51" rx="1.87293" ry="1.87293"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="28.5237" cy="414.149" rx="1.87293" ry="1.87293"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="413.347" cy="568.58" rx="1.87293" ry="1.87293"  style="fill:rgb(0,0,0)" />
+</svg>

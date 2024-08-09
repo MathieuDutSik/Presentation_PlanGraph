@@ -1,0 +1,49 @@
+&PLOT
+ PlaneFile = "PLOT_1_PL_2_Th_1_-_1_Th.plane",
+ OutFile = "PLOT_1_PL_2_Th_1_-_1_Th.svg",
+ ViewFile = "PLOT_1_PL_2_Th_1_-_1_Th.view",
+ MAX_ITER_PrimalDual = -1,
+ MAX_ITER_CaGe = 1000,
+ CaGeProcessPolicy = 2,
+ RoundMethod = 2,
+ width = 600,
+ height = 600,
+ MethodInsert = 2,
+/
+
+
+&EDGE
+ DoMethod1 = .T.,
+ DoMethod2 = .F.,
+ DoMethod3 = .F.,
+ MultTangent = 0.5,
+ NormalTraitSize = 1,
+ ListTraitIDE = 0,13,1,14,2,15,3,19,4,20,5,21,6,22,7,12,24,35,25,39,26,40,27,41,28,42,29,34,44,55,45,56,46,60,47,61,48,62,49,54,64,70,65,71,76,82,77,83,
+ ListTraitGroup = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ ListTraitSize = 4,
+ DefaultRGB = 0,0,0,
+ SpecificRGB_iDE = ,
+ SpecificRGB_Group = ,
+ SpecificRGB_R = ,
+ SpecificRGB_G = ,
+ SpecificRGB_B = ,
+ DoExternalArrow = .T.,
+ ScalExtensionArrow = 2,
+ LengthExtensionArrow = 0.5,
+/
+
+
+&VERT
+ NormalRadius = 0.005,
+ ListRadiusIDE = ,
+ ListRadiusGroup = ,
+ ListRadius = ,
+ DefaultRGB = 0,0,0,
+ SpecificRGB_iDE = ,
+ SpecificRGB_Group = ,
+ SpecificRGB_R = ,
+ SpecificRGB_G = ,
+ SpecificRGB_B = ,
+/
+
+

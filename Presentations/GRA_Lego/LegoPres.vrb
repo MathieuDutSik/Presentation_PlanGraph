@@ -1,0 +1,17 @@
+\frametitle{Representation of oriented maps}
+
+\begin{itemize}
+\item General maps are best represented via flag system (buildings, chamber system, etc.)
+\item For oriented maps, we can use a simpler yet equivalent system: directed edge.
+\item Directed edge are basically a pair $(v, e)$ with $v$ a vertex and $e$ an edge.
+\item Given a directed edge $\overrightarrow{e}$ we can build the next directed edge $n(\overrightarrow{e})$ around the vertex (in trigonometric order) and the inverse directed edge $i(\overrightarrow{e})$
+\item Vertices, edges and faces the correspond to the orbits of the permutations $n$, $i$ and $n\circ i$ on the set of directed edges.
+\end{itemize}
+Example:
+\begin{verbatim}
+16
+ 8 11 4 9 2 15 14 13 0 3 12 1 10 7 6 5
+ 1 2 3 0 5 6 7 4 9 10 11 8 13 14 15 12
+\end{verbatim}
+
+

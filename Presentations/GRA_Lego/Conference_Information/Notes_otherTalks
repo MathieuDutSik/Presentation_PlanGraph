@@ -1,0 +1,25 @@
+Talk on labyrinthic fractals.
+
+Steinhaus Chessboard Theorem to look at.
+
+Halter-Koch & Geroldinger, 2006 they wrote a book on the
+question of factorizations. 
+
+Geroldinger, 2016 survey in the AMM.
+
+Cluster algebras applications to numerical analysis.
+Kim and other Koreans work on Laurent phenomenon in
+advances of mathematics.
+
+erovhevic russian on fullerenes.
+
+Trinomial coefficients defined by
+(0,0) = 1 and
+(n+1,k) = (n,k-1) + (n,k) + (n,k+1)
+Central trinomial coefficient are the number (k,0).
+
+Iterative rounding algorithm for finding Steiner trees.
+
+A tutorial on spectal clustering.
+A fast partition algorithm and its application in earthquake investigations, Computers and Geoscience
+Data clustering Theory, Algorithms and Applications.

@@ -1,0 +1,52 @@
+<svg height="600" width="600">
+  <line x1="535.945" y1="239.825" x2="596.12" y2="321.947" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="596.12" y1="321.947" x2="570.965" y2="318.067" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="596.12" y1="321.947" x2="600" y2="296.792" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="470.413" y1="473.55" x2="428.743" y2="567.685" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="428.743" y1="567.685" x2="419.469" y2="543.678" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="428.743" y1="567.685" x2="452.751" y2="558.41" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="234.884" y1="534.176" x2="132.591" y2="545.085" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="132.591" y1="545.085" x2="148.746" y2="525.074" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="132.591" y1="545.085" x2="152.603" y2="561.24" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="64.7545" y1="360.482" x2="3.94778" y2="277.343" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="3.94778" y1="277.343" x2="29.394" y2="281.291" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="3.94778" y1="277.343" x2="0" y2="302.789" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="130.093" y1="126.047" x2="171.518" y2="32.3151" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="171.518" y1="32.3151" x2="180.765" y2="56.2078" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="171.518" y1="32.3151" x2="147.626" y2="41.5616" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="365.603" y1="65.5731" x2="467.69" y2="54.762" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="467.69" y1="54.762" x2="451.554" y2="74.7198" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="467.69" y1="54.762" x2="447.732" y2="38.6265" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M535.945 239.825 C 527.509 240.43, 511.096 243.158, 488.946 249.151" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M488.946 249.151 C 466.795 255.145, 365.372 282.366, 300.274 299.721" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M300.274 299.721 C 347.895 347.469, 422.154 421.668, 438.418 437.862" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M438.418 437.862 C 454.681 454.056, 465.492 466.772, 470.413 473.55" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M470.413 473.55 C 586.179 433.209, 584.294 372.919, 470.413 473.55" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M470.413 473.55 C 542.731 437.924, 505.486 531.384, 470.413 473.55" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M300.274 299.721 C 282.793 364.908, 255.615 466.189, 249.704 488.42" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M249.704 488.42 C 243.794 510.651, 238.277 526.597, 234.884 534.176" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M234.884 534.176 C 328.453 614.435, 378.505 582.195, 234.884 534.176" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M234.884 534.176 C 301.493 579.353, 203.299 593.951, 234.884 534.176" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M300.274 299.721 C 235.138 317.257, 133.698 344.235, 111.529 350.239" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M111.529 350.239 C 89.3606 356.243, 73.0412 359.645, 64.7545 360.482" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M64.7545 360.482 C 41.6564 481.104, 94.9005 509.209, 64.7545 360.482" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M64.7545 360.482 C 59.2466 440.924, -3.07674 362.423, 64.7545 360.482" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M300.274 299.721 C 252.553 252.167, 178.348 177.934, 162.079 161.743" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M162.079 161.743 C 145.81 145.553, 134.924 132.949, 130.093 126.047" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M130.093 126.047 C 13.2327 167.668, 16.4537 226.711, 130.093 126.047" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M130.093 126.047 C 58.267 161.809, 92.8618 69.3828, 130.093 126.047" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M300.274 299.721 C 317.686 234.676, 344.969 133.145, 350.871 110.957" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M350.871 110.957 C 356.773 88.7683, 362.154 73.2248, 365.603 65.5731" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M365.603 65.5731 C 270.583 -14.6572, 221.272 17.1597, 365.603 65.5731" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M365.603 65.5731 C 298.828 22.0898, 396.138 5.16829, 365.603 65.5731" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M535.945 239.825 C 557.713 116.918, 505.576 89.8299, 535.945 239.825" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M535.945 239.825 C 540.482 159.667, 603.267 235.048, 535.945 239.825" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <ellipse cx="300.192" cy="299.899" rx="1.3326" ry="1.3326"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="535.945" cy="239.825" rx="1.3326" ry="1.3326"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="300.274" cy="299.721" rx="1.3326" ry="1.3326"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="470.413" cy="473.55" rx="1.3326" ry="1.3326"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="234.884" cy="534.176" rx="1.3326" ry="1.3326"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="64.7545" cy="360.482" rx="1.3326" ry="1.3326"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="130.093" cy="126.047" rx="1.3326" ry="1.3326"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="365.603" cy="65.5731" rx="1.3326" ry="1.3326"  style="fill:rgb(0,0,0)" />
+</svg>

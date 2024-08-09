@@ -1,0 +1,134 @@
+<svg height="600" width="600">
+  <line x1="31.4822" y1="271.324" x2="0" y2="264.746" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="0" y1="264.746" x2="6.72819" y2="260.343" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="0" y1="264.746" x2="4.40247" y2="271.474" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="567.79" y1="329.885" x2="600" y2="334.215" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="600" y1="334.215" x2="593.541" y2="339.144" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <line x1="600" y1="334.215" x2="595.071" y2="327.756" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M367.325 278.978 C 364.96 275.172, 360.975 267.816, 361.495 262.357" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M361.495 262.357 C 362.015 256.897, 367.649 241.335, 370.622 233.141" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M367.325 278.978 C 367.779 283.031, 369.34 291.195, 373.228 295.381" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M373.228 295.381 C 377.116 299.567, 391.514 309.002, 399.243 314.176" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M367.325 278.978 C 372.37 277.489, 381.614 274.831, 385.934 273.592" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M385.934 273.592 C 390.254 272.354, 399.802 269.672, 404.911 268.296" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M370.622 233.141 C 378.788 238.214, 394.441 247.919, 398.615 252.062" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M398.615 252.062 C 402.788 256.204, 404.279 264.077, 404.911 268.296" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M370.622 233.141 C 367.23 224.719, 360.601 208.194, 354 191.579" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M354 191.579 C 347.4 174.963, 325.67 119.84, 313.904 89.8452" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M399.243 314.176 C 401.719 322.498, 406.75 339.253, 411.788 355.814" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M411.788 355.814 C 416.827 372.375, 433.61 427.033, 442.871 457.003" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M399.243 314.176 C 402.939 305.772, 409.744 290.348, 410.413 284.889" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M410.413 284.889 C 411.081 279.43, 407.11 271.915, 404.911 268.296" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M313.904 89.8452 C 322.999 84.0653, 340.551 74.208, 349.197 73.9001" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M349.197 73.9001 C 357.844 73.5922, 373.319 74.8835, 379.96 72.7132" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M313.904 89.8452 C 301.817 87.0197, 278.697 82.8068, 268.806 84.6277" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M268.806 84.6277 C 258.915 86.4485, 241.005 98.4257, 231.847 105.374" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M442.871 457.003 C 434.943 466.2, 419.167 483.151, 410.264 487.897" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M410.264 487.897 C 401.361 492.643, 379.784 494.595, 368.163 494.809" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M442.871 457.003 C 453.964 455.956, 474.172 451.297, 481.546 444.607" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M481.546 444.607 C 488.919 437.916, 500.081 417.809, 505.611 407.47" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M379.96 72.7132 C 389.602 97.6096, 407.362 144.252, 414.044 156.699" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M414.044 156.699 C 420.725 169.145, 431.37 173.426, 436.77 174.56" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M379.96 72.7132 C 387.796 64.3767, 402.945 52.7424, 411.484 54.5868" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M411.484 54.5868 C 420.022 56.4312, 438.543 70.2198, 447.3 77.0217" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M231.847 105.374 C 220.488 105.625, 198.83 107.571, 189.839 112.159" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M189.839 112.159 C 180.849 116.747, 165.076 133.66, 156.985 143.092" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M231.847 105.374 C 243.033 137.092, 263.427 194.899, 269.602 212.505" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M269.602 212.505 C 275.777 230.111, 281.981 248.127, 285.043 257.019" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M368.163 494.809 C 357.158 463.252, 336.877 405.423, 330.72 387.893" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M330.72 387.893 C 324.564 370.362, 318.381 352.635, 315.234 343.699" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M368.163 494.809 C 359.062 501.674, 340.694 513.787, 330.735 515.64" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M330.735 515.64 C 320.776 517.493, 297.817 513.077, 285.508 510.201" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M505.611 407.47 C 516.937 410.427, 536.101 410.506, 543.133 400.684" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M543.133 400.684 C 550.166 390.862, 562.092 351.991, 567.79 329.885" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M505.611 407.47 C 499.656 376.832, 488.504 320.76, 490.871 299.938" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M490.871 299.938 C 493.239 279.117, 515.073 243.759, 526.977 224.61" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M436.77 174.56 C 442.028 180.491, 451.95 190.246, 459.324 186.56" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M459.324 186.56 C 466.699 182.874, 488.209 159.532, 499.637 147.385" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M436.77 174.56 C 437.813 160.344, 439.582 134.028, 440.771 122.79" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M440.771 122.79 C 441.96 111.551, 445.456 89.0977, 447.3 77.0217" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M447.3 77.0217 C 456.45 81.4783, 474.835 90.9784, 481.727 98.8173" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M481.727 98.8173 C 488.619 106.656, 496.403 132.338, 499.637 147.385" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M156.985 143.092 C 145.994 144.072, 125.494 148.847, 118.048 155.454" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M118.048 155.454 C 110.602 162.06, 99.5365 182.005, 93.8539 192.532" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M156.985 143.092 C 166.301 172.913, 183.215 227.601, 188.254 244.161" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M188.254 244.161 C 193.293 260.721, 198.273 277.364, 200.772 285.755" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M285.043 257.019 C 282.68 266.063, 278.25 282.716, 278.148 288.535" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M278.148 288.535 C 278.046 294.353, 282.184 302.236, 284.458 306.09" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M285.043 257.019 C 292.511 262.546, 306.225 272.657, 309.937 277.126" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M309.937 277.126 C 313.648 281.595, 315.521 290.285, 316.218 294.62" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M315.234 343.699 C 317.69 334.924, 322.337 318.231, 322.516 312.378" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M322.516 312.378 C 322.695 306.525, 318.539 298.679, 316.218 294.62" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M315.234 343.699 C 308.03 338.26, 294.291 327.991, 290.533 323.537" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M290.533 323.537 C 286.775 319.083, 285.126 310.548, 284.458 306.09" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M285.508 510.201 C 273.866 480.161, 252.35 425.151, 245.756 408.562" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M245.756 408.562 C 239.162 391.972, 232.527 375.376, 229.205 366.988" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M285.508 510.201 C 276.596 515.869, 258.858 525.92, 250.201 526.261" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M250.201 526.261 C 241.543 526.601, 226.259 525.109, 219.464 527.319" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M567.79 329.885 C 567.281 306.441, 564.413 265.41, 559.94 252.884" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M559.94 252.884 C 555.467 240.358, 537.928 228.752, 526.977 224.61" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M526.977 224.61 C 525.126 211.666, 521.309 187.467, 517.372 178.724" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M517.372 178.724 C 513.435 169.981, 503.582 155.567, 499.637 147.385" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M93.8539 192.532 C 82.6306 189.579, 63.3164 189.96, 56.2513 199.808" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M56.2513 199.808 C 49.1862 209.655, 37.3145 248.669, 31.4822 271.324" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M93.8539 192.532 C 99.8107 222.961, 110.892 279.134, 108.561 299.951" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M108.561 299.951 C 106.231 320.768, 84.4774 355.99, 72.5098 375.322" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M200.772 285.755 C 197.084 293.969, 189.95 309.37, 189.124 314.844" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M189.124 314.844 C 188.299 320.318, 192.36 327.728, 194.625 331.378" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M200.772 285.755 C 208.521 290.96, 223.025 300.686, 226.854 304.931" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M226.854 304.931 C 230.682 309.176, 232.029 317.331, 232.474 321.516" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M284.458 306.09 C 288.815 304.567, 296.717 301.76, 300.362 300.446" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M300.362 300.446 C 304.007 299.131, 311.985 296.204, 316.218 294.62" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M229.205 366.988 C 232.237 358.869, 237.994 343.496, 238.475 338.06" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M238.475 338.06 C 238.955 332.625, 234.832 325.262, 232.474 321.516" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M229.205 366.988 C 220.889 361.75, 205.128 351.945, 200.935 347.722" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M200.935 347.722 C 196.742 343.499, 195.212 335.498, 194.625 331.378" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M219.464 527.319 C 209.908 502.36, 192.032 455.358, 185.363 442.94" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M185.363 442.94 C 178.695 430.522, 168.034 426.524, 162.389 425.318" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M219.464 527.319 C 211.782 535.523, 196.579 547.167, 188.04 545.413" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M188.04 545.413 C 179.501 543.66, 160.988 529.772, 152.033 522.832" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M31.4822 271.324 C 32.1353 294.443, 35.1663 335.018, 39.681 347.381" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M39.681 347.381 C 44.1956 359.745, 61.6783 371.17, 72.5098 375.322" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M72.5098 375.322 C 74.4041 388.11, 78.0772 412.296, 81.9933 421.127" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M81.9933 421.127 C 85.9094 429.957, 95.9571 444.38, 99.9512 452.54" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M194.625 331.378 C 199.88 330.037, 209.324 327.619, 213.676 326.487" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M213.676 326.487 C 218.028 325.356, 227.509 322.844, 232.474 321.516" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M162.389 425.318 C 157.332 419.296, 147.362 409.293, 140.039 412.87" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M140.039 412.87 C 132.716 416.448, 111.468 440.062, 99.9512 452.54" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M162.389 425.318 C 161.378 439.435, 159.401 465.846, 158.204 477.102" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M158.204 477.102 C 157.007 488.358, 153.806 510.704, 152.033 522.832" fill="none" style="stroke:rgb(0,0,0);stroke-width:4" />
+  <path d="M152.033 522.832 C 143.06 518.48, 124.611 508.948, 117.699 501.14" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <path d="M117.699 501.14 C 110.788 493.333, 103.196 467.72, 99.9512 452.54" fill="none" style="stroke:rgb(0,0,0);stroke-width:1" />
+  <ellipse cx="367.325" cy="278.978" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="370.622" cy="233.141" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="399.243" cy="314.176" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="404.911" cy="268.296" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="313.904" cy="89.8452" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="442.871" cy="457.003" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="379.96" cy="72.7132" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="231.847" cy="105.374" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="368.163" cy="494.809" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="505.611" cy="407.47" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="436.77" cy="174.56" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="447.3" cy="77.0217" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="156.985" cy="143.092" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="285.043" cy="257.019" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="315.234" cy="343.699" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="285.508" cy="510.201" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="567.79" cy="329.885" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="526.977" cy="224.61" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="499.637" cy="147.385" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="93.8539" cy="192.532" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="200.772" cy="285.755" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="284.458" cy="306.09" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="316.218" cy="294.62" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="229.205" cy="366.988" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="219.464" cy="527.319" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="31.4822" cy="271.324" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="72.5098" cy="375.322" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="194.625" cy="331.378" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="232.474" cy="321.516" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="162.389" cy="425.318" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="152.033" cy="522.832" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+  <ellipse cx="99.9512" cy="452.54" rx="1.42937" ry="1.42937"  style="fill:rgb(0,0,0)" />
+</svg>

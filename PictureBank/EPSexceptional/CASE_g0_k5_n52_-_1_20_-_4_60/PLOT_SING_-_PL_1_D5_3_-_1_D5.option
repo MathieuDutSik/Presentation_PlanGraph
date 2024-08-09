@@ -1,0 +1,53 @@
+&PLOT
+ PlaneFile = "PLOT_SING_-_PL_1_D5_3_-_1_D5.plane",
+ OutFile = "PLOT_SING_-_PL_1_D5_3_-_1_D5.svg",
+ ViewFile = "PLOT_SING_-_PL_1_D5_3_-_1_D5.view",
+ MAX_ITER_PrimalDual = -1,
+ MAX_ITER_CaGe = 1000,
+ CaGeProcessPolicy = 2,
+ RoundMethod = 2,
+ width = 600,
+ height = 600,
+ MethodInsert = 2,
+ ListExportFormat = "eps", 
+/
+
+
+&EDGE
+ DoMethod1 = .T.,
+ DoMethod2 = .F.,
+ DoMethod3 = .F.,
+ MultTangent = 0.5,
+ MultTangent1gon = 0.8,
+ Xexpansion1gon = 2.0,
+ Yexpansion1gon = 12.0,
+ NormalTraitSize = 1,
+ ListTraitIDE = 0,8,1,15,2,16,3,12,4,13,18,25,19,31,20,32,21,29,34,41,35,47,36,48,37,45,50,57,51,63,52,64,53,61,66,72,67,77,68,78,80,86,81,91,82,92,94,100,95,105,96,106,108,114,109,119,110,120,122,128,123,133,124,134,136,142,137,147,138,148,150,158,151,159,162,170,163,171,174,182,175,183,186,194,187,195,198,206,199,207,210,218,211,219,222,229,232,239,242,249,
+ ListTraitGroup = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ ListTraitSize = 4,
+ DefaultRGB = 0,0,0,
+ SpecificRGB_iDE = ,
+ SpecificRGB_Group = ,
+ SpecificRGB_R = ,
+ SpecificRGB_G = ,
+ SpecificRGB_B = ,
+ DoExternalArrow = .T.,
+ ScalExtensionArrow = 2,
+ LengthExtensionArrow = 0.5,
+/
+
+
+&VERT
+ NormalRadius = 0.005,
+ ListRadiusIDE = ,
+ ListRadiusGroup = ,
+ ListRadius = ,
+ DefaultRGB = 0,0,0,
+ SpecificRGB_iDE = ,
+ SpecificRGB_Group = ,
+ SpecificRGB_R = ,
+ SpecificRGB_G = ,
+ SpecificRGB_B = ,
+/
+
+
