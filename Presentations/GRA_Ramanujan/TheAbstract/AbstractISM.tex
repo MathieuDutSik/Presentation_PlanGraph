@@ -1,0 +1,80 @@
+\documentclass{amsart}
+\usepackage{amsfonts, amsmath, latexsym, epsfig}
+\usepackage{epsf}
+\usepackage{url}
+\usepackage{color}
+\title{Lattice Packings and Coverings}
+%\usepackage{vmargin}
+%\setpapersize{custom}{21cm}{29.7cm}
+%\setmarginsrb{1.7cm}{1cm}{1.7cm}{3.5cm}{0pt}{0pt}{0pt}{0pt}
+%marge gauche, marge haut, marge droite, marge bas.
+
+\author{Mathieu Dutour Sikiri\'c}
+\author{Frank Vallentin}
+\author{Achill Sch\"urmann}
+
+
+
+
+\begin{document}
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand{\N}{\ensuremath{\mathbb{N}}}
+\newcommand{\Q}{\ensuremath{\mathbb{Q}}}
+\newcommand{\C}{\ensuremath{\mathbb{C}}}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
+\newcommand{\T}{\ensuremath{\mathbb{T}}}
+\newtheorem{proposition}{Proposition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary}
+\newtheorem{lemma}{Lemma}
+\newtheorem{problem}{Problem}
+\newtheorem{conjecture}{Conjecture}
+\newtheorem{claim}{Claim}
+\newtheorem{remark}{Remark}
+\newtheorem{definition}{Definition}
+%\newcommand{\qed}{\hfill $\Box$ }
+%\newcommand{\proof}{\noindent{\bf Proof.}\ \ }
+
+\maketitle
+
+
+
+A family of balls in Euclidean space is called a packing if for
+any two balls $B$ and $B'$ their interior do not self-intersect. It is called
+a covering if every point belong to at least one ball.
+
+We focus here on packings and coverings for which the calls are of the form
+$x + B(0,R)$ with $x$ belonging to a lattice $L$.
+If $L$ is fixed then we adjust the
+value of $R$ to a value $R_0$ to find the best packing. Alternatively we can
+adjust the value of $R$ to a value $R_1$ to find the best covering. This allows
+us to define the packing density $pack(L)$ and covering density $cov(L)$ of $L$.
+
+The geometry of the function pack on the space of lattices has been
+elucidated by Minkowski, Voronoi and Ash. They showed that the function
+$pack$ has no local minimum, that it is a Morse function and they give
+a characterization of the local maximum in terms of the algebraic notions
+of perfection and eutaxy.
+
+The covering function $cov$ is much more complex. It has local minimum and
+local maximum. We prove that it is not a Morse function.
+The natural optimization problem for covering is to find local minima of
+$cov$ but we show that the local covering maxima of $cov$ are also interesting.
+In particular we prove the following theorem:
+\begin{theorem}
+A lattice $L$ is a covering maxima if and only if all of its Delaunay polytopes of maximal circumradius are perfect and eutactic.
+\end{theorem}
+Examples of perfect and eutactic Delaunay polytopes
+are $2_{21}$ in $3_{21}$ in the
+root lattices $E_6$ and $E_7$, which are thus local covering maxima.
+
+
+
+
+\end{document}
+
+
+
+
+
+

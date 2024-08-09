@@ -1,0 +1,552 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <!-- ENTER  PAGE TITLE  HERE -->
+    <title>Mathematics Seminar at NUI Galway</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+    <link rel="stylesheet" href="http://www.maths.nuigalway.ie/style.css" type="text/css"/>
+    <link rel="stylesheet" href="seminar.css" type="text/css"/>
+      <link rel="shortcut icon" href="/favicon.ico" />
+
+<style>
+</style>
+  </head>
+  
+<body>
+      
+    
+    <!-- DOTS -->
+<div id="dots">
+<!-- CONTAINER -->
+<div id="container">  
+<!-- CHANGEABLE -->
+<div id="changeable"> 
+
+<!-- TOP-BAR -->     <!-- this is the gaelic, text, zoom etc. line -->
+<div id="topbar">
+<span id="topbartext">
+  <a title="Leagan Gaeilge" href="http://www.nuigalway.ie/generic/language_toggle.php?language=gaeilge"><img src="/images/language_grey.png" alt="Leagan Gaeilge" width="11" height="11" /> Leagan Gaeilge</a> &nbsp;
+  <a title="Text Version" href="http://www.nuigalway.ie/parser.php"><img src="/images/text_grey.png" alt="Text Icon" width="11" height="11" /> Text Version</a> &nbsp;
+
+<!--  <span id="changeFont">
+    <img src="/images/display_grey.png" alt="Display Icon" width="11" height="11" /> Display: Zoom
+      <span id="reduceFont">
+	<span id="reduceFontButton" class="cursorlinked" title="Zoom Out -">(-)</span>
+      </span>
+      <span id="increaseFont">
+	<span id="increaseFontButton" class="cursorlinked" title="Zoom In +">(+)</span>
+      </span>
+  </span>
+
+  <span id="changeStyle">
+    &nbsp; View ( <span id="cssColour" class="cursorlinked" title="Normal View"> Normal</span> <span id="cssHiContrast" class="cursorlinked" title="High Contrast View"> High contrast</span> )
+  </span>
+-->
+</span> <!-- id="topbartext" -->
+
+<span id="topbartextright">
+   <a accesskey="p" title="Printer Friendly [access key 'p']" href="http://www.nuigalway.ie/includes/skins/2005/php/printerfriendly.php" target="_blank"><img src="/images/print_box_grey.png" alt="Printer Friendly Version" width="11" height="11" /> Printer Friendly</a>&nbsp;
+   <a accesskey="m" title="Sitemap [access key 'm']" href="http://www.nuigalway.ie/sitemap.php"><img src="/images/sitemap_box_grey.png" alt="Sitemap icon" width="11" height="11" /> Sitemap</a> 
+</span>
+</div> <!-- id="topbar" -->
+<!-- END TOP-BAR (selfcontained) --> 
+	
+
+<!-- LOGO-IMAGE -->   <!-- the logo and picture -->
+<div class="linedots"><img alt="spacer" src="/images/spacer.png" height="1" /></div> 
+
+<div id="logoimage" style="background-image: url(/images/headers/14.jpg)" >
+  <a title="NUI Galway Home Page" href="http://www.nuigalway.ie/"><img alt="NUI Galway Logo" src="/images/logos/logo.png" /></a>
+</div>
+
+  <div id="browserWarning" class="errormessage"> <img src="http://www.nuigalway.ie/cms/images/caution.png" alt="Warning Icon" /> <p><strong>Warning:</strong> Your browser doesn't support all of the features in this Web site. Please view our <a title="NUI Galway Accessibility Information" href="http://www.nuigalway.ie/accessibility.php">accessibility page</a> for more details.</p></div>
+</div>
+<!-- END LOGO-IMAGE (selfcontained)-->
+  
+
+<!-- BREADCRUMB -->
+<div id="breadcrumb">
+<div id="searcharea"><img alt="You are here" class="breadcrumbimage" src="/images/breadcrumb_youarehere.png" /></div>
+<div id="breadcrumbwide"><span class="verdanabold">
+<a title="NUI Galway Home Page" href="http://www.nuigalway.ie/">Home</a> &gt; 
+<a title="Colleges/Faculties &amp; Departments" href="http://www.nuigalway.ie/faculties_departments/">Colleges &amp; Schools</a> &gt;
+<a title="School of Mathematics, Statistics and Applied Mathematics" href="http://www.msam.nuigalway.ie">Mathematics, Statistics and Applied Mathematics</a> &gt;
+<a title="Mathematics" href="http://www.maths.nuigalway.ie">Mathematics</a>
+</span>
+<span class="breadcrumbimage"><img alt="Colleges/Faculties &amp; Departments" src="/images/arrows/facdept_breadcrumb.png" /></span></div></div>
+<!-- END BREADCRUMB (selfcontained) -->
+
+
+<!-- LEFTBAR-BODY-RIGHTBAR -->
+<div id="navcon">
+  
+<!-- LEFTBAR -->
+<div id="leftbar">
+  <div id="prinav">
+
+    <ul id="sidenav">
+    <li id="navhome"><a accesskey="1" tabindex="3" title="NUI Galway Home Page [access key '1']" href="http://www.nuigalway.ie/">NUI Galway Home</a></li>
+<!---    <li id="navfacdept"><a accesskey="4" tabindex="2" title="Colleges and Schools [access key '4']" href="http://www.nuigalway.ie/faculties_departments">Colleges &amp; Schools</a></li>-->
+    <li class="LI"><a title="School of Mathematics, Statistics and Applied Mathematics" href="http://www.msam.nuigalway.ie/">School of Mathematics, Statistics and Applied Mathematics</a></li>
+    <li class="activeLI"><a class="active" title="Mathematics Department" href="http://www.maths.nuigalway.ie/">Mathematics Department</a>
+
+      <!-- CHANGEABLE NAVIGATION MENU inserted by script -->
+
+      <ul>
+<li><span class="youarehere"></span>
+<a  title="Welcome &amp; News" href="http://www.maths.nuigalway.ie/">Welcome &amp; News</a>
+</li>
+<li><span class="youarehere"></span>
+<a  title="People" href="http://www.maths.nuigalway.ie/staff">People</a>
+</li>
+<li><span class="youarehere"></span>
+<a class="open" title="Research" href="http://www.maths.nuigalway.ie/research/">Research</a>
+<ul>
+<li><span class="youarehere"></span>
+<a class="open" title="Departmental Seminars" href="http://www.maths.nuigalway.ie/research/seminar.html">Departmental Seminars</a>
+</li>
+<li><span class="youarehere"></span>
+<a  title="Preprint Archive" href="http://www.maths.nuigalway.ie/research/Preprints/">Preprint Archive</a>
+</li>
+<li><span class="youarehere"></span>
+<a  title="PhD Students" href="http://www.maths.nuigalway.ie/research/phds/">PhD Students</a>
+</li>
+</ul>
+</li>
+<li><span class="youarehere"></span>
+<a  title="Future Students" href="http://www.maths.nuigalway.ie/pstudents/">Future Students</a>
+</li>
+<li><span class="youarehere"></span>
+<a  title="Current Students" href="http://www.maths.nuigalway.ie/cstudents/">Current Students</a>
+</li>
+<li><span class="youarehere"></span>
+<a  title="De Brun Centre" href="http://hamilton.nuigalway.ie/DeBrunCentre/">De Brun Centre</a>
+</li>
+<li><span class="youarehere"></span>
+<a  title="SFI BIO-SI" href="http://www.ul.ie/bio-si/">SFI BIO-SI</a>
+</li>
+<li><span class="youarehere"></span>
+<a  title="Conferences" href="http://www.maths.nuigalway.ie/conferences/">Conferences</a>
+</li>
+<li><span class="youarehere"></span>
+<a  title="Photos" href="http://www.maths.nuigalway.ie/photos/">Photos</a>
+</li>
+<li><span class="youarehere"></span>
+<a  title="Links" href="http://www.maths.nuigalway.ie/links.shtml">Links</a>
+</li>
+<li><span class="youarehere"></span>
+<a  title="Vacancies" href="http://www.maths.nuigalway.ie/vacancies/">Vacancies</a>
+</li>
+<li><span class="youarehere"></span>
+<a  title="Intranet" href="https://croever.nuigalway.ie/math-intranet/local/">Intranet</a>
+</li>
+</ul>
+
+      
+      <!-- END OF CHANGEABLE MENU -->
+    </li>
+    </ul>
+  </div>
+  <div id="linkSearch">
+    <div id="linkSearchTitle">&nbsp;&nbsp;Search Web Site<a href="#" class="whatisthis">&nbsp;&nbsp;&nbsp;&nbsp;[?]<span><strong>WHAT IS THIS?</strong><br />Performs a not very reliable search of the Web site and displays results in a new window.</span></a></div>
+    <form id="linkSearchForm" action="http://search.nuigalway.ie/search" method="get">
+
+      <label for="quickSearchBox"><input id="quickSearchBox" type="text" name="q" /></label>
+      <label for="goButton"><input id="goButton" name="btnG" type="image" value="Go" src="http://www.nuigalway.ie/images/go_button.png" alt="Go Button" class="button" /></label>
+      <input type="hidden" name="site" value="default_collection" />
+      <input type="hidden" name="client" value="default_frontend" />
+      <input type="hidden" name="output" value="xml_no_dtd" />
+      <input type="hidden" name="proxystylesheet" value="default_frontend" />
+    </form>
+ </div>
+</div> 
+<!-- END LEFTBAR (selfcontained)-->
+
+
+<!-- BODY -->
+<div id="bodywide">
+
+	    
+    <!-- ENTER PAGE CONTENTS BELOW HERE -->
+
+<h1>Mathematics, Statistics and applied Mathematics Seminar 2009/10</h1>
+
+The seminar usually takes place on <b>Thursdays</b> from <b>3.45pm</b> to <b>4.45pm</b> in room <b>C219</b> of the School of Mathematics, Statistcs and Applied Mathematics, which is located in &Aacute;ras de Br&uacute;n (Block C).
+<br/>&nbsp;&nbsp;
+The talks are directed towards a general mathematical audience and everyone interested is very welcome to attend. Tea/coffee and pastries will be available in C108 from 3.15pm.
+<br/>&nbsp;&nbsp;
+Previous seminars are listed <a href="http://www.maths.nuigalway.ie/research/08-09seminar/seminar.shtml">here</a>.
+<p/>
+Abstracts when available can be obtained by rolling the mouse over a title. Clicking a title sometimes provides a longer version of the talk in PDF format.
+
+<h2>Semester II</h2>
+
+  <table id="seminar">
+<tr><th>Date</th><th>Speaker</th><th>Title</th><th>Contact</th></tr>
+<tr>
+<td class="date">Jan 14</td>
+<td class="speaker">Edwin O'Shea<br/>Galway</td>
+<td class="title"><a class="abstract" href="">Algebraic methods in discrete optimisation<span>We will discuss recent developments in the use of Groebner
+bases of toric varieties and the Rees algebras of monomial ideals in
+discrete optimisation. We will place particular emphasis on how each
+method provides new results and new ways of thinking about central
+problems in discrete optimisation. We will close with an application 
+to statistical disclosure limitation. Rather than describing the algebraic
+content head on we will instead provide geometric and combinatorial
+descriptions of these techniques. No former background in computational 
+algebra or discrete optimisation will be assumed.</span></a></td>
+<td class="contact"></td>
+</tr>
+<tr>
+<td class="date">Jan 21</td>
+<td class="speaker">Thomas Waters<br/>Galway</td>
+<td class="title"><a class="abstract" href="">Chaotic geodesics on a certain class of surfaces<span>The equations defining geodesic curves on surfaces admit a Hamiltonian formulation. A natural 
+question which arises is that of integrability. By combining numerical and analytical techniques we are 
+able to prove that the geodesic equations of a class of surfaces defined in terms of the spherical 
+harmonics are not integrable, and that there are chaotic regions of phase space. This talk will combine 
+elements of differential geometry, dynamical systems, and group theory, and will not assume any previous knowledge.</span></a></td>
+<td class="contact"></td>
+</tr>
+<tr>
+<td class="date">Jan 28</td>
+<td class="speaker">Niall Horgan<br/>Virginia</td>
+<td class="title"><a class="abstract" href="">Nonlinear elasticity theory: a rich source of interesting mathematical problems<span>Continuum mechanics theories for solids and fluids have played a significant role 
+in the development of many areas of applied mathematics. For example, the classical theory of 
+linear elasticity, applicable to the mechanical behaviour of metals, has been an important 
+motivation for the study of important linear partial differential equations and systems of 
+such equations. Here we describe how the nonlinear theory of hyperelastic materials, 
+applicable to the mechanical behaviour of rubber and soft biological tissues, plays 
+an analogous role. The basic theory of continuum mechanics of such materials is first 
+reviewed. Some classical models relating stress and strain in rubber-like materials are 
+described as well as more recent models applicable to biomaterials. Some particular 
+deformation modes are then described leading to the governing quasilinear partial 
+differential equations and systems of such equations. This lecture is of expository 
+nature and assumes no prior familiarity with continuum mechanics theories. The main 
+objective is to demonstrate that nonlinear elasticity theory, in addition to being 
+a fundamental continuum mechanics theory applicable to a wide variety of materials, 
+continues to provide a rich source of interesting and challenging mathematical problems.</span></a></td>
+<td class="contact">John Newell</td>
+</tr>
+<tr>
+<td class="date">Feb 1<br/><font color="red">Monday 9.10am</font>
+</td>
+<td class="speaker">David Quinn<br/>Galway</td>
+<td class="title"><a class="abstract" href="">Three Problems in Algebraic Combinatorics</a></td>
+<td class="contact"></td>
+</tr>
+<tr>
+<td class="date">Feb 1<br/><font color="red">Monday 3.10pm</font>
+</td>
+<td class="speaker">Volkmar Welker<br/>Marburg</td>
+<td class="title"><a class="abstract" href="">Random to Random Shuffles and Commuting Families of Matrices<span>We describe a family of matrices with rows and columns indexed by permutations. The entries generalize the inversion statistics on the symmetric group. These matrices are not only related to the inversion statistics but also are scaled versions of the transition matrices of Markov chains generalizing the random to random shuffle and can be factored into projections on a polytope generalizing the linear ordering polytope. We show some of the beautiful properties of these matrices. In particular, we study the algebra generated by the matrices, which can be seen as a subalgebra of the group algebra of the symmetric group. Finally we describe a generalization of the matrices within the symmetric group and for general finite Coxeter groups. (this is joint work with Franco Saliola and Vic Reiner).</span></a></td>
+<td class="contact">Graham Ellis</td>
+</tr>
+<tr>
+<td class="date">Feb 4</td>
+<td class="speaker">Michael McGettrick<br/>Galway</td>
+<td class="title"><a class="abstract" href="">Quantum Random Walks with Memory<span>We investigate the quantum versions of a one-dimensional random walk, whose corresponding Markov Chain is of order 2 (this corresponds to the walk having a memory of its previous step). We derive the amplitudes and probabilities for these walks, and point out how they differ from both Classical Random Walks, and Quantum Walks without memory. We prove localization for a particular example of the walk with memory. The talk will involve aspects of mathematics, physics and computer science.</span></a></td>
+<td class="contact"></td>
+</tr>
+<tr>
+<td class="date">Feb 11</td>
+<td class="speaker">Ruth Charney<br/>Boston</td>
+<td class="title"><a class="abstract" href="">Right-angled Artin groups and their Automorphisms<span>Associated to any Coxeter group is an infinite group known as an Artin group. The Artin groups associated to right-angled Coxeter groups have proved to be particularly interesting from both an algebraic and geometric viewpoint. We will discuss these groups, their automorphism groups, and their associated geometries.</span></a></td>
+<td class="contact">Graham Ellis</td>
+</tr>
+<tr>
+<td class="date">Feb 18</td>
+<td class="speaker">Thomas Unger<br/>Dublin</td>
+<td class="title"><a class="abstract" href="">The Procesi-Schacher conjecture and Hilbert's 17th problem for algebras with involution<span>In 1976 Procesi and Schacher developed an Artin-Schreier type theory for central simple algebras with involution and conjectured that in such an algebra a totally positive element is always a sum of hermitian squares. I will present elementary counterexamples to this conjecture and some cases where the conjecture does hold. This is joint work with Igor Klep.</span></a></td>
+<td class="contact">Rachel Quinlan</td>
+</tr>
+<tr>
+<td class="date">Feb 25</td>
+<td class="speaker">John Cosgrave<br/>Dublin</td>
+<td class="title"><a class="abstract" href="">Gauss-Jacobi advances<span>In [1], introducing the notion of a Gauss factorial, we gave the first extension of Gauss's generalisation of Wilson's theorem (Disquisitiones Arithmeticae, 1801); [1] extended, to composite moduli, work which began with Lagrange in 1777 and ended with Mordell in 1961. <br> 
+
+In 1828 Gauss proved his beautiful mod p binomial coefficient congruence, and in 1837 Jacobi proved his closely related mod p congruence. The former concerns primes (5, 13, 17, 29...) that are 1 (mod 4), the latter primes (7, 13, 19, 31 ... ) that are 1 (mod 3). <br>
+
+In a 1983 Paris seminar Frits Beukers conjectured a mod p^{2} extension of Gauss' congruence, which was settled by S. Chowla, B. Dwork and R. Evans (1986). R. Evans and K. M. Yeung independently proved (late 1980's) a mod p^{2}  extension of Jacobi's congruence. <br>
+
+No mod p^{3} extension of either Gauss's or Jacobi's congruences had been conjectured until 2007, when -- as an outcome of our investigations of one very special class of Gauss factorials -- we formulated and proved mod p^{3} extensions of both the Gauss and Jacobi congruences. <br>
+
+In this entirely elementary talk I shall treat all of this. <br><br>
+
+References.<br>
+
+[1] John B. Cosgrave and Karl Dilcher, Extensions of the Gauss-Wilson theorem, INTEGERS: ELECTRONIC JOURNAL OF COMBINATORIAL NUMBER THEORY, 8, (2008), #A39 (http://www.integers-ejcnt.org/vol8.html) <br>
+
+[2] John B. Cosgrave and Karl Dilcher, MOD ^{3}$ ANALOGUES OF THEOREMS OF GAUSS AND JACOBI ON BINOMIAL COEFFICIENTS. Acta Arithmetica (to appear)</span></a></td>
+<td class="contact">Ted Hurley</td>
+</tr>
+<tr>
+<td class="date">Mar 4</td>
+<td class="speaker">Sebastian Franz<br/>Limerick</td>
+<td class="title"><a class="abstract" href="">The Capriciousness of Numerical Methods for Singular  Perturbations<span>Singularly perturbed problems occur in a number of different models in fluid
+dynamics, such as linearised Navier-Stokes and Oseen equations, in
+semiconductor device simulation and flows in chemical reactions. The
+understanding of numerical methods applied to these models is important in
+order to solve them numerically. 
+In this talk we will see a collection of typical examples showing the
+unexpected behaviour of numerical methods when applied to singular
+perturbation problems.
+Not only on standard equidistant meshes, but even on layer-adapted meshes
+several surprising phenomena are shown to occur. We will discuss and analyse
+them.</span></a></td>
+<td class="contact">Niall Madden</td>
+</tr>
+<tr>
+<td class="date">Mar 11</td>
+<td class="speaker">Eimear Byrne<br/>Dublin</td>
+<td class="title"><a class="abstract" href="">The Linear Programming Bound for Codes Over Rings<span>In classical algebraic coding theory the linear programming bound
+is one of the most powerful and restrictive bounds for the existence of
+both linear and non-linear codes defined over finite fields.
+One viewpoint in establishing the LP-bound comes from MacWilliams'
+theorem relating the weight enumerator of a code with its formal dual.
+In this talk we discuss generalizations of this bound for block codes over
+finite Frobenius rings.</span></a></td>
+<td class="contact">Edwin O'Shea</td>
+</tr>
+<tr>
+<td class="date">Mar 18</td>
+<td class="speaker"><br/></td>
+<td class="title"><a class="abstract" href=""></a></td>
+<td class="contact"></td>
+</tr>
+<tr>
+<td class="date">Mar 22<br/><font color="red">Monday 5.00pm</font>
+</td>
+<td class="speaker">Des MacHale<br/>Cork</td>
+<td class="title"><a class="abstract" href="">Some of my favourite mathematics puzzles</a></td>
+<td class="contact">Edwin O'Shea</td>
+</tr>
+<tr>
+<td class="date">Mar 25</td>
+<td class="speaker"><br/></td>
+<td class="title"><a class="abstract" href=""></a></td>
+<td class="contact"></td>
+</tr>
+<tr>
+<td class="date">Apr 22</td>
+<td class="speaker"><br/></td>
+<td class="title"><a class="abstract" href="">School Research Day</a></td>
+<td class="contact"></td>
+</tr>
+<tr>
+<td class="date">Apr 29</td>
+<td class="speaker">Ken Duffy<br/>Maynooth</td>
+<td class="title"><a class="abstract" href=""></a></td>
+<td class="contact">Cathal Seoighe</td>
+</tr>
+</table>
+
+
+<h2>Semester I</h2>
+<table id="seminar">
+<tr><th>Date</th><th>Speaker</th><th>Title</th><th>Contact</th></tr>
+<tr>
+<td class="date">Sep 10</td>
+<td class="speaker">Chris Leininger<br/>Urbana-Champaign</td>
+<td class="title"><a class="abstract" href="">Homeomorphisms of surfaces and dynamics<span>We will start by describing a standard measure of the dynamics of a
+homeomorphism of a surface.  For a certain generic class of
+homeomorphisms, we will discuss how this measure relates to algebraic and
+topological properties.</span></a></td>
+<td class="contact">Javier Aramayona</td>
+</tr>
+<tr>
+<td class="date">Sep 17</td>
+<td class="speaker">Kevin Jennings<br/>Galway</td>
+<td class="title"><a class="abstract" href="">A dissection of an abelian (341,85,21) difference set<span>A (perfect) difference set is a subset D of a group such that each nonidentity element of the group has exactly L representations as a difference ab^{-1} where a and b are in D. In this talk I will focus on a difference set with 85 elements in a group of order 341. L=21 in this case and this difference set exists, belonging to a classical family. <br>
+This group has a subgroup of order 31 and we can show by a few different arguments that there are 15 elements from the normalized difference set in this subgroup. (arguments range from basic counting, to looking at the orbits of the Hall multiplier, to simple applications of more technical combinatoric arguments). Unfortunately, I can not establish that these 15 elements must a priori express each element of this subgroup exactly 7 times i.e. that there is a (31,15,7)-difference set embedded in this larger difference set. This is the problem I will discuss.<br>
+In this talk I will give an overview of the known techniques for attacking such a problem, and explain briefly where this particular case might lead and why it is interesting. The talk will be elementary and I will keep it as non-technical as possible. The problem posed is low-hanging fruit.</span></a></td>
+<td class="contact"></td>
+</tr>
+<tr>
+<td class="date">Sep 21<br/><font color="red">Monday 9.15am</font>
+</td>
+<td class="speaker">Ian McLoughlin<br/>Galway</td>
+<td class="title"><a class="abstract" href="">Dihedral Codes</a></td>
+<td class="contact"></td>
+</tr>
+<tr>
+<td class="date">Sep 21<br/><font color="red">Monday 2.00pm</font>
+</td>
+<td class="speaker">Bent J&oslash;rgensen<br/>Odense</td>
+<td class="title"><a class="abstract" href="">Efficient Estimation for Incomplete Multivariate Data<span>We compare the Fisher scoring and EM algorithms for incomplete multivariate data, and investigate the corresponding estimating functions under second-moment assumptions. We propose a hybrid algorithm, where Fisher scoring is used for the mean vector and the EM algorithm for the covariance matrix. A bias-corrected estimate for the covariance matrix is obtained. This is joint work with Hans Chr. Petersen.</span></a></td>
+<td class="contact">John Hinde</td>
+</tr>
+<tr>
+<td class="date">Sep 24</td>
+<td class="speaker">James Gleeson<br/>Limerick</td>
+<td class="title"><a class="abstract" href="">Cascade dynamics on complex networks<span>Network models underlie many complex systems, e.g. the Internet, the World Wide Web, gene-regulatory networks, etc.  Cascade dynamics can occur when the (binary) state of a node is affected by the states of its neighbours in the network. Such models have been used to aid understanding of the spread of cultural fads and the diffusion of innovations, and can be generalized to include percolation problems, k-core sizes, and the study of (SIR-type) epidemics on networks. For this class of problems, I present recent results on the analytic determination of the expected size of cascades on networks of arbitrary degree distribution, and outline extensions and applications of this research.</span></a></td>
+<td class="contact">Petri Piiroinen</td>
+</tr>
+<tr>
+<td class="date">Oct 1</td>
+<td class="speaker">Brian Marx<br/>Baton Rouge</td>
+<td class="title"><a class="abstract" href="">Variations on the Varying Coefficient Model<span>Although the literature on varying coefficient models (VCMs) is vast, we believe that there remains room to make these models more widely accessible and provide a unified and practical implementation for a variety of complex data settings. The adaptive nature and strength of P-spline VCMs allow for a full range of models: from simple to additive structures, from standard to generalized linear models, from one-dimensional coefficient curves to two-dimensional (or higher) coefficient surfaces, among others, including bilinear models and signal regression. As P-spline VCMs are grounded in classical or generalized (penalized) regression, fitting is swift and desirable diagnostics are available. We will see that in higher dimensions, tractability is only ensured if efficient array regression approaches are implemented. We also motivate our approaches through several examples to highlight the breadth and utility of our approach.
+</span></a></td>
+<td class="contact">John Hinde</td>
+</tr>
+<tr>
+<td class="date">Oct 8</td>
+<td class="speaker">Cyril Lecuire<br/>Toulouse</td>
+<td class="title"><a class="abstract" href="">Convex cores of hyperbolic 3-manifolds<span>The study of 3-dimensional hyperbolic manifolds with infinte volume can
+be reduced to the study of their convex cores. I will explain how the
+volume of such a convex core is related to its end invariants, in
+contrast with the 2-dimensional case.</span></a></td>
+<td class="contact">Javier Aramayona</td>
+</tr>
+<tr>
+<td class="date">Oct 14<br/><font color="red">Wednesday 3.00pm</font>
+</td>
+<td class="speaker">Efim Zelmanov<br/>San Diego</td>
+<td class="title"><a class="abstract" href="http://larmor.nuigalway.ie/~detinko/Zelmanov.htm">Asymptotic properties of finite groups and finite dimensional algebras<span>This is a public lecture to be held in the NCBES Seminar Room at 3pm</span></a></td>
+<td class="contact">Dane Flannery</td>
+</tr>
+<tr>
+<td class="date">Oct 22</td>
+<td class="speaker"><br/></td>
+<td class="title"><a class="abstract" href="">Student Autumn Graduations<span>Students' graduations will be from 2:30pm till 5:30pm</span></a></td>
+<td class="contact"></td>
+</tr>
+<tr>
+<td class="date">Oct 29</td>
+<td class="speaker">Natalia Iyudu<br/>Belfast</td>
+<td class="title"><a class="abstract" href="">Quadratic algebras: the Anick conjecture, representation spaces and Novikov structures<span>I will explain new results on the Anick conjecture (1983) on attaining of the Golod-Shafarevich estimate for the Hilbert series of quadratic algebras. Then I mention some results which describe representation spaces of one quadratic algebra, well-known in non-commutative geometry: Jordan algebra. These include classifcation of irreducible components of the space of n-dimensional representations. As a consequence, the number of irreducible components turned out to be equal to the number of partitions of n. If time permits I also explain a surprising connection between representation theory of quadratic algebras with questions on existance of Novicov structures, prominent by their appearance in the study of Poisson brackets of hydrodynamic type in integrable systems and by their connections to the conformal Lie theory.
+</span></a></td>
+<td class="contact">Alexander Zuevsky</td>
+</tr>
+<tr>
+<td class="date">Nov 5</td>
+<td class="speaker">Viacheslav V. Nikulin<br/>Liverpool</td>
+<td class="title"><a class="abstract" href="">On classification of arithmetic hyperbolic reflection groups.<span>I would like to speak about old and new results on
+finiteness and classification of arithmetic groups generated by reflections
+(in hyperplanes) of hyperbolic spaces.</span></a></td>
+<td class="contact">Alexander Zuevsky</td>
+</tr>
+<tr>
+<td class="date">Nov 12</td>
+<td class="speaker">Stephen Wills<br/>Cork</td>
+<td class="title"><a class="abstract" href="">Markov processes and semigroups and their noncommutative counterparts<span>I will outline the connections between Markov processes (memory-less
+stochastic processes) and semigroups in the classical theory, before
+going on to explain their noncommutative counterparts in quantum
+probability. A large part of the talk will be devoted to discussing how
+to produce a quantum Markov process from a given quantum Markov
+semigroup, the problems one typically encounters, and how these have
+recently been overcome for (some cases of) the quantum exclusion
+process.</span></a></td>
+<td class="contact">Edwin O'Shea</td>
+</tr>
+<tr>
+<td class="date">Nov 17<br/><font color="red">Tuesday 3.00pm</font>
+</td>
+<td class="speaker">Alexander Rahm<br/>Grenoble</td>
+<td class="title"><a class="abstract" href="">The integral homology of PSL_2 of imaginary quadratic integers with
+non-trivial class group<span>We show that a cellular complex described by Floege allows to determine
+the integral homology of the Bianchi groups PSL_2(O_{-m}), where
+O_{-m} is the ring of integers of an imaginary quadratic number field
+Q[\sqrt{-m}] for a square-free natural number m. We use this to
+compute the integral homology in the cases m = 5, 6, 10, 13 and 15, which
+before was known only in the cases of trivial class group m = 1, 2, 3, 7
+and 11.</span></a></td>
+<td class="contact">Graham Ellis</td>
+</tr>
+<tr>
+<td class="date">Nov 19</td>
+<td class="speaker">Jim Anderson<br/>Southampton</td>
+<td class="title"><a class="abstract" href="">Small filling sets of curves on surfaces<span>This talk is about joint work with Hugo Parlier and Alexandra Pettet.   The
+general problem we are considering is the structure of sets of simple closed
+curves on a closed surface that fill; that is, sets of curves whose
+complement is the union of (topological) discs.  I will give a brief history
+of where and why the question arose and discuss our first results, which
+involve bounding the minimal number of curves in a set of filling curves.</span></a></td>
+<td class="contact">Javier Aramayona</td>
+</tr>
+<tr>
+<td class="date">Nov 26</td>
+<td class="speaker">Mathieu Dutour<br/>Zagreb</td>
+<td class="title"><a class="abstract" href="">Lattice Packings and Coverings<span>A family of balls in Euclidean space is called a packing if for
+any two balls B and B' their interior do not self-intersect. It is called
+a covering if every point belong to at least one ball.<br>
+
+We focus here on packings and coverings for which the calls are of the form
+x + B(0,R) with x belonging to a lattice L. If L is fixed then we adjust the
+value of R to a value R0 to find the best packing. Alternatively we can
+adjust the value of R to a value R1 to find the best covering. This allow
+us to define the packing density pack(L) and covering density cov(L) of L.<br>
+
+The geometry of the function pack on the space of lattices has been
+elucidated by Minkovski, Voronoi and Ash. They showed that the function
+pack has no local minimum, that it is a Morse function and they give
+a characterization of the local maximum in terms of the algebraic notions
+of perfection and eutaxy.<br>
+
+The covering function cov is much more complex. It has local minimum and
+local maximum and it is not a Morse function. We also characterize the
+local maximum of the covering density in terms of the corresponding notions
+of perfection and eutaxy this time for Delaunay polytope.</span></a></td>
+<td class="contact">Graham Ellis</td>
+</tr>
+<tr>
+<td class="date">Dec 3</td>
+<td class="speaker">Jochen Einbeck<br/>Durham</td>
+<td class="title"><a class="abstract" href="">Data compression and regression based on local principal curves and surfaces.<span>
+In a  multivariate regression problem with p-dimensional predictor space, the intrinsic dimensionality of the latter is often far smaller than p, sometimes even just one or two.  Usual modelling attempts such as the additive model,  which try to reduce the complexity of the regression problem by making additional structural assumptions,  are then inefficient  as they ignore the inherent structure of the predictor space and involve complicated model and variable selection stages. <br><br>
+
+In a fundamentally different approach,  one may consider first approximating the predictor space by a (usually nonlinear) curve, and then regressing the response only against the one-dimensional projections onto this curve. This entails the reduction from a p- to a one- dimensional regression problem.   As a tool for the compression of the predictor space we apply local principal curves.  We show how local principal curves can be parametrized and how the projections are obtained. The actual regression step can then be carried out using any nonparametric smoother.  If the intrinsic dimension of the predictor space is 2 (or more), one needs to replace the local principal curve by an adequate structure of higher dimension.  We demonstrate how the idea of local principal curves can be extended towards local principal surfaces (or manifolds) through relatively simple means. The proposed techniques are illustrated using astronomical and oceanographic data examples.</span></a></td>
+<td class="contact">John Newell</td>
+</tr>
+</table>
+
+<div id="space">&nbsp</div>
+<div id="space">&nbsp</div>
+	<!-- END PAGE CONTENTS -->
+	</div>
+<!-- END BODY (selfcontained)-->
+
+</div>
+<!-- END LEFTBAR-BODY-RIGHTBAR (navcon) (selfcontained) -->
+  
+<!-- FOOTER -->
+<div id="footer">
+  <div id="footerleft"></div>
+  <div id="footerright">
+    <ul>
+    <li><a title="Disclaimer" href="http://www.nuigalway.ie/disclaimer.php">Disclaimer</a></li>
+    <li><a title="Privacy" href="http://www.nuigalway.ie/privacy.php">Privacy</a></li>
+    <li><a title="Copyright" href="http://www.nuigalway.ie/copyright.php">Copyright</a></li>
+    <li><a title="Accessibility [access key '0']" accesskey="0" href="http://www.nuigalway.ie/accessibility.php">Accessibility</a></li>
+    </ul>
+  </div>
+</div>
+
+<div id="valid">
+  Department of Mathematics
+  <br />National University of Ireland, Galway, University Road, Galway, Ireland.
+  <br />Phone: +353 (0)91 492332 (direct) , +353 (0)91 524411 x2332 (switchboard)
+  <br />Fax: +353 (0)91 494542&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Email: <a href="mailto:Mary.Kelly@nuigalway.ie">Mary.Kelly@nuigalway.ie</a>
+  
+  <br /><span class="arialblacksmall">This page was last updated Friday, December 18</span>
+
+</div>
+<!-- END FOOTER -->
+	
+</div>
+<!-- END CHANGEABLE -->
+
+</div>  
+<!-- END CONTAINER -->
+
+<!-- BOTTOM SPACER -->
+<div id="pagebottom"><img src="/images/spacer.png" height="1" width="5" alt="Bottom of Page" />
+
+<!-- END BOTTOM SPACER -->
+</div>
+
+<!-- END DOTS -->
+
+
+</body>
+</html>
