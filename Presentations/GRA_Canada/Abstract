@@ -1,0 +1,17 @@
+Title: zigzags and central circuits for 3- or 4-valent plane graphs
+Abstract: A central circuit in a 4-valent plane graph is a circuit
+of edges, such that no two consecutive edges belong to the same face.
+A zigzag in a 3-valent plane graph is a circuit of edges, such that
+any two, but no three, consecutive edges belong to the same face.
+
+Using the work of the Bielefeld school, we investigated the zigzag
+and central-circuit structure of 3- or 4-valent plane graphs, whose
+faces have gonality p or q. The case q=6 or 4 is of special interest,
+since it corresponds to faces having zero curvature.
+
+I will explain Thurston's formalism for handling those classes of
+graphs and how in the case of Goldberg-Coxeter construction, one can
+obtain the full description of the zigzag or central-circuit structure.
+
+Then, I will explain, the notion of tightness of graphs and the extremal
+problems related to it.

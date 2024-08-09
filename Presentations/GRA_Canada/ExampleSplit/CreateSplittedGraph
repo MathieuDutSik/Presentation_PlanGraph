@@ -1,0 +1,26 @@
+#
+#
+FileName:="PL_D6_7";
+PL:=ReadAsFunction(FileName)();
+PLmed:=MedialGraph(PL).PlanGraph;
+
+
+CC:=CentralCircuit(PLmed);
+for i in [1..Length(CC.ListCircuit)]
+do
+  if CC.MatrixIntersection[i][i]=0 then
+    ListDelete:=[i];
+    PLnew:=CentralCircuitDeletionHedrite(PLmed, CC, ListDelete);
+    ESE:=MedialToOriginals(PLnew);
+    LPL:=[];
+    for u in [1..2]
+    do
+      FileSave:=Concatenation(FileName, "der", String(u), "_", String(i));
+      PLinv:=ESE[u].PlanGraph;
+      PlanGraphToCaGe(FileSave, PLinv);
+      Add(LPL, PLinv);
+    od;
+    RES:=IsIsomorphicPlanGraph(LPL[1], LPL[2]);
+    Print("Result for ", i, "=", RES, "\n");
+  fi;
+od;

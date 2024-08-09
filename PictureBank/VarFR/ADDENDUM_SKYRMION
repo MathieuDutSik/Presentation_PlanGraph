@@ -1,0 +1,58 @@
+I understood what you, probably, want: to find somewhere skeletons of
+skyrmions with minimal energy, for given barionic number B (i.e.
+with 4(B-2) vertices)) and check who is face-regular, i.e. use as a
+justification for our face-reg. paper.
+
+1)B=1: sphere, symmetry O(3)
+2)B=2: torus, D_infty=O(2)xZ_2
+3)B=3: tetrahedron, T_d
+4)B=4: cube, O_h
+5)B=5: our strictly face-reg (dual Siamese  dodecahedron), D_2d
+6)B=6: Barrel_4, D_4d (strictly face-reg)
+7)B=7: Barrel 5=Dodecahedron, Y_h (they use all this notation)
+8)B=8: Barrel_6, D_6d (strictly fa ce-reg).
+17)B=17: Tr.Ico=C_60 (srtictly face-reg)
+Only for B=9,13 (within known, i.e. with B=<22) they are not fullerenes,
+but almost: there are 4-valent vertices.
+The pictures for 8<B<23 were unclear and I could not find their Schlegel
+skeletons.
+But, it seems that for B=10,11,12,15,20,21 i.e. some fullerenes F_32(D_3),
+F_36(D_3h), F_40(T_d), F_52(T), F_72(D_6d),F_76(Td), we have again
+str.face-reg...?
+----------------------------------------------------------------------
+For known minimal skyrmions, i.e. those with B=<22, face-regularity is not
+decided now only for B=15 and 2 non-fullerene cases (B=9,13):
+1)B=1: sphere, symmetry O(3)
+2)B=2: torus, D_infty=O(2)xZ_2
+3)B=3: tetrahedron, T_d
+4)B=4: cube, O_h
+5)B=5: strictly face-reg (1,2) (dual of the Siamese  dodecahedron (called
+also bidisphenoid, it is one of 8 regular-faced deltahedra ), D_2d
+6)B=6: Barrel_4, D_4d (strictly face-reg (0,4)
+7)B=7: Barrel 5=Dodecahedron, Y_h (they use all this notation for I_h)
+8)B=8: Barrel_6, D_6d (strictly face-reg (4,0)).
+10)B=10: 32:6 (D_3) from Fowler Atlas (weakly face-reg (-,1)).
+12)B=12: 40:40 (T_d) from Fowler Atlas (strictly face-reg (2,0)).
+17)B=17: Tr.Ico=C_60 (srtictly face-reg (0,3)).
+Only for B=9,13 (within known, i.e. with B=<22) they are not fullerenes,
+but almost: there are 2,6 4-valent vertices (each coming from a
+collapsing 2,6  edges in higher fullerene).
+For other pictures for B=<22, I could not find their Schlegel skeletons.
+But, just by symmetry, they are not (even weakly face-reg) for
+B=11,14,16,18-22.It can be: face-reg: (1,3) for B=15, if it is "right"
+fullerene 52:? (T).
+_____________________________________________________________
+Perhaps, add in face-reg, as a kind of justification:
+Face-regular maps are of interest for Chemistry and Physics, because many
+of them appear already there. For example, many of known polyhedral
+(energy) minimisers in Thomson problem (for given number of particles on
+sphere) or Skyrme problem (for given integer barionic number) are
+face-regular $(5,6)$-polyhedra. Face-regular $(5,7)$-planes are related
+to a putative "mettallic carbon" deformation of the graphite lattice.
+Also, for example,  all known polyhedra $P$, such that their skeleton is
+an isometric subgraph of a hypercube, have either $P$, or $P^*$
+face-regular.
+----------------------------------------------------------
+Finally, last unchecked before minimal skyrmion with B=15, is indeed
+strictly face-regular (1,3) fulleren F_{52}(T).
+----------------------------------------------------------

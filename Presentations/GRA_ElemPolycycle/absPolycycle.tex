@@ -1,0 +1,91 @@
+\documentclass[12pt]{article}
+\usepackage{amsfonts, amsmath, latexsym, epsfig}
+\usepackage{color}
+\usepackage{epsf}
+\usepackage{url}
+\pagestyle{empty}
+\title{Elementary polycycles}
+%\usepackage{vmargin}
+%\setpapersize{custom}{21cm}{29.7cm}
+%\setmarginsrb{1.7cm}{1cm}{1.7cm}{3.5cm}{0pt}{0pt}{0pt}{0pt}
+%marge gauche, marge haut, marge droite, marge bas.
+
+\setlength{\textwidth}{6.3in}
+\setlength{\textheight}{8.7in}
+\setlength{\topmargin}{0pt}
+\setlength{\headsep}{0pt}
+\setlength{\headheight}{0pt}
+\setlength{\oddsidemargin}{0pt}
+\setlength{\evensidemargin}{0pt}
+
+\makeatletter
+\newfont{\footsc}{cmcsc10 at 8truept}
+\newfont{\footbf}{cmbx10 at 8truept}
+\newfont{\footrm}{cmr10 at 10truept}
+\date{}
+\author{Michel DEZA\\
+CNRS/ENS, Paris, and Institute of Statistical Mathematics, Tokyo,\\
+\ Mathieu DUTOUR SIKIRI\'C\\
+ENS, Paris, and Institut Rudjer Bo\u skovi\'c, Zagreb\\
+\ Mikhail SHTOGRIN\\
+Steklov Mathematical Institute, Moscow.
+}
+
+
+\begin{document}
+\newcommand{\RR}{\ensuremath{\mathbb{R}}}
+\newcommand{\NN}{\ensuremath{\mathbb{N}}}
+\newcommand{\QQ}{\ensuremath{\mathbb{Q}}}
+\newcommand{\CC}{\ensuremath{\mathbb{C}}}
+\newcommand{\ZZ}{\ensuremath{\mathbb{Z}}}
+\newcommand{\TT}{\ensuremath{\mathbb{T}}}
+\newtheorem{proposition}{Proposition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary}
+\newtheorem{lemma}{Lemma}
+\newtheorem{conjecture}{Conjecture}
+\newtheorem{claim}{Claim}
+\newtheorem{remark}{Remark}
+\newtheorem{definition}{Definition}
+\newcommand{\qed}{\hfill $\Box$ }
+\newcommand{\proof}{\noindent{\bf Proof.}\ \ }
+
+\maketitle
+\thispagestyle{empty}
+
+
+\begin{abstract}
+Given $q\in \NN$ and $R\subset \NN$, a $(R,q)$-{\em polycycle} is
+a non-empty $2$-connected plane, locally finite (i.e. any circle
+contain only finite number of its vertices) graph $G$
+with faces partitioned in two non-empty sets $F_1$ and $F_2$, so that:
+
+(i) all elements of $F_1$ (called {\em proper faces}) are
+combinatorial $i$-gons with $i\in R$;
+
+(ii) all elements of $F_2$ (called {\em holes}, the exterior face(s)
+are amongst them) are pair-wisely disjoint, i.e. have no common vertices;
+
+(iii) all vertices have degree within $\{2,\dots,q\}$ and all 
+{\em interior} (i.e. not on the boundary of a hole)
+vertices are $q$-valent.
+
+Such polycycle is called {\em elliptic}, {\em parabolic} or
+{\em hyperbolic} if $\frac{1}{q} + \frac{1}{r} - \frac{1}{2}$
+(where $r={max_{i \in R}i}$)
+is positive, zero or negative, respectively.\\
+\par
+A {\em bridge} of a $(R,q)$-polycycle is an edge, which is not on a boundary
+and goes from a hole to a hole (possibly, the same).
+An $(R,q)$-polycycle is called {\em elementary} if it has no bridges.
+An {\em open edge} of a $(R,q)$-polycycle is an edge on a boundary,
+such that each of its end-vertices have degree less than $q$.
+Every $(R,q)$-polycycle is formed by the agglomeration of elementary
+$(R,q)$-polycycles along their open edges.\\
+\par
+We classify all elliptic elementary $(R,q)$-polycycles and present
+various applications of it.
+
+\end{abstract}
+\end{document}
+
