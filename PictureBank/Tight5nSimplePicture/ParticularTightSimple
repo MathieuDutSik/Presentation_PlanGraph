@@ -1,0 +1,50 @@
+RequirePackage("plangraph");
+
+idx:=8;
+ListName:=["Tight20_Ih", "Tight28_Td", "Tight48_D3", "Tight60_D3", "Tight60_Ih", "Tight76_D2d", "Tight88_T", "Tight92_Th", "Tight140_I"];
+
+
+PlanGraph:=ReadAsFunction(ListName[idx])();
+#
+GrpInfo:=GroupPlan(PlanGraph);
+Print("DutourGroup=", GrpInfo.SchoenfliesSymbol, "\n");
+Grp:=AutGroupGraph(PlanGraphToGRAPE(PlanGraph));
+ZZ:=ZigZag(PlanGraph);
+U:=ZZorbits(ZZ.ListZigZag,Grp);
+RRS:=RailRoadSequence(PlanGraph, ZZ.ListZigZag);
+INTS:=IntersectingRailRoads(PlanGraph, RRS);
+
+#
+if Length(RRS[1])=0 then
+  Print("tight graph\n");
+else
+  Print("UNtight graph\n");
+fi;
+Print("GroupSize=",Order(Grp),"\n");
+Print("z=",ZZ.Zvector,"\n");
+Print("nbZZ=",Length(ZZ.ListRaw),"\n");
+Print("Orbit=",U.SizeOrbits,"\n");
+#
+Print("Nb Railroad=",Length(RRS[1]),"\n");
+for iElt in [1..Length(RRS[1])]
+do
+  H:=SelfMatchingDirEdge(PlanGraph,RRS[1][iElt]);
+  Print("Type=",Length(H[2]),",",Length(H[3]),"\n");
+od;
+#
+
+
+
+Print("11   :",Length(INTS[1]),"\n");
+Print("112  :",Length(INTS[2]),"\n");
+Print("111  :",Length(INTS[3]),"\n");
+Print("12   :",Length(INTS[4]),"\n");
+Print("123  :",Length(INTS[5]),"\n");
+RRorb:=RRorbits(RRS, Grp);
+Print("RR orbit=",RRorb[2],"\n");
+
+PlanDual:=DualGraph(PlanGraph).PlanGraph;
+ZZdual:=ZigZag(PlanDual);
+
+
+

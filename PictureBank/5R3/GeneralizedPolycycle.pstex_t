@@ -1,0 +1,17 @@
+\begin{picture}(0,0)%
+\includegraphics{5R3/GeneralizedPolycycle.pstex}%
+\end{picture}%
+\setlength{\unitlength}{1381sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(5858,3454)(676,-3646)
+\put(676,-3511){\makebox(0,0)[lb]{\smash{{\SetFigFont{10}{12.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}boundary}%
+}}}}
+\put(5026,-3211){\makebox(0,0)[lb]{\smash{{\SetFigFont{10}{12.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}hole}%
+}}}}
+\end{picture}%

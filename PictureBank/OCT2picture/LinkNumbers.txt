@@ -1,0 +1,285 @@
+From root@math.utk.edu  Wed Dec 18 19:40:06 2002
+Received: from nef.ens.fr (nef [129.199.96.32]) by dmi.ens.fr (8.10.1/jb-1.3-180200)
+	id gBIIe3h03418 for <dutour@dmi.ens.fr>; Wed, 18 Dec 2002 19:40:03 +0100 (MET)
+Return-Path: <root@math.utk.edu>
+Received: from miro (pcp470919pcs.westk01.tn.comcast.net [68.47.195.28])
+          by nef.ens.fr (8.10.1/1.01.28121999) with ESMTP id gBIIe2B95957
+          for <Mathieu.Dutour@ens.fr>; Wed, 18 Dec 2002 19:40:02 +0100 (CET)
+Received: from root by miro with local (Exim 3.35 #1 (Debian))
+	id 18Oj6u-0000SW-00
+	for <Mathieu.Dutour@ens.fr>; Wed, 18 Dec 2002 13:40:00 -0500
+Date: Wed, 18 Dec 2002 13:40:00 -0500
+From: Morwen Thistlethwaite <morwen@math.utk.edu>
+To: Mathieu Dutour <Mathieu.Dutour@ens.fr>
+Subject: Re: Link Numbers
+Message-Id: <20021218134000.0f966300.morwen@math.utk.edu>
+In-Reply-To: <20021216133444.A34083@lierre.ens.fr>
+References: <20021216133444.A34083@lierre.ens.fr>
+Organization: University of Tennessee
+X-Mailer: Sylpheed version 0.7.8claws (GTK+ 1.2.10; )
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="Multipart_Wed__18_Dec_2002_13:40:00_-0500_08211da0"
+X-Message: scanned by AMaViS 0.2.1-pre3
+Status: RO
+Content-Length: 14937
+Lines: 257
+
+This is a multi-part message in MIME format.
+
+--Multipart_Wed__18_Dec_2002_13:40:00_-0500_08211da0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Dear Mathieu,
+
+Attached is the list of indexed links.  The format is:
+
+Crossing-number,  Number of components,  Index,  standard DT string
+
+
+In most cases the DT string will be the same as yours, as with most of
+your links no flypes are possible.
+
+Let me know if you need any other information.
+
+
+Best regards,
+
+Morwen
+
+
+
+
+On Mon, 16 Dec 2002 13:34:44 +0100
+Mathieu Dutour <Mathieu.Dutour@ens.fr> wrote:
+
+> Dear professor Thistlethwaite
+> 
+> Some days ago, I send you the (hopefully) corrected datas
+> concerning Dowker-Thistlethwaite code of links. The error
+> was mine and I thank you for finding it.
+> 
+> Since loss of e-mail has already happens between us and
+> university of Tennessee, I resend here the datas concerning
+> the links and the draft of our common paper.
+> 
+> This is just to make sure you get the datas; if you have 
+> any problem processing the datas, feel free to tell me.
+> Some error can still remain.
+> 
+>   Mathieu
+> 
+> Alternating Links with 11 crossing corresponding to i-hedrite
+> 11  2  16  6  18  14  20  12  22  16  4  8  10  6  2
+> 11  4  4  6  8  4  6  12  20  2  16  22  4  18  10  8  14
+> 11  3  14  4  4  16  20  12  4  18  22  6  10  2  8  14
+> 11  2  14  8  16  6  22  14  18  8  20  4  12  10  2
+> 11  2  10  12  12  18  10  20  14  16  6  4  22  8  2
+> 11  2  14  8  16  10  20  18  14  6  22  8  2  12  4
+> 11  2  14  8  16  10  14  18  22  2  8  4  20  6  12
+> 11  3  14  4  4  16  10  20  14  22  4  18  8  6  12  2
+> 11  2  14  8  16  8  20  22  14  6  4  18  2  10  12
+> 11  3  6  10  6  8  18  10  12  20  22  2  4  16  14  6
+> Alternating Links with 12 crossing corresponding to i-hedrite
+> 12  4  12  4  4  4  14  18  22  16  20  24  4  10  2  8  12  6
+> 12  5  6  4  4  4  6  8  12  16  4  20  2  24  6  22  14  18  10
+> 12  3  12  6  6  14  20  18  24  16  22  10  2  6  8  12  4
+> 12  2  12  12  14  16  18  20  22  24  10  8  6  4  2  12
+> 12  2  12  12  14  20  12  16  22  6  18  10  4  24  8  2
+> 12  2  12  12  14  8  18  12  22  4  20  2  24  6  16  10
+> 12  4  8  4  8  4  10  14  22  18  20  6  24  4  12  8  16  2
+> 12  3  4  16  4  6  14  12  22  16  2  20  24  8  4  10  18
+> 12  3  8  8  8  10  18  2  20  24  14  22  6  4  16  12  8
+> 12  2  14  10  16  10  22  18  14  6  20  8  2  24  4  12
+> 12  2  18  6  20  16  14  24  4  22  18  8  10  6  12  2
+> 12  3  10  8  6  12  20  10  24  18  6  16  22  4  8  14  2
+> 12  2  16  8  18  12  16  24  2  20  8  6  14  22  10  4
+> 12  3  4  16  4  6  20  14  22  18  8  4  2  10  24  16  12
+> 12  2  14  10  16  10  22  14  24  4  18  20  6  8  2  12
+> 12  2  18  6  20  22  18  12  16  24  2  4  10  6  14  8
+> 12  3  12  6  6  14  18  12  20  24  6  22  10  8  16  4  2
+> 12  4  6  6  6  6  8  14  16  18  20  4  24  10  22  2  6  12
+> 12  2  18  6  20  14  16  18  2  6  22  24  12  10  8  4
+> 12  4  6  6  6  6  8  14  20  18  22  4  24  10  6  12  16  2
+> Alternating Links with 13 crossing corresponding to i-hedrite
+> 13  3  6  14  6  8  14  22  16  4  26  20  2  24  10  18  6  12
+> 13  3  12  8  6  14  22  12  20  26  6  10  18  24  4  8  16  2
+> 13  3  8  10  8  10  20  16  24  14  6  26  2  22  18  4  12  8
+> 13  4  14  4  4  4  16  20  24  14  26  22  18  6  8  4  10  2  12
+> 13  3  18  4  4  20  12  24  16  22  2  10  26  6  4  14  18  8
+> 13  4  8  4  10  4  10  14  24  18  4  16  2  22  26  6  12  8  20
+> 13  2  14  12  16  10  24  14  22  4  18  20  6  8  26  12  2
+> 13  2  18  8  20  12  18  24  4  26  8  22  14  10  6  16  2
+> 13  3  10  8  8  12  20  10  16  24  26  4  18  8  22  2  14  6
+> 13  3  6  6  14  8  14  16  18  24  4  20  10  22  26  12  6  2
+> 13  2  20  6  22  26  16  12  18  24  2  20  10  4  14  6  8
+> 13  2  10  16  12  20  10  18  16  4  22  26  24  14  2  6  8
+> 13  3  14  6  6  16  10  22  14  20  24  6  26  12  4  8  18  2
+> 13  2  10  16  12  24  10  20  18  6  16  22  4  26  2  14  8
+> 13  3  14  6  6  16  22  12  14  2  20  24  26  8  4  10  18  6
+> Alternating Links with 14 crossing corresponding to i-hedrite
+> 14  2  14  14  16  26  22  18  28  24  20  10  4  12  6  14  8  2
+> 14  2  14  14  16  28  26  24  22  20  18  10  12  14  2  4  6  8
+> 14  4  16  4  4  4  18  22  26  16  20  24  28  8  6  14  4  12  2  10
+> 14  5  8  4  4  4  8  10  14  18  22  24  6  26  4  28  2  12  8  20  16
+> 14  3  8  12  8  10  22  18  26  14  6  28  20  24  2  16  4  12  8
+> 14  2  20  8  22  14  28  16  26  8  4  20  24  12  2  6  10  18
+> 14  2  22  6  24  20  12  26  18  4  10  28  22  6  14  16  8  2
+> 14  4  8  8  6  6  10  18  8  24  28  14  20  4  26  12  2  6  16  22
+> 14  2  18  10  20  24  12  28  26  8  2  22  14  4  16  18  6  10
+> 14  4  10  4  10  4  12  16  26  10  22  20  6  18  4  28  8  14  24  2
+> 14  3  4  20  4  6  18  16  26  20  8  4  24  14  28  10  2  22  12
+> 14  4  4  12  8  4  6  18  14  26  20  8  4  24  16  28  10  2  22  12
+> 14  4  6  6  10  6  8  14  16  24  20  4  28  10  26  6  2  22  18  12
+> 14  2  22  6  24  8  20  28  16  2  22  26  10  14  6  12  18  4
+> 14  2  14  14  16  18  20  4  2  14  28  26  24  22  6  8  10  12
+> 14  2  16  12  18  10  16  20  24  28  2  8  26  22  6  14  4  12
+> 14  3  16  6  6  18  24  10  22  28  26  20  4  12  2  8  14  16  6
+> 14  3  10  10  8  12  22  10  24  16  4  28  20  26  8  2  14  18  6
+> 14  2  10  18  12  18  26  2  22  6  16  24  8  28  4  14  10  20
+> 14  2  22  6  24  18  12  26  16  22  6  28  2  8  14  10  4  20
+> 14  2  14  14  16  24  12  20  2  26  6  22  10  4  28  8  18  14
+> 14  4  6  8  8  6  8  16  24  22  26  18  6  28  10  4  14  20  12  2
+> 14  2  18  10  20  12  22  24  14  28  18  6  26  2  10  16  8  4
+> 14  2  12  16  14  26  12  20  22  6  10  18  24  4  28  2  16  8
+> 14  3  6  16  6  8  18  24  16  14  20  26  6  28  12  4  22  10  2
+> 14  3  16  6  6  18  10  16  22  24  2  8  28  26  4  14  20  12  6
+> 14  2  22  6  24  16  20  26  2  28  22  8  10  12  6  18  14  4
+> 14  2  14  14  16  20  12  14  18  2  28  6  24  26  4  8  10  22
+> 14  2  18  10  20  28  8  24  14  2  18  26  4  12  10  16  6  22
+> 14  5  8  4  4  8  4  10  14  16  12  18  20  24  22  26  8  28  4  2  6
+> 14  2  22  6  24  26  20  22  4  18  6  8  2  28  14  12  16  10
+> 14  4  6  8  6  8  8  12  16  22  24  26  28  14  10  2  20  6  18  4
+> 14  2  22  6  24  18  28  14  2  4  20  22  10  26  6  16  8  12
+> 14  3  16  6  6  18  24  20  22  4  2  8  6  28  26  14  12  10  16
+> 14  3  10  10  8  12  20  10  18  16  22  28  24  26  14  2  4  8  6
+> 14  2  14  14  16  26  18  28  2  4  6  22  24  12  8  14  10  20
+> Alternating Links with 15 crossing corresponding to i-hedrite
+> 15  5  10  4  4  4  8  12  16  20  10  24  6  26  4  28  2  30  14  8  22
+> 18
+> 15  4  18  4  4  4  20  24  28  16  22  26  30  18  8  14  6  12  4  10  2
+> 15  2  14  16  16  24  10  20  14  28  6  22  4  30  8  26  2  18  12
+> 15  2  8  22  10  28  24  14  4  16  6  22  26  30  12  8  20  2  18
+> 15  2  18  12  20  12  26  16  30  2  10  24  6  4  14  28  18  8  22
+> 15  3  8  14  8  10  24  20  28  16  4  30  22  26  12  8  18  2  14  6
+> 15  2  8  22  10  26  14  22  4  16  20  8  28  30  6  12  18  2  24
+> 15  2  6  24  8  16  26  24  18  28  2  22  12  6  30  14  20  10  4
+> 15  2  6  24  8  26  20  16  14  28  22  6  24  30  10  2  18  12  4
+> 15  4  6  6  12  6  8  14  20  26  4  18  30  2  24  28  6  12  16  22  10
+> 15  2  22  8  24  20  14  28  4  30  22  18  26  8  10  12  6  16  2
+> 15  3  12  8  10  14  12  22  18  6  24  2  26  8  30  16  28  20  4  10
+> 15  4  10  6  6  8  12  18  24  2  28  22  8  30  6  14  26  4  16  10  20
+> 15  2  10  20  12  24  10  30  22  20  16  26  4  28  6  18  14  2  8
+> 15  2  22  8  24  20  10  28  16  22  30  4  26  8  14  12  6  18  2
+> 15  2  10  20  12  22  10  16  26  20  4  30  28  6  24  2  14  18  8
+> 15  4  18  4  4  4  20  24  26  22  18  28  4  30  8  10  16  12  14  6  2
+> 15  2  24  6  26  30  16  24  4  18  6  22  28  2  8  14  20  12  10
+> 15  2  16  14  18  28  12  2  30  20  4  10  24  26  14  8  16  6  22
+> 15  3  18  6  6  20  12  18  16  14  2  26  22  30  4  28  8  24  10  6
+> 15  2  16  14  18  30  16  26  22  20  28  10  24  6  14  4  2  12  8
+> 15  2  24  6  26  10  16  30  20  2  8  22  24  12  28  6  18  4  14
+> 15  2  24  6  26  18  14  2  24  6  20  28  30  12  4  16  8  10  22
+> 15  2  10  20  12  30  10  28  16  22  24  20  26  8  4  2  6  18  14
+> 15  2  20  10  22  14  26  28  4  16  20  24  6  8  2  30  10  18  12
+> 15  2  22  8  24  28  16  14  4  30  2  26  22  12  10  18  6  8  20
+> 15  2  24  6  26  20  10  24  22  30  2  8  6  12  28  16  18  14  4
+> 15  2  24  6  26  20  16  14  2  28  24  22  12  10  30  6  8  18  4
+> 15  3  10  10  10  12  20  10  22  24  28  18  8  6  26  14  16  30  2  4
+> 
+> -- 
+> Mathieu Dutour			Chercheur et programmeur
+> Tel. (+33)1-44-32-20-43		Laboratoire de Géométrie Appliquée
+> Fax. (+33)1-44-32-20-73		Ecole Normale Superieure
+> E-mail: Mathieu.Dutour@ens.fr	45, rue d'Ulm
+> http://www.liga.ens.fr/~dutour	75230 Paris Cedex 05 - France
+> 
+
+
+--------------------------------------------------
+
+Morwen Thistlethwaite,
+Department of Mathematics, University of Tennessee
+
+--------------------------------------------------
+
+--Multipart_Wed__18_Dec_2002_13:40:00_-0500_08211da0
+Content-Type: text/plain;
+ name="dutour_2_indexed"
+Content-Disposition: attachment;
+ filename="dutour_2_indexed"
+Content-Transfer-Encoding: base64
+
+MTEgICAyICAgICAyMjYgICBrYmNoZGZoYmphaWNrZWcKMTEgICA0ICAgICAgMTcgICBrZGJjZGJj
+ZmFqaGJrZGdlaQoxMSAgIDMgICAgIDExNiAgIGtjYmdiY2Zhamhia2RnZWkKMTEgICAyICAgICAy
+NDggICBrYmRnZWZnaGFramlkY2IKMTEgICAyICAgICAzNTEgICBrYmVmZmRnamljZWtiYWgKMTEg
+ICAyICAgICAzMTcgICBrYmRnZWZpaGNqYmRrYWcKMTEgICAyICAgICAyNDQgICBrYmNoZGZpZWNo
+amFrZ2IKMTEgICAzICAgICAxMDMgICBrY2JnYmNkamdraWFiZWZoCjExICAgMiAgICAgMTcxICAg
+a2JjaGRlZ2ZqaWhja2FiCjExICAgMyAgICAgMTM2ICAga2NjY2VkZ2hpamJmZWthYwoxMiAgIDQg
+ICAgICA4OSAgIGxkYmZiYmNmYWlrYmpsZWhkZwoxMiAgIDUgICAgICAxMCAgIGxlYmNjYmJjZmFp
+a2JqbGVoZGcKMTIgICAzICAgICA0NzIgICBsY2NmY2RmaGFqY2tibGVpZwoxMiAgIDIgICAgMTM5
+NyAgIGxiZmZnaGlqa2xhZmVkY2IKMTIgICAyICAgIDEzOTEgICBsYmZmZ2RpbGFqYmtmY2hlCjEy
+ICAgMiAgICAxMzg4ICAgbGJmZmdkaWZrYmphbGNoZQoxMiAgIDQgICAgICA4NyAgIGxkYmRkYmNn
+aGtqYWxmYmRlaQoxMiAgIDMgICAgIDM0OCAgIGxjYmhiY2dma2hhamxkYmVpCjEyICAgMyAgICAg
+NDA2ICAgbGNjY2ZkZ2lqbGJoYWVrZmMKMTIgICAyICAgIDEyMDIgICBsYmVnZmRna2llamNhbGhi
+CjEyICAgMiAgICAgNzk0ICAgbGJjaWRmaWJramFlY2xnaAoxMiAgIDMgICAgIDQzMiAgIGxjY2Rl
+ZGhpYWdqbGVrZmJjCjEyICAgMiAgICAgODIzICAgbGJjaWRmaWNsa2phZWdiaAoxMiAgIDMgICAg
+IDMxOSAgIGxjYmhiY2RrZ2xpYWJqZWZoCjEyICAgMiAgICAxMjI5ICAgbGJlZ2ZkaWhrY2phbGVn
+YgoxMiAgIDIgICAgIDY3MCAgIGxiY2lkZWhqZ2lha2xmY2IKMTIgICAzICAgICAzOTQgICBsY2Nj
+ZmRnaGprYmVmbGNhaQoxMiAgIDQgICAgICA5NiAgIGxkY2NjY2RlZ2poa2ZsYWNpYgoxMiAgIDIg
+ICAgIDU0MSAgIGxiY2lkZWdmaGlqa2FsY2IKMTIgICA0ICAgICAxMDAgICBsZGNjY2NkZ2poa2Jl
+bGNmaWEKMTMgICAzICAgIDE1NTMgICBtY2NjZ2RnamFraGNsZWJtZmkKMTMgICAzICAgIDE4ODIg
+ICBtY2NkZmRoa2Fnam1jZWxiZmkKMTMgICAzICAgIDIwNzMgICBtY2RkZWVpZ2thamNsZGhtYmYK
+MTMgICA0ICAgICAzMTkgICBtZGJnYmJjZGpna2xhYm1maGVpCjEzICAgMyAgICAxMzI3ICAgbWNi
+aWJjZ2ZsaWFrbWRoYmVqCjEzICAgNCAgICAgMzA4ICAgbWRiZGViY2dobGphbWZia2RlaQoxMyAg
+IDIgICAgNDkyMSAgIG1iZmdnZGlqYWxia2ZtZWhjCjEzICAgMiAgICAzODMzICAgbWJkaWVna2lj
+aGJsamRtYWYKMTMgICAzICAgIDE1MjEgICBtY2NjZ2RnaWhqYmFtbGtlY2YKMTMgICAzICAgIDE0
+NzUgICBtY2NjZ2RnaGlsYmpla21mY2EKMTMgICAyICAgIDIwMzEgICBtYmNqZGVoaWdqYWxrZm1j
+YgoxMyAgIDIgICAgMzk4MCAgIG1iZWhmZGdoamVpbGttYWNiCjEzICAgMyAgICAxNTU2ICAgbWNj
+Y2dkZ2pobGJla2NtZmFpCjEzICAgMiAgICA0MDUxICAgbWJlaGZkaGlsY2tlbWFnamIKMTMgICAz
+ICAgIDE1MjIgICBtY2NjZ2RnaWhqYmVrbG1hZmMKMTQgICAyICAgMjE4NTMgICBuYmdnaGpsbmlr
+bWFkZ2NmYmUKMTQgICAyICAgMjE4MDcgICBuYmdnaGlqa2xtbmFnZmVkY2IKMTQgICA0ICAgIDEz
+MzIgICBuZGJoYmJjZ2FraW1ibGVuZmpkaAoxNCAgIDUgICAgIDE4MCAgIG5lYmRkYmJjZ2FraW1i
+bGVuZmpkaAoxNCAgIDMgICAgNzc0OCAgIG5jZGRmZWlna2FuY2xkbWJmamgKMTQgICAyICAgMTQ4
+OTkgICBuYmRqZWdpa2NsYm1hbmRqaGYKMTQgICAyICAgMTA1NzcgICBuYmNrZGdrYWltY2pmbmJo
+ZWwKMTQgICA0ICAgIDE1MDIgICBuZGNjZGRkZ2thbWljbGVoYm5magoxNCAgIDIgICAxNjMzMyAg
+IG5iZWlmZ2hpamFubWxrZWRjYgoxNCAgIDQgICAgMTEyNiAgIG5kYmRmYmNnaG1rYW5pZmJsZGVq
+CjE0ICAgMyAgICA1MDQyICAgbmNiamJjZ2ttaWFsbmRoYmZlagoxNCAgIDQgICAgMTEyNiAgIG5k
+YmRmYmNnaG1rYW5pZmJsZGVqCjE0ICAgNCAgICAxMzk3ICAgbmRjY2NlZGdqa25hbG1jaGlmYmUK
+MTQgICAyICAgMTA3NTMgICBuYmNrZGdrZmhjbWxlYm5pYWoKMTQgICAyICAgMTQ5MDYgICBuYmRq
+ZWdpa2RuYW1ibGNqaGYKMTQgICAyICAgMTQ5NjcgICBuYmRqZWdpbGZka21jaGFuamIKMTQgICAz
+ICAgIDc0NDQgICBuY2NoY2RlaGxnbWFqbmNiaWZrCjE0ICAgMyAgICA4MTY1ICAgbmNkZWVlZ2ps
+Y2hibmthbWRpZgoxNCAgIDIgICAxNjExNiAgIG5iZWlmZGhtamNrZW5ibGdhaQoxNCAgIDIgICAx
+MDUyMyAgIG5iY2tkZ2ppbGJua2FtZWhjZgoxNCAgIDIgICAyMTc4NiAgIG5iZ2doZWpnbWJrY2xh
+bmRpZgoxNCAgIDQgICAgMTUxNiAgIG5kY2NkZGRna2ltYmZsYW5qZWhjCjE0ICAgMiAgIDE3OTQx
+ICAgbmJlaWZnaW1qZWtkY2xhbmhiCjE0ICAgMiAgIDIwMjU5ICAgbmJmaGdkamlhbWJsZW5maGtj
+CjE0ICAgMyAgICA1NTc3ICAgbmNjY2hkZ2loa2JqbWxlbmNmYQoxNCAgIDMgICAgNTY4MyAgIG5j
+Y2NoZGdqa25iaWxhZW1oZmMKMTQgICAyICAgIDk1NzggICBuYmNrZGZpa2xtamFlbmdjaGIKMTQg
+ICAyICAgMjE0MTIgICBuYmdnaGRmZ2ppbGFrbW5jYmUKMTQgICAyICAgMTYxNzYgICBuYmVpZmRp
+aGtnZWptbGFuY2IKMTQgICA1ICAgICAxNjYgICBuZWJkYmJkY2VnaWpoa2xtbmFmYmQKMTQgICAy
+ICAgIDY4MTkgICBuYmNrZGVnbGhtbmthZmJjaWoKMTQgICA0ICAgIDE0NzEgICBuZGNjZGRkZ2lo
+amJrbG1uZWFmYwoxNCAgIDIgICAgODY5OSAgIG5iY2tkZmhnbG1qa2VhbmNpYgoxNCAgIDMgICAg
+NTE3MiAgIG5jY2NoZGVnaG5pa2ptbGNiZmEKMTQgICAzICAgIDc5MDggICBuY2RlZWVmaGdqa2ls
+bWRhbmNiCjE0ICAgMiAgIDIxNzEzICAgbmJnZ2hlZmdpbmprbG1jYWRiCjE1ICAgNSAgICAgNjUw
+ICAgb2ViZGViYmNnYWxpbmJtamVvZmtkaAoxNSAgIDQgICAgNjI5MCAgIG9kYmliYmNnYWxpbmJt
+amVvZmtkaAoxNSAgIDIgICA4OTYyNCAgIG9iZ2hoZGpmbmJsZ29jbWFpZWsKMTUgICAyICAgNTgx
+NjUgICBvYmRrZWdpa2NuYm1hbGRvZmhqCjE1ICAgMiAgIDc5OTA1ICAgb2JmaWdkaW1ha2JsZm5j
+aGVvagoxNSAgIDMgICAzMzcyNCAgIG9jZGRnZWlna2FsY25kbWJvaGpmCjE1ICAgMiAgIDYwMzU2
+ICAgb2Jka2VnbWpha2xkbmJob2ljZgoxNSAgIDIgICA0Mjc0NyAgIG9iY2xkZ2ttaGNvbGVibmlh
+ZmoKMTUgICAyICAgNDA3NzQgICBvYmNsZGdqaWtib2xhbm1oZWNmCjE1ICAgNCAgICA2NTU0ICAg
+b2RjY2NmZGdqa25hbG9jbWlmYmhlCjE1ICAgMiAgIDYwMzgzICAgb2Jka2VnbWpja2xib2Rpbmhh
+ZgoxNSAgIDMgICAzNjcxNiAgIG9jZGVmZWpmbWtobmRiYW9nY2xpCjE1ICAgNCAgICA2OTQ2ICAg
+b2RjY2RlZGdraWxiZm1hb2puaGVjCjE1ICAgMiAgIDYyMjQ0ICAgb2JlamZkZ2xqZWttY2FvaW5o
+YgoxNSAgIDIgICA2MDg5MyAgIG9iZGtlaG1qY2tvYmxmZG5nYWkKMTUgICAyICAgNjM5MTIgICBv
+YmVqZmRpbmtlb2JtbGFnY2hqCjE1ICAgNCAgICA2MjA2ICAgb2RiaWJiY2RsaG1qbmFib2ZnaWVr
+CjE1ICAgMiAgIDMyMDc4ICAgb2JjbGRlaW1obmphbG9mYmNnawoxNSAgIDIgICA5MDY2NSAgIG9i
+Z2hoZWZnbGlta25iZG9qY2EKMTUgICAzICAgMjIyNTQgICBvY2NjaWRnaWhqYmtubWxvZWNmYQox
+NSAgIDIgICA5MDk5NSAgIG9iZ2hoZWlqbW5rZGZsZ2NvYWIKMTUgICAyICAgMzY1MjkgICBvYmNs
+ZGZpam1ua2FlbGdvY2hiCjE1ICAgMiAgIDMxOTM3ICAgb2JjbGRlaWtoam9hbWxnbmJjZgoxNSAg
+IDIgICA2MTg2OCAgIG9iZWpmZGdoamtpbW5sb2ViY2EKMTUgICAyICAgNTY1MzcgICBvYmRrZWZs
+aGprb2ljbWFuZ2RiCjE1ICAgMiAgIDU1ODk3ICAgb2Jka2Vma2pnbWxkYm9uaWFoYwoxNSAgIDIg
+ICAzOTU3MCAgIG9iY2xkZmtnamlsY25taG9hZWIKMTUgICAyICAgMzk1ODMgICBvYmNsZGZrZ21s
+amNlYW9uaWhiCjE1ICAgMyAgIDM3MjAzICAgb2NlZWVmZGtsZ21uamNiaGlvZWEK
+
+--Multipart_Wed__18_Dec_2002_13:40:00_-0500_08211da0--
+

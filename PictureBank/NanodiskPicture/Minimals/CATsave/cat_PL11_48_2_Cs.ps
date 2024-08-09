@@ -1,0 +1,366 @@
+%!PS-Adobe-3.0
+
+%%BeginProlog
+
+
+% This file contains a number of 2D-embedded graphs, one per page,
+% saved by CaGe, the Chemical & abstract Graph Environment.
+% CaGe homepage: http://www.mathematik.uni-bielefeld.de/~CaGe/
+
+% /edge_width 5 def
+% /edge_gray 0.75 def
+
+% /vertex_linewidth 2 def
+% /vertex_radius 12 def
+% /vertex_color_1 { 1.0 0.650 0.395 } bind def
+% /vertex_color_2 { 1.0 0.775 0.620 } bind def
+% /vertex_number_color { 0.25 0.25 1.0 } bind def
+
+% The previous "def" lines are commented out because they are normally
+% uneffective and appear mostly for historical reasons. Also, the values
+% set here can not be changed through the CaGe.ini file.
+% There are more instances of these lines near the beginning of each
+% page, and those are the lines affected by the settings in CaGe.ini.
+% If you want to edit the appearance of any graph, go to the respective
+% page and edit the values there.
+% 
+% You could still uncomment the above lines and use them as file-wide
+% defaults: delete the equivalent lines in front of a graph and that
+% graph will use the settings here.
+
+
+/begin_edges
+{
+  edge_width setlinewidth
+  edge_gray setgray
+  1 setlinecap
+  2 setlinejoin
+  newpath
+}
+bind def
+
+/begin_colored_edges
+{
+  stroke
+  edge_width setlinewidth
+  edge_color setrgbcolor
+  1 setlinecap
+  2 setlinejoin
+  newpath
+}
+bind def
+
+
+/edge
+{
+  moveto lineto
+}
+bind def
+
+
+/begin_vertices
+{
+  vertex_color_1
+  [ vertex_color_2
+  4 index sub 3 1 roll
+  5 index sub 3 1 roll
+  6 index sub 3 1 roll
+  ] 
+  cvx bind
+  /vertex_color_diff exch def
+  3 { pop } repeat
+  stroke
+  vertex_linewidth setlinewidth
+}
+bind def
+
+
+/vertex
+{
+  /centery exch def
+  /centerx exch def
+  0 setgray
+  newpath
+  centerx centery vertex_radius vertex_linewidth 2 div sub 0 360 arc
+  closepath
+  gsave
+    clip
+    centerx centery translate
+    45 rotate
+    vertex_radius vertex_radius scale
+    -1 0 translate 2 1 scale
+    vertex_color_1 vertex_color_diff
+    0  0.00390625  1 0.00390625 sub  {
+      /lambda exch def
+        2 index lambda mul 6 index add
+        2 index lambda mul 6 index add
+        2 index lambda mul 6 index add
+      setrgbcolor
+      newpath
+      lambda -1 moveto
+      0.004 0 rlineto
+      0 2 rlineto
+      -0.004 0 rlineto
+      0 -2 rlineto
+      fill
+    } for
+    6 { pop } repeat
+  grestore
+  stroke
+}
+bind def
+
+
+/set_size
+{
+  newpath 100 200 moveto
+  /Helvetica findfont
+  dup setfont
+  exch false charpath
+%  flattenpath
+  pathbbox
+  3 -1 roll sub dup mul 3 1 roll sub dup mul add sqrt
+  vertex_radius vertex_linewidth 2 div sub 1.7 mul
+  exch div
+  scalefont setfont
+}
+bind def
+
+
+/center_text
+{
+  gsave
+    newpath
+    0 0 moveto
+    dup false charpath
+%    flattenpath
+    pathbbox
+    3 -1 roll add 2 div 0 exch sub 3 1 roll add 2 div 0 exch sub exch
+    newpath
+    5 -2 roll moveto
+    rmoveto
+    show
+  grestore
+}
+bind def
+
+
+/vertex_number
+{
+  vertex_number_color setrgbcolor
+  center_text
+}
+bind def
+
+
+%%EndProlog
+
+
+%%Page: 1 1
+%%BoundingBox: 42.52 92.46228 553.391 608.5507
+
+gsave
+
+
+
+/edge_width 8.0 def
+/edge_gray 0.75 def
+
+/edge_color { 0.5 0.9 0.5 } bind def
+/vertex_radius 3.0 def
+/vertex_linewidth 0.5 def
+/vertex_color_1 { 1.0 0.650 0.395 } bind def
+/vertex_color_2 { 1.0 0.775 0.620 } bind def
+/vertex_number_color { 0.25 0.25 1.0 } bind def
+
+/v1 { 376.5501987951729 361.94047481608425 } bind def
+/v2 { 397.53098641771265 401.07130578254663 } bind def
+/v3 { 454.3123213015867 346.45465660722255 } bind def
+/v4 { 208.59289642749548 337.79591967898926 } bind def
+/v5 { 286.24400924505153 397.5190060293422 } bind def
+/v6 { 454.3123213015867 445.4750906117969 } bind def
+/v7 { 550.3909991691474 350.50650164770565 } bind def
+/v8 { 381.04607996956094 313.26283148966803 } bind def
+/v9 { 138.71244280131734 301.1072941685476 } bind def
+/v10 { 177.95428509885772 369.60012764824364 } bind def
+/v11 { 282.2476691393947 427.21403593679634 } bind def
+/v12 { 405.41265529794833 476.00268068070403 } bind def
+/v13 { 509.4840166763295 489.7678607953962 } bind def
+/v14 { 509.4840166763295 211.18963767065253 } bind def
+/v15 { 412.62827603395533 283.2902782188454 } bind def
+/v16 { 218.417235480457 289.8398375824643 } bind def
+/v17 { 45.52 277.906319623993 } bind def
+/v18 { 111.18210904331798 396.2423972290044 } bind def
+/v19 { 217.52915805999274 442.20031092245426 } bind def
+/v20 { 339.6950620810838 459.85081154035913 } bind def
+/v21 { 388.87224814858394 536.4473398619535 } bind def
+/v22 { 399.80668065501976 584.847446611908 } bind def
+/v23 { 399.80668065501976 116.11005185414066 } bind def
+/v24 { 465.08023847622513 249.21037846808116 } bind def
+/v25 { 346.30012216098163 260.03379634393224 } bind def
+/v26 { 196.8814011311801 252.20763479405517 } bind def
+/v27 { 124.00369780817385 155.74041230339523 } bind def
+/v28 { 45.52 423.106686157348 } bind def
+/v29 { 149.59137462160672 439.14754728118794 } bind def
+/v30 { 241.340686661643 485.77151903245294 } bind def
+/v31 { 304.1165308678258 494.9297967130264 } bind def
+/v32 { 322.43308954354575 536.6693559100298 } bind def
+/v33 { 256.10494228465177 605.550717485159 } bind def
+/v34 { 256.10494228465177 95.46228168210243 } bind def
+/v35 { 387.81765538125615 154.46380348799116 } bind def
+/v36 { 416.01405712572324 208.02587262696085 } bind def
+/v37 { 363.1735566895002 222.4016001696028 } bind def
+/v38 { 267.1503844799453 248.655331741344 } bind def
+/v39 { 155.97441865342833 205.02860968690712 } bind def
+/v40 { 124.00369780817385 545.2170861626535 } bind def
+/v41 { 148.25926512005623 501.8123867703725 } bind def
+/v42 { 211.86767611683806 520.6284881721102 } bind def
+/v43 { 262.1549589373192 563.5891422400794 } bind def
+/v44 { 256.4379729783789 135.59220138504082 } bind def
+/v45 { 320.49042598489956 156.40647366071704 } bind def
+/v46 { 315.3284867526964 194.59372319092958 } bind def
+/v47 { 261.71092022708706 207.6928419332337 } bind def
+/v48 { 214.4764010478723 178.9969007773218 } bind def
+
+
+begin_edges
+
+v48 v39 edge
+v48 v47 edge
+v48 v44 edge
+v47 v38 edge
+v47 v46 edge
+v46 v37 edge
+v46 v45 edge
+v45 v35 edge
+v45 v44 edge
+v44 v34 edge
+v43 v32 edge
+v43 v42 edge
+v43 v33 edge
+v42 v30 edge
+v42 v41 edge
+v41 v29 edge
+v41 v40 edge
+v40 v28 edge
+v40 v33 edge
+v39 v26 edge
+v39 v27 edge
+v38 v25 edge
+v38 v26 edge
+v37 v25 edge
+v37 v36 edge
+v36 v24 edge
+v36 v35 edge
+v35 v23 edge
+v34 v23 edge
+v34 v27 edge
+v33 v22 edge
+v32 v21 edge
+v32 v31 edge
+v31 v20 edge
+v31 v30 edge
+v30 v19 edge
+v29 v18 edge
+v29 v19 edge
+v28 v17 edge
+v28 v18 edge
+v27 v17 edge
+v26 v16 edge
+v25 v15 edge
+v24 v14 edge
+v24 v15 edge
+v23 v14 edge
+v22 v13 edge
+v22 v21 edge
+v21 v12 edge
+v20 v11 edge
+v20 v12 edge
+v19 v11 edge
+v18 v10 edge
+v17 v9 edge
+v16 v8 edge
+v16 v9 edge
+v15 v8 edge
+v14 v7 edge
+v13 v6 edge
+v13 v7 edge
+v12 v6 edge
+v11 v5 edge
+v10 v4 edge
+v10 v5 edge
+v9 v4 edge
+v8 v3 edge
+v7 v3 edge
+v6 v2 edge
+v5 v2 edge
+v4 v1 edge
+v3 v1 edge
+v2 v1 edge
+
+
+begin_colored_edges
+
+
+
+begin_vertices
+
+v48 vertex
+v47 vertex
+v46 vertex
+v45 vertex
+v44 vertex
+v43 vertex
+v42 vertex
+v41 vertex
+v40 vertex
+v39 vertex
+v38 vertex
+v37 vertex
+v36 vertex
+v35 vertex
+v34 vertex
+v33 vertex
+v32 vertex
+v31 vertex
+v30 vertex
+v29 vertex
+v28 vertex
+v27 vertex
+v26 vertex
+v25 vertex
+v24 vertex
+v23 vertex
+v22 vertex
+v21 vertex
+v20 vertex
+v19 vertex
+v18 vertex
+v17 vertex
+v16 vertex
+v15 vertex
+v14 vertex
+v13 vertex
+v12 vertex
+v11 vertex
+v10 vertex
+v9 vertex
+v8 vertex
+v7 vertex
+v6 vertex
+v5 vertex
+v4 vertex
+v3 vertex
+v2 vertex
+v1 vertex
+
+
+
+grestore
+
+showpage
+
+
+%%Pages: 1
+%%EOF
+

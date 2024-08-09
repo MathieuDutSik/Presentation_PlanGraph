@@ -1,0 +1,17 @@
+\begin{picture}(0,0)%
+\includegraphics{2connectedFaceRegular/SchemeStructDigon.pstex}%
+\end{picture}%
+\setlength{\unitlength}{2368sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(1888,1218)(257,-785)
+\put(1276,-61){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$b-2$}%
+}}}}
+\put(1051,-736){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$b-2$}%
+}}}}
+\end{picture}%

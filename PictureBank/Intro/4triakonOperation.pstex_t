@@ -1,0 +1,15 @@
+\begin{picture}(0,0)%
+\includegraphics{Intro/4triakonOperation.pstex}%
+\end{picture}%
+\setlength{\unitlength}{2842sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(3924,1524)(289,-823)
+\put(676,-136){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$F$}%
+}}}}
+\end{picture}%

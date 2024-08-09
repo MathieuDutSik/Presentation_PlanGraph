@@ -1,0 +1,2639 @@
+\documentclass[12pt]{article}
+
+%\usepackage{epic,eepic}
+\usepackage{amsfonts,amsmath, epsfig,latexsym, subfigure, url}
+\input{emlines.sty}
+
+\setlength{\textwidth}{15cm}
+\setlength{\textheight}{23cm}
+\setlength{\topmargin}{-0.5cm}
+\setlength{\oddsidemargin}{0.5cm}
+\setlength{\evensidemargin}{0.5cm}
+
+
+
+\newtheorem{proposition}{Proposition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{conjecture}{Conjecture}
+\newtheorem{corollary}{Corollary}
+\newtheorem{lemma}{Lemma}
+\newtheorem{claim}{Claim}
+\newtheorem{remark}{Remark}
+\newcommand{\proof}{\noindent{\bf Proof.}\ \ }
+
+\begin{document}
+
+\title{$4$-valent plane graphs with $2$-, $3$- and $4$-gonal faces}
+
+
+\author{Michel DEZA \\
+  CNRS/ENS, Paris and Institute of Statistical Mathematics, 
+Tokyo,\\
+\ Mathieu DUTOUR \\
+ ENS, Paris and Hebrew University, Jerusalem
+\footnote{Research of the second author was financed by EC's IHRP Programme, within the Research Training Network ``Algebraic Combinatorics in Europe,'' grant HPRN-CT-2001-00272.}\\
+\ and  Mikhail SHTOGRIN \thanks{Third!! author acknowledges financial support 
+of the Russian Foundation of Fundamental Research (grant 02-01-00803)
+and the Russian Foundation for Scientific Schools (grant 00-15-96011)}\\
+Steklov Mathematical Institute, Moscow, Russia} 
+\date{\today}
+
+\maketitle
+
+
+
+\begin{abstract}
+Call {\em $i$-hedrite $oc_n$} any $4$-valent $n$-vertex plane graph, whose 
+faces are $2$-, $3$- and $4$-gons only and $p_2=8-i$. The edges of an $i$-hedrite, as of 
+any Eulerian plane graph, are partitioned
+by its {\em central circuits}, i.e. those, which are obtained by starting with an
+edge and continuing at each vertex by the edge opposite the entering one. 
+So, any $i$-hedrite is a projection of an alternating link, whose components
+correspond to its central circuits.
+
+Call an $i$-hedrite {\em irreducible}, if it has no 
+{\em rail-road}, i.e. a 
+circuit of $4$-gonal faces, in which every $4$-gon is adjacent to two of its 
+neighbors on opposite edges.
+
+We present the list of all $i$-hedrites with at most $14$ vertices. Examples of results: 
+
+(i) Any irreducible $i$-hedrite has at most $i-2$ central circuits.
+
+(ii) All irreducible $i$-hedrites without self-intersecting central circuits are listed.
+
+(iii) All symmetry group of $i$-hedrites are listed.
+
+\end{abstract}
+
+{\em Mathematics Subject Classification}. Primary 52B05, 52B10;
+Secondary 05C30, 05C10.
+
+{\em Key words}. Plane graphs, Eulerian graphs, alternating links, point groups.
+
+\section{Introduction!!}
+
+See \cite{Gr} for terms used here for plane graphs.
+It is well-known that the p-vector of any $4$-valent plane graph satisfies to
+$2p_2+p_3=8+ \sum_{i\geq 5} (i-4)p_i$.
+Some examples of applications of plane $4$-valent graphs are {\em projections
+of links}, {\em rectilinear embedding} in VLSI and {\em Gauss crossing 
+problem} for plane graphs (see,!! for example,!! \cite{Liu}).!!
+
+\vspace{2mm}
+
+
+Call an {\em $i$-hedrite} any plane $2$-connected
+$4$-valent graph, such that the number
+$p_j$ of its $j$-gonal faces is zero for any $j$, different from 
+$3,4$ and $2$, and such that $p_2=8-i$. So, 
+an $n$-vertex $i$-hedrite has $(p_2, p_3, p_4)=(8-i, 2i-8, n+2-i)$.
+Clearly, $(i;p_2,p_3)=(8;0,8)$, $(7;1,6)$, $(6;2,4)$,
+$(5;3,2)$ and $(4;4,0)$ are all possibilities. 
+
+An $8$-hedrite is called {\em octahedrite} in \cite{DSt}; in fact, this paper is a follow-up of \cite{DSt}.
+In a way, this paper continue the program of Kirkman (\cite{Kirk} p.~282) of classification of projections of alternating knots.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section{Central circuits partition}
+%Clearly, such graph has no cut-edges and
+%we can, without loss of generality, suppose the absence of 
+%cut-vertices, i.e. that $G$ is $2$-connected.
+
+In this Section, we consider a connected plane graph $G$ with all vertices of 
+even degree, i.e. an Eulerian graph. 
+Call a circuit in $G$ {\it central} if it is obtained by starting with an
+edge and continuing at each vertex by the edge opposite the entering one; such 
+circuit is called also {\em traverse} 
+(\cite{GK}), {\em straight ahead} (\cite{Ha}),  \cite{PTZ}), 
+{\em straight Eulerian} (Chapter 17 of \cite{God}), 
+{\em cut-through} (\cite{Je}),
+{\em intersecting} etc. Clearly, the edge-set of 
+$G$ is partitioned by all its central circuits.
+
+%Such CC-partition can be considered (see, for example, \cite{Ha}) for any 
+%drawing on the plane of any Eulerian (in general, not planar) graph, so that 
+%edges are mapped into simple curves with at most one crossing point. The path
+%called {\it straight ahead} in \cite{Ha} if, going through a vertex of the
+%drawing, it leaves to its right and to its left the same number of edges.
+%For example, the drawing of $K_2^4=C_4 \times C_4$ 
+%($4$-hypercube=$4 \times 4$-torus) is CC-partitioned by two 
+%$16$-circuits, which are, moreover, Hamiltonian circuits. 
+
+
+Denote by 
+$CC(G):=(...,a_i^{\alpha_i},...;...,b_j^{\beta_j},...)$ its {\it CC-vector}, 
+where $...,a_i,...$ and  $...,b_j,...$ are increasing sequences of lengths of 
+all its central circuits, simple ones and self-intersecting, respectively, 
+and $\alpha_i, \beta_j$ are their respective multiplicities.
+Clearly, $\sum_{i} a_i{\alpha_i}+ \sum_{j} b_j{\beta_j}=2n$, where 
+$n$ is the number of vertices of $G$; denote by $r$ the number of 
+central-circuits.
+
+
+For a central circuit $C$, denote by $Int(C):=(c_0;...,c_k^{\gamma_k},...)$,
+the {\em intersection vector of} $C$, where $c_0$ is
+the number of self-intersections of the circuit $C$ and $(...,c_k,...)$ is
+decreasing sequence of sizes of its intersection with other $r-1$ 
+circuits, while the numbers $\gamma_k$ are respective multiplicities.
+
+
+Two central circuits intersect in an even number number of vertices. 
+The length of a central circuit is twice the number of its points of 
+self-intersection plus the sum of its intersections with other circuits, 
+so the length of a central circuit is even.
+
+
+
+We will say that an $i$-hedrite is {\it pure} if any of its central circuits 
+simple, i.e. has no self-intersections.
+Easy to check that any pure $i$-hedrite has an even number $n$ of 
+vertices. In fact, any vertex in this case belong to the intersection 
+of exactly two central circuits.
+
+
+Call an Eulerian graph $G$ {\it balanced}, if all its central circuits of
+same length have the same intersection vector.
+Any $8$-hedrite with $n \le 21$ is balanced, but there is unbalanced
+$22$-vertex $8$-hedrite,!! which is $8$-hedrite {\bf 14-7} of Table 
+\ref{tab:i-hedrite13_14} inflated along a central circuit of length $8$.
+We do not find unbalanced $5$-hedrite or $7$-hedrite for $n\leq 15$. The
+first unbalanced $6$-hedrite is {\bf 12-12}. Any $4$-hedrite is balanced
+(Theorem \ref{Theorem-for-4-hedrite}).
+
+
+
+
+
+
+
+
+
+For a plane graph $G$, denote by $G^*$ its planar dual and {\em $Med(G)$} 
+denotes its {\em medial} graph, i.e. the vertices of $Med(G)$ are the edges of 
+$G$, two of them being adjacent if the corresponding edges share a vertex and 
+belong to the same face of the embedding of $G$ in the plane. 
+So, $Med(G)$=$Med(G^*)$.
+
+Clearly, $Med(G)$ is a $4$-valent plane graph and, for any $i$-hedrite $G$,
+$Med(G)$ is an $i$-hedrite with twice the number of vertices of $G$ and
+all $2$-, $3$-gonal faces being isolated. The medial of smallest
+$8$-hedrite {\bf 6-1}, $7$-hedrite {\bf 7-1}, $6$-hedrite {\bf 4-1},
+$5$-hedrite {\bf 3-1}, $4$-hedrite {\bf 3-1} are respectively $8$-hedrite
+{\bf 12-4} (cuboctahedron), $7$-hedrite {\bf 14-9}, $6$-hedrite {\bf 8-3},
+$5$-hedrite {\bf 6-2}, $4$-hedrite {\bf 4-1}.
+The operation of taking the medial is a particular case of the {\em Goldberg-Coxeter construction} for the parameter $z=1+i$ (\cite{Gold37}, \cite{Cox71}, \cite{DD03}).
+
+
+
+
+
+\subsection{Intersection of central circuits}
+
+The following Theorem is a local version (for ``parts'' of the sphere) of
+the Euler formula
+$2p_2+p_3=8+ \sum_{i\geq 5} (i-4)p_i$ for $p$-vector of any $4$-valent 
+plane $3$-connected graph $P$.
+
+Let $A$ be a patch of $P$ bounded by $t$ arcs (paths of edges) belonging to 
+central circuits (different or coinciding). So, $A$ can be seen as a 
+$t$-gon; we admit also $0$-gonal $A$, i.e.
+just the interior of a simple central circuit. Suppose that the patch $A$ is
+{\em regular}, i.e.
+the continuation of any of bounding arc (on the central circuit to which it
+belongs) lies outside of the patch; in other words, the patch
+contains, around each its vertex, only one (not three) amongst four angles, 
+obtained when two central circuits intersect in this vertex.  See below two 
+examples of patch.
+
+\begin{center}
+\epsfxsize=60mm
+\epsfbox{patch.eps}
+\end{center}
+
+Let $p'(A):=p'_1,...$ be the $p$-vector enumerating the faces of the patch $A$. The curvature of a patch is denoted by $c(A)=4-t$.
+
+\begin{theorem} \label{Local-Euler-Formula}(\cite{DSt})
+Let $A$ be a regular patch, described above, of a $4$-valent plane
+$3$-connected graph. Then we have $4-t=\sum_{i\geq 1} (4-i)p'_i$
+\end{theorem}
+
+
+
+\begin{proposition}
+(i) Any central circuit of a $4$-hedrite has no self-intersection vertices;
+
+(ii) At least one central-circuit of a $7$-hedrite self-intersects.
+\end{proposition}
+\proof In fact, if a central circuit of a $4$-hedrite self-intersects, then we have a $1$-gonal regular patch. The equality of above Theorem becomes $2p'_2+p'_3=3$, an impossibility since $p'_3\leq p_3=0$.
+
+Take a central circuit containing an edge of the unique $2$-gon, the sequence (possibly empty) of adjacent $4$-gons will necesseraly finish by a $3$-gon or this $2$-gon; both cases yield a self-intersection.
+
+%\begin{center}
+%\epsfxsize=60mm
+%\epsfbox{7hedrite-SelfIntersect.eps}
+%\end{center}
+
+
+
+
+
+The Euler formula for the p-vector of a $4$-valent plane graph:
+$$8=\sum_{t\geq 1} (4-t)p_t$$
+is a discrete analog of the Gauss-Bonnet formula $2\pi(1-g)=\int_{S} K(x)dx$ for the Gaussian curvature $K$ of a surface $S$ of genus $g$. So, the $t$-gons can be seen as,!! respectively,!! positively curved, flat, or negatively 
+curved!! if $t<4$, $t=4$, or $t>4$.
+
+
+%Given an $i$-hedrite $G$; it has $p_2=8-i$, $p_3=2i-8$. 
+Let us call {\em graph of curvatures} of an $i$-hedrite $G$, the
+graph (possibly, with loops and multiple edges) having as vertex-set
+all $2$-gons and $3$-gons of $G$. 
+Two vertices (say, !! $2$- or $3$-gonal faces $b$ and $c$ of $G$) of 
+this $i$-vertex graph are connected by edge if there is a pseudo-road 
+connecting them. A {\em pseudo-road} is sequence of $4$-gons,!! say, $a_1$, \dots, $a_l$, such that putting $a_0=b$ and $a_{l+1}=c$, 
+we have that any $a_k$ with $1\leq k\leq l$ is adjacent to $a_{k-1}$ 
+and $a_{k+1}$ on opposite edges !!(cf. the definition of
+a {\em rail-road} in next Section)!!. 
+Clearly, in the graph of curvatures, 
+the vertices corresponding to $2$- and $3$-gons have degree $2$ and $3$, 
+respectively.
+
+
+
+
+
+
+
+\begin{proposition}\label{intersec}
+Let $C_1$, $C_2$ be any two central circuits of an $i$-hedrite. Then 
+they are disjoint if and only if they are simple and there exist a 
+ring of $4$-gons separating them.
+
+\end{proposition}
+\proof In fact, if both $C_1$ and $C_2$ are simple circuits, Theorem 
+is evident: the curvature of the interior of a patch
+!!''curvature of a patch'' was never defined!!
+is $4$ and so, two
+circuits are separated by $4$-gons only. Suppose that $C_1$ is 
+self-intersecting. Then it has at least three regular patches and each 
+of them has curvature at most $3$.
+The circuit $C_2$, being disjoint with $C_1$, lies entirely inside one 
+of those patches, say, $A$. So, all its $3$-gons and $2$-gons, except, 
+possibly, those from its exterior patch, lie in $A$. So, !! $c(A)\geq 5$,
+since the exterior patch of $C_2$ has curvature at most $3$.
+!!!It contradicts to the fact that $A$ has curvature at most $3$. 
+%So, $C_2$ intersects with $C_1$ and Theorem \ref{intersec} is proved.
+
+
+
+
+
+
+
+
+\section{Adding and removal central circuits}
+
+
+%It is the main operation, considered in this paper. First, we will introduce 
+%associated notions; they are valid, in fact, for any $4$-valent plane graph. 
+%
+%
+%Fix an $i$-hedrite $G$. 
+%
+%For a fixed central circuit $C$ consider its {\em shores}, i.e. two circuits
+%of faces, lying on the left and on the right of $C$. Clearly, each shore is a 
+%zone; call such zones {\em shore-zones}.
+%
+%
+%Given a zone $Z=(F_1,...,F_m)$ of faces $F_i$, let us denote by $e_1,...,e_m$
+%the edges of adjacency of pairs $(F_1,F_2),(F_2,F_3),...,(F_{m-1},F_m),(F_m,F_1)$, respectively. Call a {\em cutting of zone Z} the octahedrite obtained from
+%the given one by adding $m$ new vertices $v_1,...,v_m$, one in the mid-point of
+%each corresponding edge $e_i$ ($1 \le i \le m$) and $m$ new edges
+%$(v_1,v_2),(v_2,v_3),...,(v_{m-1},v_m),(v_m,v_1)$. This new octahedrite 
+%will have one new central circuit $V=(v_1,...,v_m)$.
+
+
+The {\em deleting of a central circuit $C$} in an $i$-hedrite $G$ consists 
+of removal of all edges and vertices contained in $C$. It produces a 
+$4$-valent plane graph $P'$ having only $k$-gonal faces 
+with $k \leq 4$. But since cases $k=0,1$ are possible, we do not
+always obtain an $i$-hedrite.
+
+
+The {\em cutting} of an $i$-hedrite $G$ consists of adding another central 
+circuit to it. The faces of the new $i'$-hedrite $G'$ with $8\geq i'\geq i$ 
+comes from the cutting of faces of $G$. This operation is only partially
+defined since arbitrary cutting can produce $k$-gons with $k>4$. The 
+cutting of a $4$-gon in several $4$-gons (two if the face
+is traversed only once) is possible only if the $4$-gon is traversed 
+on opposite edges. This corresponds to the notion of {\it shore-zone} 
+in \cite{DSt}.
+A cutting changes CC-partition of an $i$-hedrite only in the following 
+way: new central circuit $C$ is added and all others central circuits 
+remain unchanged,!! except that the length of each of them increases by one 
+for any intersection with $C$. 
+
+
+Call a!! {\em rail-road} a circuit of $4$-gons (possibly,!! 
+self-intersecting!!), 
+in which every $4$-gon is adjacent to two of its neighbors on opposite
+edges. A rail-road is bounded by two ``parallel'' central circuits.
+The deleting of  one of those central circuits (in other words!!, 
+collapsing!! 
+rail-road into one central circuit) is called {\em reducing}.
+The cutting produces a rail-road if and only if it is an!! {\em inflation 
+along a central circuit $C$}, i.e. remplacing of it by 
+(thin enough)!! 
+rail-road. A {\em $t$-inflation along a central circuit $C$} is remplacing
+this central circuit by $t-1$ parallel (thin enough) rail-roads.
+A {\em $t$-inflation of an $i$-hedrite} is new $i$-hedrite
+obtained from original one by simultaneous $t$-inflation along all
+of its central circuits. 
+A!! $t$-inflation of $G$ is $G$ if $t=1$, and it is just inflation of $G$ 
+if $t=2$.
+
+%Let $G'$ be the result of cutting of an $i$-hedrite $G$. Then $G'$ is an 
+%$i'$-hedrite with $i\leq i'\leq 8$; but $i'=i$ if the cutting is an 
+%inflation along a central circuit.
+
+An $i$-hedrite is called {\em irreducible} if it contains no 
+rail-road. It is called {\em maximal irreducible} if it cannot be
+obtained from another $i'$-hedrite by a cutting.
+
+% One can call $Med(G)$ {\em $\frac{3}{2}$-inflation} of $G$, 
+% since $Med(Med(G))$ is $2$-inflation of $G$.
+
+\begin{remark}
+
+Let $C$ be a central circuit of $G$ with $CC(G)=(...,a_i^{\alpha_i},...;...,b_j^{\beta_j},...)$,  and let 
+$Int(C)=(c_0;c_1^{\gamma_1},...,c_r^{\gamma_r})$. Let $C'$ be one of 
+$t$ parallel copies, which are put instead of the circuit $C$ in 
+$G^t$, where $G^t$ denotes the $t$-inflation of $G$ along $C$.
+Then $CC(G^t)=(...,ta_i^{t\alpha_i},...;...,tb_j^{t\beta_j},...)$,
+$Int(C')=(c_0;c_1^{t\gamma_1},...,c_r^{t\gamma_r}, (2c_0)^{t-1})$.
+\end{remark}
+
+
+\section{Connectivity of!! $i$-hedrites}
+For any integer $m\geq 2$ denote:
+
+by $I_{6,2m}$ the $2m$-vertex $6$-hedrite, such that each $2$-gon is adjacent to two $3$-gons;
+
+by $I_{5,2m+1}$ the $(2m+1)$-vertex $5$-hedrite, such that 
+two $2$-gons share a vertex and remaining $2$-gon is adjacent
+to two $3$-gons;
+
+by $I_{4,2m+2}$ the $(2m+2)$-vertex $4$-hedrite, such that 
+four $2$-gons are organised into two pairs sharing a vertex;!!
+!!delete next 2 lines, since it will be said later!!
+%(they correspond to shift $i=1$ 
+%in Theorem \ref{Theorem-for-4-hedrite} below).
+
+by $J_{4,2m}$ the $m$-inflation of only one central circuit of
+$4$-hedrite {\bf 2-1}; they are projections of {\em composite}
+alternating links $2^2_1\#2^2_1\#2^2_1\dots\#2^2_1$ ($m$ times),
+which we denote by $m\times 2^2_1$.
+
+See on Figure \ref{fig:FamilyIin} the first occurrences
+(for $2\leq m\leq 5$) of those graphs and on Table \ref{FundamentalInfo}
+their symmetry groups and CC-vectors.
+
+\begin{figure}
+\centering
+\epsfxsize=100mm
+\epsfbox{FamilyIin.eps}
+\label{fig:FamilyIin}
+\end{figure}
+
+\begin{table}
+\begin{center}
+\begin{tabular}{||c|c|c||}
+\hline\hline
+$i$-hedrite            &Group      &CC-vector\\\hline\hline
+$I_{6,2m}$, $m$ even   &$D_{2d}$   &$4m$\\\hline
+$I_{6,2m}$, $m$ odd    &$D_{2h}$   &$(2m)^2$\\\hline
+$I_{5,2m+1}$           &$C_{2v}$   &$4m+2$\\\hline
+$I_{4,2m+2}$, $m$ even &$D_{2d}$   &$(2m+2)^2$\\\hline
+$I_{4,2m+2}$, $m$ odd!!   &$D_{2h}$   &$(2m+2)^2$\\\hline
+$J_{4,2m}$              &$D_{2h}$   &$2^m, 2m$\\\hline\hline
+\end{tabular}
+\end{center}
+\caption{$2$-connected $i$-hedites}
+\label{FundamentalInfo}
+\end{table}
+
+
+
+\begin{lemma}
+Any $i$-hedrite is $2$-connected.
+\end{lemma}
+\proof Let $G$ be an $i$-hedrite and assume that there is one vertex $v$ such that $G-\{v\}$ is disconnected in two components $C_1$, $C_2$. Then two edges from $v$ will connect to a vertex $w$ of $C_1$ and two edges from $v$ will connect to a vertex $w'$ of $C_2$, because, otherwise, the exterior face is $m$-gonal with $m>4$. See below the corresponding drawing.
+
+\begin{center}
+\epsfxsize=60mm
+\epsfbox{2-connected.eps}
+\end{center}
+
+But the vertex $w$ will disconnect the graph and so, iterating the construction, we obtain an infinite sequence $v_1$, \dots, $v_n$ of vertices that disconnects $G$. 
+This is impossible since $G$ is finite.
+%This contradicts to initial assumption and proves that $G$ is $2$-connected.
+
+
+Any $i$-hedrite (moreover, any Eulerian graph) has at least one 
+Eulerian circuit of edges; so, there is no cut-edge.
+But a cut-vertex appears already for some Eulerian ($3$-vertex)
+and $4$-valent ($4$-vertex) plane graphs.
+
+
+\begin{theorem}\label{3-connectedness}
+Any $i$-hedrite, which is not $3$-connected, is one of $I_{6,2m}$, $I_{5, 2m+1}$, $I_{4, 2m+2}$, $J_{4, 2m}$ for some $m\geq 2$.
+
+
+\end{theorem}
+
+\proof Let $G$ be an $i$-hedrite and assume that it is not $3$-connected. 
+Then there are two vertices, say, $v$ and $v'$, such that 
+$G-\{v, v'\}$ is disconnected in two components, say, $C_1$ and $C_2$.
+Amongst the $4$ edges from $v$ (respectively $v'$), the edges 
+$\{e_1,\dots, e_{t}\}$ (respectively $\{e'_1,\dots, e'_{t'}\}$) goes
+to $C_1$. Two numbers $t$ and $t'$ can takes values $1$, $2$ or $3$; we
+will consider all possible cases.
+
+Assume that $t=1$ and $t'=1$, then the edges $e$ and $e'$ must be
+distinct, since,!! otherwise,!! $C_1$ is the!! empty!! graph. Moreover, $e$ and $e'$ have
+no common vertices!!,!! since, otherwise, $G$ would not be $2$-connected.
+So, $v$ and $v'$ are connected by $e$ and $e'$ to a vertex $w$ and $w'$,
+respectively. Since face-size!! is at most $4$, the vertices $v$ and $v'$,
+(respectively, $w$ and $w'$) are linked by two edges
+(see Figure \ref{fig:TheThreeCases}).!!!
+Two points $w$ and $w'$ can either be connected by two edges and
+we are done, or disconnect the graph. In the latter case, we can iterate
+the construction. Since the graph is finite, the construction eventually
+finish and we get a graph $J_{4,2m!!}$. If $t=1$ and
+$t'=3$, then by a similar reasoning, one gets again a graph $J_{4,2m}$.
+
+Assume that $t=2$ and $t'=2$. One has $\{e_1, e_2\}\cap \{e'_1, e'_2\}=\emptyset$, since, otherwise, one can attribute an edge to $C_2$ and get the case
+$t=1$ and $t'=1$. So, one has, say, $e_1\cap e'_1=\{w_1\}$ and 
+$e_1\cap e'_1=\{w_2\}$,!! and the following two possibilities 
+(see Figure \ref{fig:TheThreeCases}): either $w_1=w_2$ (this
+corresponds to $\{e_1, e_2\}$ and $\{e'_1, e'_2\}$ being the edges
+of two $2$-gons) and we are done, or $w_1\not= w_2$.!!!
+Assume now that $w_1\not= w_2$; two points $w_1$ and $w_2$ can 
+either be connected by two edges and we are done, or disconnect the
+graph. In the latter case, we can iterate the construction. Since the 
+graph is finite, the construction eventually finish. If we do the same
+construction on the other side, then we get a similar structure and the 
+graph is of the form $I_{4,2m+2}$, $I_{5, 2m+1}$ or $I_{6,2m}$ with 
+$m\geq 2$.
+
+
+Assume now that $t=2$ and $t'=1$. The edges $e_1$, $e_2$ and $e'_1$ are
+all distinct, since, otherwise, the vertex $v$ disconnects the graph.
+So, $v'$ is connected by $e'_1$ to a vertex $w'$. Now either $v'$ or $w'$
+is connected to $v$,!! since, otherwise, we would have a $5$-gonal face.
+If $w'$ is connected to $v$, then the pair $\{w', v\}$ disconnects the graph.
+This construction is infinite (see Figure \ref{fig:TheThreeCases}), so,
+we get a contradiction.
+
+
+
+
+\begin{figure}
+\centering
+\mbox{
+\subfigure[The case $t=1$, $t'=1$]{\epsfig{figure=Case3-3.eps,width=.30\textwidth}}
+\subfigure[The case $t=2$, $t'=2$]{\epsfig{figure=Case2-2.eps,width=.20\textwidth}}
+\subfigure[The case $t=2$, $t'=1$]{\epsfig{figure=InfiniteStructure.eps,width=.30\textwidth}}
+}
+\caption{The three cases of Theorem \ref{3-connectedness}}
+\label{fig:TheThreeCases}
+\end{figure}
+
+
+
+\begin{theorem}
+(i) If $G$ is an $i$-hedrite with two adjacent $2$-gons, then 
+this is a $4$-hedrite {\bf 2-1} or a $J_{4,2m}$ with $m\geq 2$.
+
+(ii) If $G$ is an $i$-hedrite with two $2$-gons sharing a vertex, then 
+it is either $4$-hedrite {\bf 4-1}, or an $I_{4,2m+2}$, or $5$-hedrite 
+{\bf 3-1}, or an $I_{5,2m+1}$ with $m\geq 2$.
+
+\end{theorem}
+
+\proof The proof for (i), (ii) is similar to the cases $(t,t')$=$(1,1)$, $(2,2)$ of Theorem \ref{3-connectedness}.
+
+
+
+
+\begin{theorem}
+
+(i) $4$-hedrites exist if and only if $n\geq 2$, even.
+
+(ii) $5$-hedrites exist if and only if $n\geq 3$, $n\not= 4$.
+
+(iii) $6$-hedrites exist if and only if $n\geq 4$.
+
+(iv) $7$-hedrites exist if and only if $n\geq 7$.
+
+(v) $8$-hedrites exist if and only if $n\geq 6$, $n\not= 7$.
+
+\end{theorem}
+\proof The case (v) is proven in \cite{Gr}, page 282.
+The case (i) is trivial; take, for example, the serie $J_{4,2m}$.
+
+The series $I_{6,2m}$, $I_{5,2m+1}$ for any $m \ge 2$, give $6$-hedrites
+and $5$-hedrites with even and, respectively, odd number of vertices.
+
+For $5$-, $6$- and $7$-hedrites, we 
+!!get by $(t-1)$-inflation 
+(along a central circuit of length $4$ in corresponding 
+$i$-hedrites!! {\bf 6-1}, {\bf 5-1} and!! {\bf 7-1})!!
+series with $4t+2$, $4t+1$ and 
+$4t+3$ vertices. By $(t-2)$-inflation
+along such central circuit in $7$-hedrite {\bf 8-1}, we get a serie of
+$7$-hedrites!! with $4t$ vertices.
+By $(t-1)$-inflation along central circuit of length $6$ in 
+$5$-hedrite {\bf 10-2}, we get serie of $5$-hedrites with $6t+4$ vertices.
+!!please, delete above sentence, since it is not finish proof for
+5-hedrites, the cases 8t+4 ans 16t remain. But put my proof
+from E-mail 9 november!!
+By $(t-1)$-inflation along central circuit in $6$-hedrite {\bf 11-4}, we
+get serie of $6$-hedrites with $8t+3$ vertices.
+!!add following remaining thing for 6-hedrites
+!!By $t$-inflation along central circuit of length $8$ in 
+$6$-hedrite {\bf 15-2 !!number in your computation!!}, 
+we get serie of $6$-hedrites with $8t+7$ vertices. 
+
+%Now, by inscribing concecutively $3$-gons in the $3$-gon, which is adjacent
+%only to $3$-gons, in $7$-hedrites {\bf 7-1} and {\bf 8-1}, we get series
+%of $7$-hedrites with $3t+1$ and $3t+2$ vertices.
+Inscribing concecutively $4$-gons in the $4$-gon, which is adjacent only to
+$3$-gons, in $7$-hedrite {\bf 9-1} and {\bf 10-2}, we get series of 
+$7$-hedrites with $4t+1$ and $4t+2$ vertices.
+
+
+
+
+
+Our computation presented all $i$-hedrites with at most $15!!$ 
+vertices. 
+!!Th is OK. you can delete 5 lines below!!
+%Easy to see NEED TO COMPLETE Suppose that an $i$-hedrite has 
+%a $t$-gonal face $F$ adjacent to $t$ $3$-gons. Then, one can add 
+%to every edge $e_i$ of $F$ a vertex $v_i$ and form another 
+%$t$-gon $v_1\dots v_t$. The obtained graph is an $i$-hedrite 
+%with $n+t$ vertices.
+
+
+
+
+\section{Irreducible $i$-hedrites}
+
+
+
+\begin{theorem}\label{irre}
+Any irreducible $i$-hedrite has at most $i-2$ central circuits and equality is attained for each $i$, $4\leq i\leq 8$.
+\end{theorem}
+\proof For $i=8$, the theorem is proved in \cite{DSt}. We will show, using suitable cutting, that this result implies the Theorem for $i<8$.
+
+Let us start with the simplest case of a $7$-hedrites. Consider a simple circuit $S$ in its curvature graph, which contains the vertex corresponding to unique $2$-gon. Remind that the vertices in the curvature graph correspond to $2$- or $3$-gons, while edges correspond to pseudo-roads. So, the simple circuit $S$ corresponds to the circuit of faces of $G$, containing our $2$-gon, some $4$-gons and, possibly, some of six $3$-gons; see the picture below.
+
+
+\begin{center}
+\epsfxsize=40mm
+\epsfbox{CC_FowlerGraph.eps}
+\end{center}
+
+
+
+
+
+
+Suppose that the $7$-hedrite $G$ is irreducible and has $k$ central circuits. By adding the central circuit $C$, which is shown by dotted lines on picture above, we produce an $8$-hedrite (since, the $2$-gon is cut by $C$ in two $3$-gons), which is still irreducible and has $k+1$ central circuits. So, $k+1\leq 6$, by Theorem 3 of \cite{DSt}.
+
+
+For remaining cases of $i$-hedrites with $i=4,5,6$, the proof is similar. In each case, we consider all possible distribution of $2$-gons by simple circuits in the graph of curvatures and for each such circuit, we!! add suitable number of new central circuits. 
+
+
+All possibilities are presented on picture below:
+!!give the number of this Figure!!
+two for $i=6$, three for $i=5$ and two for $i=4$. In the last case, there are no $3$-gons and so, simple circuits in the curvature graph contain only even number of $2$-gons by local Euler formula 
+(\ref{Local-Euler-Formula})!!no such \ref!!.
+Note that the case of
+$4$-hedrites is obvious by Theorem 5 of \cite{DSt}.
+
+
+%\begin{center}
+%\epsfxsize=60mm
+%\epsfbox{PossibilitiesTwoToFour.eps}
+%\end{center}
+
+\begin{figure}
+\centering
+\mbox{\subfigure[The two cases for $6$-hedrites]{\epsfig{figure=PossibilitiesTwo.eps,width=.25\textwidth}}\quad
+\subfigure[The three cases for $5$-hedrites]{\epsfig{figure=PossibilitiesThree.eps,width=.25\textwidth}}\quad
+\subfigure[The two cases for $4$-hedrites]{\epsfig{figure=PossibilitiesFour.eps,width=.25\textwidth}}}
+\caption{The construction of Theorem \ref{irre} for $6$-, $5$-, $4$-hedrites}
+\label{The456hedriteCases}
+\end{figure}
+
+
+
+
+\begin{lemma}
+Let $G$ be an irreducible $8$-hedrite and $C$ a central circuit, 
+which!! is adjacent to three $3$-gons on one side. Then one can add another central circuit to $G$, so that the resulting graph is still!! irreducible.
+\end{lemma}
+\proof From every one of the three $3$-gons, say $T_1$, $T_2$, $T_3$, one can define a pseudo-road,!! from the side of the central $3$-gon,!! that belongs to the central circuit. See picture below.
+\begin{center}
+\epsfxsize=40mm
+\epsfbox{ThrreTrianglesCentral.eps}
+\end{center}
+Each such pseudo-road defines!! an edge, say,!! $e_1$, $e_2$, $e_3$ in the graph 
+of curvatures. We have two possibilities: either a path exist from $T_i$ 
+to $T_j$,!! which!! uses!! the edges $e_i$, $e_j$ or such a path does not exist. In 
+first case one can add a central circuit which cut all $3$-gons $T_1$, 
+$T_2$, $T_3$ in the form depicted below:
+\begin{center}
+\epsfxsize=40mm
+\epsfbox{CuttingAllTriangles.eps}
+\end{center}
+
+Assume now that there is no path between $T_i$ and $T_j$. Then, since the graph of curvatures is $3$-valent, the graph NEED TO COMPLETE
+
+
+
+
+
+
+
+
+
+
+
+
+
+See below example of an irreducible $7$-hedrite (its CC-vector is $(10^2, 12^2; 20)$ with the maximum number of central circuits.
+
+
+\begin{center}
+\epsfxsize=60mm
+\epsfbox{7hedrite32Vertex5CC.eps}
+\end{center}
+
+For all other $i$, there is an example of pure irreducible $i$-hedrite with $i-2$ central circuits (see 
+Theorem \ref{TheOneWithSimpleCentralCircuit}), which are, moreover, pure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{conjecture}
+An irreducible $i$-hedrite is maximal irreducible if and only if it has $i-2$ central circuits.
+\end{conjecture}
+%\proof NEED TO FIND.
+
+
+
+\section{Classification of pure irreducible $i$-hedrites}
+The easiest case, $i=4$, of i-hedrites admits following complete
+characterization:
+
+\begin{theorem}\label{Theorem-for-4-hedrite}
+(i) Any $4$-hedrite can be obtained from some $4$-hedrite with two central
+circuits by simultanous $t_1$- and $t_2$-inflation along those circuits; it is
+irreducible if and only if $t_1=t_2=1$.
+
+(ii) Any $4$-hedrite with two central circuits is defined by
+its number of vertices $n$ and by {\em shift} $j$, $0 \le j \le n/4$,
+vertices between the pair of boundary $2$-gons on the horizontal
+circuit (see, for example, $4$-hedrite {\bf 8-1}) and the remaining
+pair of $2$-gons. 
+!!%Remark that not all possible values of the shift are possible.
+!!Remark that for some pairs $n, j$ we get $4$-hedrite with more than two
+central circuits.!!
+
+(iii) Any $4$-hedrite is balanced.
+
+\end{theorem}
+\proof (i) and (ii) are proved in \cite{DSt}, 
+while (iii) !!
+is obvious for $4$-hedrite with two central circuits and remain true
+under $t_1$- and $t_2$-inflation.
+
+The shift!! $j=0$ corresponds to {\bf 2-1} and its 
+only-on one-circuit!! inflations
+$J_{4,n=2m}$. The case $j=1$ correspond to {\bf 4-1} and $I_{4,n=2m+2}$.
+Denote by $K_{4,4m}$, for any $m \ge 2$, any $4m$-vertex $4$-hedrite obtained
+from {\bf 4-1} by m-inflation of only one its central circuit; so, its 
+CC-vector is $(4^m,4m)$, its symmetry is $D_{2d}$ and it is reducible.
+Clearly, any $K_{4,n=4m}$ has the maximal!! shift $j=n/4$.
+
+
+
+
+%\begin{theorem}\label{Theorem-for-4-hedrite}
+%
+%Let $G$ be an irreducible $4$-hedrite, $G$ is defined
+%by the shift by $i, i=0,1,2,..., [\frac{m}{2}]$ 
+%vertices between the pair of boundary $2$-gons of the
+%horizontal circuit and the remaining pair of $2$-gons.
+%\end{theorem}
+
+
+
+
+
+
+
+
+
+
+\begin{theorem}\label{TheOneWithSimpleCentralCircuit}
+
+Any pure irreducible $i$-hedrite is, either any $4$-hedrite with two
+central circuits, or a $5$-hedrite {\bf 6-2}, or one of $6$-hedrites
+{\bf 8-6}, {\bf 14-20}, or one of the following eight $8$-hedrites:
+{\bf 6-1}, {\bf 12-4}, {\bf 12-5}, {\bf 14-7}, and (see Figure 
+\ref{ThePureIrreducibleOctahedriteWith56CC}) {\bf 20-1}, {\bf 22-1},
+{\bf 30-1}, {\bf 32-1}.
+
+
+\end{theorem}
+
+
+\proof Let $G$ be a pure irreducible $i$-hedrite having $r$ central circuits. 
+If one deletes a central circuit, then, in general, $1$-gon can appear. It 
+does not happen for $G$, since it will imply a self-intersection of a central 
+circuit. Clearly, the result of deletion of a central circuit from $G$ 
+produces an pure irreducible $i$-hedrite with $r-1$ central circuits.
+
+First, if $r=2$, then the Theorem 5 from \cite{DSt} gives that such $G$ are 
+exactly $4$-hedrites with two central circuits; all of them are classified 
+in Theorem \ref{Theorem-for-4-hedrite}.
+
+We prove the Theorem by systematical analysis of all possible ways to add 
+to $G$ (for $r=2,3,4,5$) a central circuit, in order to get a pure 
+irreducible $i$-hedrite with $r+1$ central circuits. 
+
+
+(i) Let $r=2$. Then $G$ can be only one of two smallest $4$-hedrites. In 
+fact, if $G$ is another $4$-hedrite, then,!! because of classification Theorem 
+\ref{Theorem-for-4-hedrite}, it has a form as in Figure \ref{Cutting4hedrite}.
+
+New central circuit should cut both $2$-gons on opposite edges, 
+since,!! otherwise,!! there is a rail-road. But Figure \ref{Cutting4hedrite} shows, on example for $n=6$, that a self-intersection appears if the two central circuits interesect in more than four vertices of intersection.
+
+
+\begin{figure}
+\centering
+\epsfxsize=40mm
+\epsfbox{SelfIntersectionForSix.eps}
+\caption{No pure irreducible $i$-hedrite comes by cutting of above one}
+\label{Cutting4hedrite}
+\end{figure}
+
+
+
+So, the only possible $4$-hedrites with {\em two}!! central circuits, which can
+be cut in order to produce irreducible pure $i$-hedrite
+are $4$-hedrites {\bf 2-1} and {\bf 4-1}. All cases are indicated below. 
+
+\begin{center}
+\epsfxsize=120mm
+\epsfbox{PurityThreeCentral.eps}
+\end{center}
+
+So, all irreducible pure $i$-hedrites with {\em three}!! central circuits are $5$-hedrite {\bf 6-2}, $6$-hedrite {\bf 8-5} and!! $8$-hedrite {\bf 6-1} (i.e. the projections of links $6^3_1$, $8^3_6$ and!! $6^3_2$).
+Now we apply the same procedure to those three $i$-hedrites; see 
+picture!! below:
+
+\begin{center}
+\epsfxsize=120mm
+\epsfbox{PurityFourCentral.eps}
+\end{center}
+
+So, all irreducible pure $i$-hedrites with {\em four}!! central circuits are $8$-hedrites {\bf 12-4}, {\bf 12-5}, {\bf 14-7} and $6$-hedrite {\bf 14-20}.
+
+By the same method, one can see that there are exactly two pure irreducible $i$-hedrites with {\em five}!! central circuits and two with {\em six}!! central circuits (see Figure \ref{ThePureIrreducibleOctahedriteWith56CC}).
+
+\begin{figure}
+{\small
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=3.5cm
+\epsffile{4reg_21_114.ps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.20-1} \quad $D_{2d}$ \\ $(8^5)$ \\ }
+\end{center}
+\end{minipage}
+% \setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{PureOctahedrite22.eps}
+\end{picture}
+\par
+\begin{center}
+{{\bf Nr.22-1} \quad $D_{2h}$ \\ $(8^3,10^2)$ \\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\hfil\begin{picture}(2.3,2.3)
+\leavevmode
+\epsfxsize=2.3cm
+\epsffile{oc30-1.ps}
+\end{picture}\hfil\par
+\begin{center}
+{{\bf Nr.30-1} \quad $O$ \\ $(10^6)$ \\}
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+% \epsfxsize=3.5cm
+% \epsffile{fig-32.pic}
+\mbox{} \hspace{-1cm}
+\input fig-32.pic
+\end{picture}\par
+\begin{center}
+{{\bf Nr.32-1} \quad $D_{4h}$ \\ $(10^4,12^2)$ \\}
+\end{center}
+\end{minipage}
+}
+\caption{Pure irreducible $i$-hedrites with $5$ or $6$ central circuits}
+\label{ThePureIrreducibleOctahedriteWith56CC}
+\end{figure}
+
+
+\begin{remark!!}
+Any pure $i$-hedrite come from a pure irreducible $i$-hedrite with $j$ central circuits by simultaneous $t_1$-, \dots, $t_j$-inflation along those circuits; it is irreducible if and only if $t_1=\dots=t_j=1$.
+
+
+
+\end{corollary}
+
+
+
+
+
+\section{Symmetry groups!! of $i$-hedrites}
+We consider below the maximal symmetry groups of plane graphs; 
+these groups are identified with the corresponding point groups.
+
+
+
+%SHTOGRIN METHOD, PLEASE KEEP
+%--------------------------------
+%Consider a putative $5$-hedrite $G$ with symmetry $C_{3h}$. Then its three $2$-gons form orbit of size three. The only possibility for each of those $2$-gons is to intersect the plane of symmetry. But there are two ways of such intersection: either throught vertices of $2$-gons, or throught its edges. So, there is a belt of $4$-gons on which three $2$-gons are placed on equal distance. In the first case, the $4$-gons and $2$-gons of the belt are incident to its neighbor by opposite vertices; in the second case, they are adjacent by opposite edges.
+%
+%INSERT DRAWING, PLEASE
+%
+%One can see that the only way to complete those belts while preserving the $C_3$-symmetry, produces an inflation of $5$-hedrite {\bf 3-1} (in first case), or, in the second case, of the $5$-hedrite {\bf 6-2} (the medial of {\bf 3-1}).
+%
+%Also (NEED TO COMPLETE), the symmetry $C_3$ implies the symmetry $D_3$, so the symmetry $C_{3v}$ implies the symmetry $D_{3h}$.
+%---------------------------
+
+
+
+
+\begin{theorem}
+We indicate here the lists!! of symmetry groups of $i$-hedrites 
+together with the !!smallest number of vertices, for which they
+appear!:
+\begin{itemize}
+\item[(i)] The only symmetry groups of $4$-hedrites are point subgroups of $D_{4h}$, which contain $D_{2}$ as point subgroup, i.e. $D_{4h}$($n=2$), $D_4$($n=10$), $D_{2h}$($n=4$), $D_{2d}$($n=6$), $D_2$($n=12$).
+
+\item[(ii)] The only symmetry groups of $5$-hedrites are $C_1$($n=10$), $C_2$($n=8$), $C_s$($n=7$), $C_{2v}$($n=5$), $D_3$($n=15$) and $D_{3h}$($n=3$).
+
+\item[(iii)] The only symmetry groups of $6$-hedrites are $D_{2d}$($n=4$), $D_{2h}$($n=6$) and all their point subgroups, i.e. $D_{2}$($n=12$), $C_{2h}$($n=10$), $C_{2v}$($n=5$), $C_i$($16!!\le n\le 30!!$), $C_{2}$($n=6$), $C_{s}$($n=9$), $C_{1}$($n=9$).
+
+\item[(iv)] The only symmetry groups of $7$-hedrites are point subgroups of $C_{2v}$, i.e. $C_{2v}$($n=7$), $C_{2}$($n=11$), $C_{s}$($n=8$), $C_{1}$($n=11$).
+
+\item[(v)] The only symmetry groups of $8$-hedrites are $C_{1}$($n=16$), $C_s$($n=14$), $C_2$($n=12$), $C_{2v}$($n=11$), $C_i$($22\leq n\leq 46$), $C_{2h}$($22\leq n \leq 26$), $S_4$($22\leq n\leq 60$), $D_2$($n=10$), $D_{2d}$($n=14$), $D_{2h}$($n=22$), $D_3$($n=18$), $D_{3d}$($n=12$), $D_{3h}$($n=9$), $D_4$($n=18$), $D_{4d}$($n=8$), $D_{4h}$($n=10$), $O$($n=30$), $O_h$($n=6$).
+
+\end{itemize}
+
+
+\end{theorem}
+\proof For $4$-hedrites, see \cite{DSt}. Any transformation
+stabilizing a $2$-gon, can interchange its two edges and two vertices. So, the stabilizing point subgroup of a $2$-gon can be $C_{2v}$, $C_s$, $C_2$ or $C_1$ only.
+
+The unique $2$-gon of a!! $7$-hedrite !! has to be preserved by the symmetry group; so, all possibilities are $C_{2v}$, $C_s$, $C_2$, $C_1$.
+
+Every symmetry of an $i$-hedrite induces a symmetry on its $2$-gons and $3$-gons. Since the stabilizer of a $2$-gon, $3$-gon has maximal size $4$, $6$, this imply that the order of the symmetry group of an $i$-hedrite is 
+bounded from!! above by $4|Sym(8-i)|=4(8-i)!$ and $6|Sym(2i-8)|=6(2i-8)!$.
+
+So, in particular, the order of symmetry group of an $6$-hedrite is at most $8$. If $f$ is an element of order three,!! then it fix each 
+of two $2$-gons. Since!! the stabilizer of a $2$-gon does not contain an element of order three, we have that no such $f$ exists. If $f$ is 
+a rotation of order $4$,!! then $f^2$ is a rotation of order $2$ stabilizing each $2$-gon; so, the axis of $f$ goes throught the two $2$-gons. This is a contradiction.
+By a search in the Tables of the groups one can see that the only possibilities are $C_1$, $C_s$, $C_2$, $C_i$, $C_{2v}$, $C_{2h}$, $D_2$, $D_{2h}$, $D_{2d}$. In fact, there exists a $6$-hedrite for any of such symmetries in Figure \ref{special-i-hedrites} and subsection \ref{subsection-6!!-hedrites} 
+below.!!!
+For $5$-hedrites, since there are two $3$-gons, the maximal order of the group is $12$. The oddness of the number of $2$-gons excludes central symmetry, axis of order $4$, and groups $D_2$, $D_{2h}$, $D_{2d}$.
+
+If $G$ is a $5$-hedrite with a $3$-fold axis then this axis goes throught the two $3$-gons, say $T_1$, $T_2$. If one consider a belt of $4$-gons around $T_1$, then after a number $p$ of steps, one will encounter a $2$-gon 
+and so, by symmetry,!! three $2$-gons. So, we will have the following possibilities:
+
+\begin{center}
+\epsfxsize=60mm
+\epsfbox{PossibleNeighbor.eps}
+\end{center}
+
+There is only one way to extend this graph to a $5$-hedrite and the obtained extension has symmetry at least $D_3$. So, the group is $D_{3}$, $D_{3h}$ or $D_{3d}$.
+
+An $8$-hedrite has!! $k$-fold axis of rotation with $k=2, 3 or!! 4$. If $k=3$, then the axis of the rotation goes through two $3$-gons, say $T_1$, $T_8$. If one consider around $3$-gon $T_1$ a belt of $4$-gons, 
+then after some!! number $p$ of steps, one will encounter a $3$-gon and so, by symmetry,!! three $3$-gons, say,!! $\{T_2, T_3, T_4\}$. Adding, if necessary, belts of $4$-gons, one will encounter the last three $3$-gons, say $\{T_5, T_6, T_7\}$. There is an unique way to complete the graph while preserving the $3$-fold symmetry. The symmetry of !! obtained graph is 
+$D_3$, $D_{3d}$ or!! $D_{3h}$. 
+
+If $k=4$, then the axis of the rotation goes through a vertex or a $4$-gon. Assume,!! for simplicity, that this axis goes through a vertex;!! 
+then by!! repeating above reasoning, one obtains two orbits of 
+$3$-gons, say,!! $\{T_1, T_2, T_3, T_4\}$ and
+$\{T_5, T_6, T_7, T_8\}$,!! under $4$-fold symmetry and the symmetry group is $D_4$, $D_{4h}$, $D_{4d}$, $O$ or $O_h$.
+
+So, one obtains the above list of $18$ possible point groups. All these groups appear in subsection \ref{subsection-8-hedrites} (groups 
+$O_h$, $D_{4d}$, $D_{3h}$, $D_{2}$, $D_{4h}$, $C_{2v}$, $D_{3d}$, $C_2$),
+in Figure \ref{special-i-hedrites} (groups 
+$D_{2d}$, $C_{s}$, $C_{1}$, $D_{4}$, $D_{3}$, $C_{2h}$, $C_{i}$, 
+$S_{4}$, !!I just put groups in the same order ass on Fig.5!!
+%$C_{i}$, $C_{2h}$, $S_4$, $D_{3}$, $C_1$, $C_s$, $D_{2d}$, $D_4$), Figure \ref{ThePureIrreducibleOctahedriteWith56CC} (groups $D_{2h}$, $O$); for all groups!! (except, possibly,!! $C_i$, $C_{2h}$ and $S_4$) those examples of $8$-hedrites have smallest number of vertices.
+
+
+\begin{figure}
+{\small
+\begin{minipage}[t]{4cm}
+\centering
+\epsfxsize=4cm
+\epsffile{5-hedrite15-3sec.eps}\par
+{$5$-hedrite {\bf 15-1} $D_3$ smallest $(30)$}
+\end{minipage}
+\begin{minipage}[t]{4cm}
+\centering
+\epsfxsize=4cm
+\epsffile{6-hedriteCi.eps}\par
+{$6$-hedrite {\bf 30-1} $C_i$ $(8;26^2)$}
+\end{minipage}
+\begin{minipage}[t]{4cm}
+\centering
+\epsfxsize=4cm
+\epsffile{First8hedriteD2d.eps}\par
+{$8$-hedrite {\bf 14-4} $D_{2d}$ smallest $(14^2)$}
+\end{minipage}
+\begin{minipage}[t]{4cm}
+\centering
+\epsfxsize=4cm
+\epsffile{OctahedriteCssec.eps}\par
+{$8$-hedrite {\bf 14-2} $C_s$ smallest $(6;22)$}
+\end{minipage}
+\begin{minipage}[t]{4cm}
+\centering
+\epsfxsize=4cm
+\epsffile{OctahedriteC1sec.eps}\par
+{$8$-hedrite {\bf 16-1} $C_1$ smallest $(6, 8; 18)$}
+\end{minipage}
+\begin{minipage}[t]{4cm}
+\centering
+\epsfxsize=4cm
+\epsffile{OctahedriteSymmetryD4.eps}\par
+{$8$-hedrite {\bf 18-1} $D_4$ smallest $(18^2)$}
+\end{minipage}
+\begin{minipage}[t]{4cm}
+\centering
+\epsfxsize=4cm
+\epsffile{ZZprojection7:3.ps}\par
+{$8$-hedrite {\bf 18-2} $D_3$ smallest $(36)$}
+\end{minipage}
+\begin{minipage}[t]{4cm}
+\centering
+\epsfxsize=4cm
+\epsffile{OcahedriteC2hOther.eps}\par
+{$8$-hedrite {\bf 26-1} $C_{2h}$ $(8^2; 36)$}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{4cm}
+\centering
+\epsfxsize=4cm
+\epsffile{8-hedriteCi.eps}\par
+{$8$-hedrite {\bf 46-1} $C_i$ $(10; 82)$}
+\end{minipage}
+%\setlength{\unitlength}{1cm}
+%\begin{minipage}[t]{4cm}
+%\begin{picture}(5,5)
+%\leavevmode
+%\epsfxsize=4cm
+%\epsffile{OcahedriteC2h.eps}
+%\end{picture}\par
+%\begin{center}
+%{$8$-hedrite {\bf 48-1} $C_{2h}$ $(10; 18^2, 50)$}
+%\end{center}
+%\end{minipage}
+\begin{minipage}[t]{4cm}
+\centering
+\epsfxsize=4cm
+\epsffile{OctahedriteS4.eps}\par
+{$8$-hedrite {\bf 60-1} $S_4$ $(16;26^4)$}
+\end{minipage}
+}
+\caption{Some $i$-hedrites with special symmetry groups}
+\label{special-i-hedrites}
+\end{figure}
+
+
+
+%The smallest $i$-hedrite and the smallest $8$-hedrite with symmetry $D_3$ are given in Figure \ref{fig:WithSymmetryD3} (both are knots).
+%\begin{figure}
+%\centering
+%\mbox{\subfigure[$15$-vertices $5$-hedrite]{\epsfig{figure=5-hedrite15-3sec.eps,width=.20\textwidth}}\quad
+%\subfigure[$18$-vertices $8$-hedrite]{\epsfig{figure=ZZprojection7:3.ps,width=.20\textwidth}}}\caption{Two smallest $i$-hedrites with symmetry $D_3$}
+%\label{fig:WithSymmetryD3}
+%\end{figure}
+
+
+
+
+
+\begin{remark}
+The simplest case, $i=4$, of $i$-hedrites admits characterization for each of
+its five possible groups.
+It has symmetry $D_{2h}$  (respectively, $D_{2d}$) if and only if it is an
+$t$-inflation, for some $t \ge 1, m \ge 2$, of $J_{4,2m}$ or $I_{4,2m+2}$ with
+even $m$ (respectively, of $K_{4,4m}$ or $I_{4,2m+2}$ with odd $m$).
+Any $4$-hedrite with group $D_{4h}$ or $D_4$ has $2(k^2+l^2)$ vertices for some
+$k \ge l \ge 0$ (the group!! $D_{4h}$ corresponds to 
+!!the case $l=k$ or $0$)!!; it comes from the
+smallest $4$-hedrite {\bf 2-1} by Goldgerg-Coxeter operation (see \cite{Gold37}, \cite{Cox71} and \cite{DD03}).
+All other 4-hedrites have symmetry $D_2$; in shift terms, they are exactly those, for which interchange of central circuits changes the value of shift.
+\end{remark}
+
+We expect that a!! $7$-hedrite with highest!! symmetry $C_{2v}$!! exists 
+!!%and only one if and only
+!!%if $n \ge 7$, except $8$ and $9$.
+!!for any $n \ge 10$; only one undecided case is $n=12t+4 \ge 16$.
+
+
+
+
+\section{Small $i$-hedrites}
+
+Here and below all links are given 
+in Rolfsen's notation (see the table in \cite{Rolf} and also,  
+for example, \cite{Kaw}) for links with at most 9 
+crossings and knots with 10 crossings, or, otherwise, in
+Dowker-Thistlewhaite's numbering (see \cite{T}), if any.
+We write $\sim$ if the projection in our Table is different 
+from the one given in corresponding cases !! above.!! 
+
+We give below all $i$-hedrites with at most $12$ vertices indicating under 
+picture of each its symmetry, CC-vector and corresponding alternating link.
+If an $i$-hedrite is $2$-connected but not $3$-connected, then we add
+a symbol ${\bf *}$ just after the number. If an $i$-hedrite is reducible
+(i.e. has a rail-road), then we add mention ``red.''. All $i$-hedrites
+with $13$, $14!!$ and $15!!$ vertices are listed in Table \ref{tab:i-hedrite13_14}. 
+
+Only three reducible $i$-hedrites with $n \le!! 15!!$ have a!! self-intersecting
+railroad: $5$-hedrites {\bf 12-3}, {\bf 14-6} and $6$-hedrite {\bf 13-11}.
+
+
+On the Figures!! below, in order to express better the (maximal)
+symmetry of an $i$-hedrite, we put:
+
+(i) a double arrow, in order to represent an edge passing at infinity,
+
+(ii) a quadruple arrow, in order to represent a vertex at infinity.
+
+
+
+
+
+\subsection{$8$-hedrites}\label{subsection-8-hedrites}
+{\small
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\centering
+\epsfxsize=2.5cm
+\epsffile{8-hedrite6-1.eps}\par
+{{\bf Nr.6-1} \quad $O_h$\\ $6^3_2$ \quad $(4^3)$\\\vspace{3mm} }
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\centering
+\epsfxsize=2.5cm
+\epsffile{8-hedrite8-1.eps}\par
+{{\bf Nr.8-1} \quad $D_{4d}$\\ $8_{18}$ \quad $(16)$\\\vspace{3mm} }
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\centering
+\epsfxsize=2.5cm
+\epsffile{8-hedrite9_1.eps}\par
+{{\bf Nr.9-1} \quad $D_{3h}$\\ $9_{40}$ \quad $(18)$\\\vspace{3mm} }
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\centering
+\epsfxsize=2.5cm
+\epsffile{8-hedrite10_1sec.eps}\par
+{{\bf Nr.10-1} \quad $D_{2}$\\ $10^2_{56}$ \quad $(6;14)$\\\vspace{3mm} }
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\centering
+\epsfxsize=2.5cm
+\epsffile{8-hedrite10_2sec.eps}\par
+{{\bf Nr.10-2} \quad $D_{4h}$\\ $10^4_{169}$ \quad $(4^2,6^2)$ red.\\\vspace{3mm} }
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\centering
+\epsfxsize=2.5cm
+\epsffile{8-hedrite11_1.eps}\par
+{{\bf Nr.11-1} \quad $C_{2v}$\\ $11^3_{520}$ \quad $(6^2;10)$\\\vspace{3mm} }
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\centering
+\epsfxsize=2.2cm
+\epsffile{8-hedrite12-5cage.ps}\par
+{{\bf Nr.12-1} \quad $D_{3d}$\\ $12_{1019}$ \quad $(24)$\\\vspace{3mm} }
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\centering
+\epsfxsize=2.5cm
+\epsffile{8-hedrite12_2.eps}\par
+{{\bf Nr.12-2} \quad $D_2$\\ $12_{868}$ \quad $(24)$\\\vspace{3mm} }
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\centering
+\epsfxsize=2.5cm
+\epsffile{8-hedrite12_3thi.eps}\par
+{{\bf Nr.12-3} \quad $C_2$\\ $?????$ \quad $(6;18)$\\\vspace{3mm} }
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\centering
+\epsfxsize=2.5cm
+\epsffile{8-hedrite12_4.eps}\par
+{{\bf Nr.12-4} \quad $O_h$\\ $?????$ \quad $(6^4)$\\\vspace{3mm} }
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\centering
+\epsfxsize=2.2cm
+\epsffile{8-hedrite12-1cage.ps}\par
+{{\bf Nr.12-5} \quad $D_{3h}$\\ $????$ \quad $(6^4)$\\\vspace{3mm} }
+\end{minipage}
+}
+
+
+
+
+
+
+\subsection{$7$-hedrites}
+{\small
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\centering
+\epsfxsize=2.5cm
+\epsffile{7-hedrite7_1sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.7-1} \quad $C_{2v}$\\ $7^2_{6}$ \quad $(4;10)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\centering
+\epsfxsize=2.5cm
+\epsffile{7-hedrite8_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.8-1} \quad $C_{s}$\\ $8^2_{13}$ \quad $(4;12)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\centering
+\epsfxsize=2.5cm
+\epsffile{7-hedrite9_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.9-1} \quad $C_{s}$\\ $9_{34}$ \quad $(18)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\centering
+\epsfxsize=2.5cm
+\epsffile{7-hedrite10_1sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-1} \quad $C_{s}$\\ $10_{121}$ \quad $(20)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\centering
+\epsfxsize=2.5cm
+\epsffile{7-hedrite10_2sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-2} \quad $C_{2v}$\\ $10^2_{111}$ \quad $(10^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\centering
+\epsfxsize=2.5cm
+\epsffile{7-hedrite10_3.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-3} \quad $C_{s}$\\ $\sim 10^2_{69}$ \quad $(8,12)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\centering
+\epsfxsize=2.5cm
+\epsffile{7-hedrite11_1sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-1} \quad $C_2$\\ $11_{288}$ \quad $(22)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\centering
+\epsfxsize=2.5cm
+\epsffile{7-hedrite11_2.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-2} \quad $C_{1}$\\ $11_{301}$ \quad $(22)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\centering
+\epsfxsize=2.5cm
+\epsffile{7-hedrite11_3sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-3} \quad $C_{s}$\\ $11^2_{150}$ \quad $(8,14)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\centering
+\epsfxsize=2.5cm
+\epsffile{7-hedrite11_4sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-4} \quad $C_{2v}$\\ $11^3_{487}$ \quad $(4^2;14)$ red.\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\centering
+\epsfxsize=2.5cm
+\epsffile{7-hedrite12_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-1} \quad $C_{1}$\\ $\sim 12_{361}$ \quad $(24)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\centering
+\epsfxsize=2.5cm
+\epsffile{7-hedrite12_2.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-2} \quad $C_{1}$\\ $?????$ \quad $(6;18)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{7-hedrite12_3sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-3} \quad $C_{s}$\\ $????$ \quad $(10,14)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{7-hedrite12_4.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-4} \quad $C_{2v}$\\ $????$ \quad $(6^2;12)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{7-hedrite12_5.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-5} \quad $C_{s}$\\ $???$ \quad $(4^2;16)$ red.\\ }
+\end{center}
+\end{minipage}
+}
+
+
+
+
+
+
+
+\subsection{$6$-hedrites}
+{\small
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite4_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.4-1${}^*$} \quad $D_{2d}$\\ $4_{1}$ \quad $(8)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite5_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.5-1} \quad $C_{2v}$\\ $5^2_{1}$ \quad $(4;6)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite6_1sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.6-1} \quad $C_{2}$\\ $6_{3}$ \quad $(12)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite6_2.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.6-2${}^*$} \quad $D_{2h}$\\ $\sim 6^2_{3}$ \quad $(6^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite7_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.7-1} \quad $C_{2}$\\ $\sim 7_{7}$ \quad $(14)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite8_1sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.8-1${}^*$} \quad $D_{2h}$\\ $\sim 8_{12}$ \quad $(16)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite8_2sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.8-2} \quad $C_{2}$\\ $8_{17}$ \quad $(16)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite8_3.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.8-3} \quad $D_{2d}$\\ $8^2_{14}$ \quad $(4;12)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite8_4.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.8-4} \quad $C_{2}$\\ $\sim 8^2_{8}$ \quad $(6;10)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite8_5.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.8-5} \quad $D_{2h}$\\ $8^3_{6}$ \quad $(4,6^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite9_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.9-1} \quad $C_{2}$\\ $\sim 9_{31}$ \quad $(18)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite9_2.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.9-2} \quad $C_{1}$\\ $9_{33}$ \quad $(18)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite9_3sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.9-3} \quad $C_{s}$\\ $9^2_{38}$ \quad $(4;14)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite9_4sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.9-4} \quad $C_{2v}$\\ $9^3_{12}$ \quad $(4^2;10)$ red.\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite9_5.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.9-5} \quad $C_{s}$\\ $9^3_{11}$ \quad $(4,6;8)$\\ }
+\end{center}
+\end{minipage}
+%\setlength{\unitlength}{1cm}
+%\begin{minipage}[t]{3.5cm}
+%\begin{picture}(3.5,3.5)
+%\leavevmode
+%\epsfxsize=2.5cm
+%\epsffile{6-hedrite10_1.eps}
+%\end{picture}\par
+%\begin{center}
+%{{\bf Nr.10-1} \quad $C_{2}$\\ $10_{115}$ \quad $(20)$\\ }
+%\end{center}
+%\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite10_3.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-1} \quad $C_{2v}$\\ $10_{120}$ \quad $(20)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite10_4sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-2} \quad $C_{2}$\\ $\sim 10_{88}$ \quad $(20)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite10_5sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-3} \quad $C_{2}$\\ $\sim 10_{45}$ \quad $(20)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite10_6sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-4} \quad $C_{2}$\\ $10_{115}$ \quad $(20)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite10_7.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-5${}^*$} \quad $D_{2h}$\\ $\sim 10^2_{87}$ \quad $(10^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite10_9sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-6} \quad $C_{2}$\\ $10^2_{86}$ \quad $(6;14)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite10_8sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-7} \quad $C_{2}$\\ $10^2_{43}$ \quad $(4;16)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite10_10sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-8} \quad $C_{2h}$\\ $\sim 10^3_{136}$ \quad $(4;8^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite10_11sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-9} \quad $C_{2v}$\\ $10^3_{136}$ \quad $(4,6;10)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite11_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-1} \quad $C_{2v}$\\ $11_{332}$ \quad $(22)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite11_2.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-2} \quad $C_{2v}$\\ $11_{297}$ \quad $(22)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite11_3.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-3} \quad $C_{1}$\\ $\sim 11_{125}$ \quad $(22)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite11_6.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-4} \quad $C_{2}$\\ $11^2_{317}$ \quad $(8;14)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite11_5.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-5} \quad $C_{2}$\\ $11^2_{?????}$ \quad $(8;14)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite11_4.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-6} \quad $C_{s}$\\ $11^2_{????}$ \quad $(8,14)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite11_7.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-7} \quad $C_{s}$\\ $11^2_{351}$ \quad $(10,12)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_2sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-1${}^*$} \quad $D_{2d}$\\ $\sim 12_{477}$ \quad $(24)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_4sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-2} \quad $D_{2}$\\ $12_{1152}$ \quad $(24)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_1sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-3} \quad $C_{2}$\\ $\sim 12_{499}$ \quad $(24)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_3sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-4} \quad $C_{2}$\\ $\sim 12_{458}$ \quad $(24)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_5sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-5} \quad $C_{2}$\\ $12_{1102}$ \quad $(24)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_7sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-6} \quad $C_{2}$\\ $12_{1167}$ \quad $(24)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_6.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-7} \quad $C_{1}$\\ $\sim 12_{626}$ \quad $(24)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_8.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-8} \quad $C_{1}$\\ $????$ \quad $(6;18)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_9sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-9} \quad $C_{2}$\\ $????$ \quad $(10,14)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_10sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-10} \quad $C_{s}$\\ $?????$ \quad $(8,16)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_11sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-11} \quad $D_{2d}$\\ $?????$ \quad $(4^2;16)$ red.\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_12.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-12} \quad $C_{2v}$\\ $????$ \quad $(8;8^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_13.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-13} \quad $C_{s}$\\ $?????$ \quad $(6;8,10)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{6-hedrite12_14.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-14} \quad $D_{2h}$\\ $????$ \quad $(4^2,8^2)$ red.\\ }
+\end{center}
+\end{minipage}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+\subsection{$5$-hedrites}
+{\small
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite3_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.3-1} \quad $D_{3h}$\\ $3_{1}$ \quad $(6)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite5_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.5-1${}^*$} \quad $C_{2v}$\\ $5_{2}$ \quad $(10)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite6_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.6-1} \quad $C_{2v}$\\ $6^2_{3}$ \quad $(4;8)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite6_2.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.6-2} \quad $D_{3h}$\\ $6^3_{1}$ \quad $(4^3)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite7_1sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.7-1${}^*$} \quad $C_{2v}$\\ $\sim 7_{5}$ \quad $(14)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite7_2.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.7-2} \quad $C_{s}$\\ $7^2_{5}$ \quad $(4;10)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite7_3sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.7-3} \quad $C_{2v}$\\ $7^3_1$ \quad $(4^2;6)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite8_1sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.8-1} \quad $C_{2}$\\ $\sim 8_{15}$ \quad $(16)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite9_1sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.9-1} \quad $C_{2}$\\ $9_{38}$ \quad $(18)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite9_2sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.9-2${}^*$} \quad $C_{2v}$\\ $\sim 9_{18}$ \quad $(18)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite10_3.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-1} \quad $C_{2v}$\\ $10^3_{155}$ \quad $(4^2;12)$ red.\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite10_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-2} \quad $C_{1}$\\ $10^2_{85}$ \quad $(6;14)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite10_2sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-3} \quad $C_{2v}$\\ $10^4_{173}$ \quad $(4^2,6^2)$ red.\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite11_2sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-1${}^*$} \quad $C_{2v}$\\ $\sim 11_{236}$ \quad $(22)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite11_1sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-2} \quad $C_{2}$\\ $\sim 11_{124}$ \quad $(22)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite11_3.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-3} \quad $C_{1}$\\ $11^2_{226}$ \quad $(6;16)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite11_4.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-4} \quad $C_{s}$\\ $11^3_{500}$ \quad $(4^2;14)$ red.\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite11_5.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.11-5} \quad $C_{s}$\\ $11^4_{547}$ \quad $(4^2,6;8)$ red.\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite12_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-1} \quad $C_{1}$\\  $\sim 12_{431}$ \quad $(24)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite12_2.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-2} \quad $C_{2v}$\\ $????$ \quad $(12^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{5-hedrite12D3hsec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-3} \quad $D_{3h}$\\ $????$ \quad $(12^2)$ red.\\ }
+\end{center}
+\end{minipage}
+}
+
+
+
+
+
+
+
+\subsection{$4$-hedrites}
+{\small
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite2_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.2-1} \quad $D_{4h}$\\ $2^2_1$ \quad $(2^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite4_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.4-1} \quad $D_{4h}$\\ $4^2_1$ \quad $(4^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite4-2.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.4-2${}^*$} \quad $D_{2h}$\\ $2\times 2^2_1$ \quad $(2^2,4)$ red.\\}
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite6_1sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.6-1${}^*$} \quad $D_{2d}$\\ $6^2_2$ \quad $(6^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite6-2.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.6-2${}^*$} \quad $D_{2h}$\\ $3\times 2^2_1$ \quad $(2^3,6)$ red.\\}
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite8_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.8-1${}^*$} \quad $D_{2h}$\\ $\sim 8^2_4$ \quad $(8^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite8_2.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.8-2} \quad $D_{2d}$\\ $8^3_4$ \quad $(4^2,8)$ red.\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite8_3.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.8-3} \quad $D_{4h}$\\ $8^4_{1}$ \quad $(4^4)$ red.\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite8-4.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.8-4${}^*$} \quad $D_{2h}$\\ $4\times 2^2_1$ \quad $(2^4,8)$ red.\\}
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite10_1sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-1} \quad $D_4$\\ $10^2_{121}$ \quad $(10^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite10_2sec.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-2${}^*$} \quad $D_{2d}$\\ $\sim 10^2_{120}$ \quad $(10^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite10-3.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.10-3${}^*$} \quad $D_{2h}$\\ $5\times 2^2_1$ \quad $(2^5,10)$ red.\\}
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite12_1.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-1${}^*$} \quad $D_{2h}$\\ $?????$ \quad $(12^2)$\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite12_2.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-2} \quad $D_2$\\ $????$ \quad $(6^2,12)$ red.\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite12_3.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-3} \quad $D_{2d}$\\ $????$ \quad $(4^3,12)$ red.\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite12_4.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-4} \quad $D_{2h}$\\ $????$ \quad $(4^3,6^2)$ red.\\ }
+\end{center}
+\end{minipage}
+\setlength{\unitlength}{1cm}
+\begin{minipage}[t]{3.5cm}
+\begin{picture}(3.5,3.5)
+\leavevmode
+\epsfxsize=2.5cm
+\epsffile{4-hedrite12-5.eps}
+\end{picture}\par
+\begin{center}
+{{\bf Nr.12-5${}^*$} \quad $D_{2h}$\\ $6\times 2^2_1$ \quad $(2^6,12)$ red.\\}
+\end{center}
+\end{minipage}
+}
+
+
+
+
+\begin{table}
+\begin{center}
+{\small
+\begin{minipage}{7cm}
+\begin{tabular}{||l|l|l|l||}
+\hline
+Nr.	&Grp 	&CC-vector	&link\\\hline
+\multicolumn{4}{||c||}{$5$-hedrites}\\\hline
+{\bf 13-1${}^*$}&$C_{2v}$	&$26$		&$13_{3097
+!!here and in all Table our graph COINCIDE (not mere flip-equivalent,
+what we denote by ~) with knot  projection in Thistlewaite??!!}$\\
+{\bf 13-2}	&$C_1$	&$26$		&$13_{4054}$\\
+{\bf 13-3}	&$C_2$	&$6^2; 14$	&????\\
+{\bf 13-4}	&$C_s$	&$6; 8, 12$	&????\\\hline
+{\bf 14-1}	&$C_s$	&$28$		&$13_{16368}$\\
+{\bf 14-2}	&$C_1$	&$6; 22$		&????\\
+{\bf 14-3}	&$C_1$	&$8; 20$		&????\\
+{\bf 14-4}	&$C_{2v}$	&$8^2; 12$	&????\\
+{\bf 14-5}	&$C_{2v}$	&$4^3; 16$ red.	&????\\
+{\bf 14-6}	&$C_{2v}$	&$6^2; 8^2$ red.	&????\\
+{\bf 14-7}	&$C_{2v}$	&$4^3, 8^2$ red.	&????\\\hline
+\hline
+\multicolumn{4}{||c||}{$7$-hedrites}\\\hline
+{\bf 13-1}	&$C_s$	&$26$		&$13_{3861}$\\
+{\bf 13-2}	&$C_1$	&$26$		&$13_{3769}$\\
+{\bf 13-3}	&$C_1$	&$6; 20$		&????\\
+{\bf 13-4}	&$C_1$	&$10, 16$		&????\\
+{\bf 13-5}	&$C_s$	&$10, 16$		&????\\
+{\bf 13-6}	&$C_{2v}$	&$6^2; 14$	&????\\
+{\bf 13-7}	&$C_{s}$	&$6^2; 14$	&????\\\hline
+{\bf 14-1}	&$C_1$	&$28$		&$14_{13725}$\\
+{\bf 14-2}	&$C_1$	&$28$		&$14_{10841}$\\
+{\bf 14-3}	&$C_1$	&$28$		&$14_{5714}$\\
+{\bf 14-4}	&$C_1$	&$28$		&$14_{14207}$\\
+{\bf 14-5}	&$C_1$	&$6; 22$		&????\\
+{\bf 14-6}	&$C_s$	&$10, 18$		&????\\
+{\bf 14-7}	&$C_2$	&$14^2$		&????\\
+{\bf 14-8}	&$C_s$	&$6^2; 16$	&????\\
+{\bf 14-9}	&$C_{2v}$	&$6^2; 16$	&????\\\hline
+\hline
+\multicolumn{4}{||c||}{$8$-hedrites}\\\hline
+{\bf 13-1}	&$C_2$	&$26$		&$13_{3478}$\\
+{\bf 13-2}	&$C_{2v}$	&$6^2; 14$	&????\\\hline
+{\bf 14-1}	&$C_2$	&$28$		&$14_{17895}$\\
+{\bf 14-2}	&$C_s$	&$6; 22$		&????\\
+{\bf 14-3}	&$D_2$	&$6; 22$		&????\\
+{\bf 14-4}	&$D_{2d}$	&$14^2$		&????\\
+{\bf 14-5}	&$C_2$	&$6^2; 16$	&????\\
+{\bf 14-6}	&$D_2$	&$8; 10^2$	&????\\
+{\bf 14-7}	&$D_{4h}$	&$6^2, 8^2$	&????\\
+{\bf 14-8}	&$D_{4h}$	&$4^3, 8^2$ red.	&????\\\hline
+\end{tabular}
+\end{minipage}
+\begin{minipage}[t]{7cm}
+\begin{tabular}{||l|l|l|l||}
+\hline
+Nr.	&Grp 	&CC-vector	&link\\\hline
+\multicolumn{4}{||c||}{$4$-hedrites}\\\hline
+{\bf 14-1${}^*$}&$D_{2d}$	&$14^2$		&????\\\hline
+{\bf 14-2}	&$D_2$	&$14^2$		&????\\	
+{\bf 14-3${}^*$}&$D_{2h}$       &$2^7, 14$ red.  &????\\
+\hline
+\multicolumn{4}{||c||}{$6$-hedrites}\\\hline
+{\bf 13-1}	&$C_2$	&$26$		&$13_{1739}$\\
+{\bf 13-2} 	&$C_2$	&$26$		&$13_{3586}$\\
+{\bf 13-3} 	&$C_2$	&$26$		&$13_{1345}$\\
+{\bf 13-4} 	&$C_s$	&$26$		&$13_{3811}$\\
+{\bf 13-5} 	&$C_1$	&$26$		&$13_{1485}$\\
+{\bf 13-6}	&$C_1$	&$26$		&$13_{3957}$\\
+{\bf 13-7}	&$C_1$	&$26$		&$13_{2957}$\\
+{\bf 13-8}	&$C_1$	&$8; 18$		&????\\
+{\bf 13-9}	&$C_s$	&$12, 14$		&????\\
+{\bf 13-10}	&$C_s$	&$4^2; 18$ red.	&????\\
+{\bf 13-11}	&$C_{2v}$	&$8^2, 10$ red.	&????\\
+{\bf 13-12}	&$C_{2v}$	&$8^2; 10$	&????\\
+{\bf 13-13}	&$C_{2v}$	&$4^3; 14$ red.	&????\\
+{\bf 13-14}	&$C_s$	&$4^2,8;10$ red.	&????\\\hline
+{\bf 14-1} 	&$C_{2h}$	&$28$		&$14_{17173}$\\
+{\bf 14-2}	&$C_{2}$	&$28$		&$14_{17079}$\\
+{\bf 14-3}	&$C_2$	&$28$		&$14_{8767}$\\
+{\bf 14-4} 	&$C_2$	&$28$		&$14_{17734}$\\
+{\bf 14-5} 	&$C_2$	&$28$		&$14_{17148}$\\
+{\bf 14-6} 	&$C_1$	&$28$		&$14_{17309}$\\
+{\bf 14-7} 	&$C_1$	&$28$		&$14_{5570}$\\
+{\bf 14-8}	&$C_{2}$	&$6; 22$		&????\\
+{\bf 14-9} 	&$C_2$	&$6; 22$		&????\\
+{\bf 14-10}	&$C_2$	&$10; 18$		&????\\
+{\bf 14-11}	&$C_2$	&$10; 18$		&????\\
+{\bf 14-12}	&$C_s$	&$10, 18$		&????\\
+{\bf 14-13${}^{*}$}	&$D_{2h}$	&$14^2$		&????\\
+{\bf 14-14}	&$C_{2v}$	&$14^2$		&????\\
+{\bf 14-15}	&$C_2$	&$12, 16$		&????\\
+{\bf 14-16}	&$C_{s}$	&$12, 16$		&????\\
+{\bf 14-17}	&$C_2$	&$4^2; 20$ red.	&????\\
+{\bf 14-18}	&$C_2$	&$8; 10^2$	&????\\
+{\bf 14-19}	&$C_2$	&$6^2; 16$	&????\\
+{\bf 14-20}	&$D_{2h}$	&$6^2, 8^2$	&????\\
+{\bf 14-21}	&$C_{2v}$	&$6^3, 10$ red.	&????\\
+{\bf 14-22}	&$C_{2h}$	&$4^2; 10^2$ red.	&????\\
+{\bf 14-23}	&$C_{2v}$	&$4^2, 8; 12$ red.	&????\\\hline
+\end{tabular}
+\end{minipage}
+}
+\end{center}
+\caption{All $i$-hedrites with $13$ and $14$ vertices}
+\label{tab:i-hedrite13_14}
+\end{table}
+
+
+
+
+
+
+
+
+
+
+
+\begin{thebibliography}{99}
+
+
+%\bibitem[Alex50]{A}
+%A.D.Alexandrov, {\em Vypuklie Mnogogranniki},
+%GITL, Moscow, 1950. Translated in German as {\em Convexe Polyheder},
+%\item Akademie-Verlag, Berlin, 1958.
+
+\bibitem[Cox71]{Cox71}
+H.S.M.Coxeter, {\em Virus macromolecules and geodesic domes}, in {\em A spectrum of mathematics}; ed. by J.C.Butcher, Oxford University Press/Auckland University Press: Oxford, U.K./Auckland New-Zealand, (1971) 98--107.
+
+
+\bibitem[DDF02]{DDF}
+M.Deza, M.Dutour and P.W.Fowler,
+{\em Zigzags, Rail-roads and Knots in Fullerenes},
+submitted.
+
+
+\bibitem[DeGr99]{DG2}
+M.Deza and V.P.Grishukhin,
+{\em $l_1$-embeddable polyhedra},
+in: Algebras and Combinatorics, Int. Congress CAC '97 Hong Kong,
+ed. by K.P. Shum et al., Springer-Verlag (1999), pp. 189--210.
+
+
+\bibitem[DHL02]{DHL}
+M.Deza, T.Huang and K-W.Lih,
+{\em Central Circuit Coverings of Octahedrites and Medial Polyhedra},
+Journal of Math. Research \& Exposition {\bf 22-1} (2002) 49--66.
+
+
+\bibitem[DeSt02]{DSt}
+M.Deza and M.Shtogrin,
+{\em Octahedrites}, 
+Symmetry, Special Issue ``Polyhedra and Science and Art'', 2002.
+
+
+\bibitem[Dut]{Dut}
+M.Dutour, {\em PlanGraph, a gap package for Planar Graph}, 
+in preparation.!!
+
+
+\bibitem[DD02]{DD02}
+M.Dutour, M.Deza, {\em Zigzag Structure of Simple Bifaced Polyhedra}, submitted.
+
+
+\bibitem[DD03]{DD03}
+M.Dutour, M.Deza, {\em Goldberg-Coxeter Construction for convex polyhedra}, in preparation.
+
+
+\bibitem[GaKe94]{GK}
+M.L.Gargano and J.W.Kennedy,
+{\em Gaussian graphs and digraphs}, Congressus Numerantium {\bf 101}
+(1994) 161--170.
+
+
+\bibitem[GoRo01]{God}
+C.Godsil and G.Royle, {\em Algebraic Graph Theory}, Graduate Texts in 
+Mathematics {\bf 207}, Springer-Verlag, Berlin - New York, 2001.
+
+
+\bibitem[Gold37]{Gold37}
+M.Goldberg, {\em A class of multisymmetric polyhedra}, Tohoku Math.
+Journal, {\bf 43} (1937) 104--108.
+
+
+\bibitem[Gr\"{u}n67]{Gr}
+B.Gr\"{u}nbaum, {\em Convex polytopes}, Interscience, New York, 1967.
+
+
+\bibitem[Gr\"{u}n72]{Gr2}
+B.Gr\"{u}nbaum, {\em Arrangements and Spreads}, Regional Conference Series in
+Mathematics {\bf 10}, American Mathematical Society, 1972.
+
+
+\bibitem[Gr\"{u}nMo63]{GrMo}
+B.Gr\"{u}nbaum and T.S.Motzkin, {\em The number of hexagons and the simplicity
+of geodesics on certain polyhedra}, Canadian Journal of Mathematics {\bf 15} (1963) 744--751.
+
+
+\bibitem[Harb97]{Ha}
+H.Harborth, {\em Eulerian straight ahead cycles in drawings of complete
+bipartite graphs}, Bericht 97/23, Institute f\"{u}r Mathematik, Tech. 
+Universit\"{a}t
+Braunschweg, 1997.
+
+
+\bibitem[Heid98]{He}
+O.Heidemeier, {\em Die Erzeugung von 4-regul\"{a}ren, planaren,
+simplen, zusammenh\"{a}ngenden Graphen mit vorgegebenen Fl\"{a}chentypen},
+Diplomarbeit, Universit\"{a}t Bielefeld, Fakult\"{a}t f\"{u}r Wirtschaft und
+Mathematik, 1998. 
+
+
+\bibitem[Jeo95]{Je}
+D.Jeong, {\em Realizations with a cut-through Eulerian circuit},
+Discrete Mathematics {\bf 137} (1995) 265--275.
+
+
+%\bibitem[Kau87]{Kau}
+%L.H.Kauffman, {\em On knots}, Princeton University Press, Princeton, New
+%Jersey, 1987.
+
+
+\bibitem[Kaw96]{Kaw}
+A.Kawauchi, {\em A survey of knot theory}, Birkh\"{a}user, 1996.
+
+
+\bibitem[Kir85]{Kirk}
+T. Kirkman, {\em The enumeration, description, and construction of knots with fewer than $10$ crossings}, Trans. Roy. Soc. Edin. {\bf 32} (1885), 281--309.
+
+
+\bibitem[Kot69]{Ko}
+A.Kotzig, {\em Eulerian lines in finite 4-valent graphs and their 
+transformations}, in: Theory of Graphs, Proceedings of a colloquium, 
+Tihany 1966, ed. by P.Erdos and G.Katona, Academic Press, 
+New York (1969), pp. 219--230.
+
+
+\bibitem[Liu98!!]{Liu}
+Liu Yanpei, {\em Embedding in Graphs}, Kluwer, Dodrecht, 1998.
+
+
+\bibitem[PTZ96]{PTZ}
+T.Pisanski, T.Tucker and A.Zitnik, {\em Eulerian Embedding of Graphs},
+University of Ljubljana, IMMF Preprint Series {\bf 34}
+(1996) 531.
+
+
+\bibitem[Rol76]{Rolf}
+D.Rolfsen, {\em Knots and Links}, Mathematics Lecture Series 7, Publish or
+Perish, Berkeley, 1976;
+second corrected printing: Publish or Perish, Houston, 1990.
+
+
+\bibitem[Sha75]{Sh}
+H.Shank, {\em The Theory of Left-Right Paths}, in: Combinatorial 
+Mathematics III,
+Proceedings of 3rd Australian Conference, St Lucia 1974, Lecture Notes in
+Mathematics {\bf 452}, Springer-Verlag, Berlin - New York (1975),  pp. 42--54.
+
+
+\bibitem[Thi]{T}
+M.Thistlewaite, \url{http://www.math.utk.edu/~morwen}.
+
+
+%\bibitem[Weis99]{Weis}
+%E.W.Weisstein, {\em CRC Concise Encyclopedia of Mathematics},
+%Chapman and Hall/CRC, Boca Raton, 1999. 
+\end{thebibliography}
+
+
+\end{document}

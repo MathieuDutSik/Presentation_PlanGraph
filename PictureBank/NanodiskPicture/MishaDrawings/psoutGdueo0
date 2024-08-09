@@ -1,0 +1,8892 @@
+%!PS-Adobe-3.0
+%%Title: flattened PostScript generated from file: TEST-3.ps
+%%Creator: pstoedit
+%%BoundingBox: (atend)
+%%Pages: (atend)
+%%EndComments
+%%BeginProlog
+/setPageSize { pop pop } def
+/ntranslate { neg exch neg exch translate } def
+/p2esetcolorname { pop } def
+/setshowparams { pop pop pop} def
+/awidthshowhex { dup length 0 gt { dup /ASCIIHexDecode filter exch length 2 div cvi string readstring pop } if awidthshow } def
+/awidthshowhexwithglyphs { true { pop awidthshowhex } { { glyphshow } forall pop } ifelse } def
+/backendconstraints { pop pop } def
+/pstoedit.newfont { 80 string cvs  findfont  dup length dict begin {1 index /FID ne {def} {pop pop} ifelse} forall  /Encoding ISOLatin1Encoding def   dup 80 string cvs /FontName exch def  currentdict end  definefont pop } def
+/imagestring 1 string def
+%%EndProlog
+%%BeginSetup
+% pstoedit.textastext pstoedit.doflatten backendconstraints   
+1 0 backendconstraints
+%%EndSetup
+%%Page: 1 1
+ 
+ 
+% 1                   pathnumber
+% strokedpath
+ 612 792 setPageSize
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 564.559 moveto
+ 348.238 706.16 lineto
+stroke
+ 
+ 
+% 2                   pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 348.238 706.16 moveto
+ 433.199 564.559 lineto
+stroke
+ 
+ 
+% 3                   pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 433.199 564.559 moveto
+ 263.039 564.559 lineto
+stroke
+ 
+ 
+% 4                   pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 564.559 moveto
+ 291.359 581.602 lineto
+stroke
+ 
+ 
+% 5                   pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 291.359 581.602 moveto
+ 404.879 581.602 lineto
+stroke
+ 
+ 
+% 6                   pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 404.879 581.602 moveto
+ 348.238 677.84 lineto
+stroke
+ 
+ 
+% 7                   pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 348.238 677.84 moveto
+ 291.359 581.602 lineto
+stroke
+ 
+ 
+% 8                   pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 404.879 581.602 moveto
+ 433.199 564.559 lineto
+stroke
+ 
+ 
+% 9                   pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 348.238 677.84 moveto
+ 348.238 706.16 lineto
+stroke
+ 
+ 
+% 10                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 328.32 643.762 moveto
+ 335.762 639.199 lineto
+stroke
+ 
+ 
+% 11                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 335.762 639.199 moveto
+ 348.238 635.359 lineto
+stroke
+ 
+ 
+% 12                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 348.238 635.359 moveto
+ 359.52 638.238 lineto
+stroke
+ 
+ 
+% 13                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 359.52 638.238 moveto
+ 367.922 643.762 lineto
+stroke
+ 
+ 
+% 14                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 348.238 581.602 moveto
+ 348.238 592.879 lineto
+stroke
+ 
+ 
+% 15                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 348.238 592.879 moveto
+ 370.801 615.441 lineto
+stroke
+ 
+ 
+% 16                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 370.801 615.441 moveto
+ 381.121 621.199 lineto
+stroke
+ 
+ 
+% 17                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 348.238 592.879 moveto
+ 325.441 615.441 lineto
+stroke
+ 
+ 
+% 18                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 325.441 615.441 moveto
+ 315.121 621.199 lineto
+stroke
+ 
+ 
+% 19                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 348.238 635.359 moveto
+ 348.238 629.602 lineto
+stroke
+ 
+ 
+% 20                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 348.238 629.602 moveto
+ 356.641 621.199 lineto
+stroke
+ 
+ 
+% 21                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 356.641 621.199 moveto
+ 353.762 609.922 lineto
+stroke
+ 
+ 
+% 22                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 353.762 609.922 moveto
+ 357.602 604.16 lineto
+stroke
+ 
+ 
+% 23                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 336.719 604.16 moveto
+ 341.52 609.922 lineto
+stroke
+ 
+ 
+% 24                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 341.52 609.922 moveto
+ 337.68 621.199 lineto
+stroke
+ 
+ 
+% 25                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 337.68 621.199 moveto
+ 348.238 629.602 lineto
+stroke
+ 
+ 
+% 26                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 341.52 609.922 moveto
+ 353.762 609.922 lineto
+stroke
+ 
+ 
+% 27                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 359.52 638.238 moveto
+ 361.441 623.121 lineto
+stroke
+ 
+ 
+% 28                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 361.441 623.121 moveto
+ 370.801 615.441 lineto
+stroke
+ 
+ 
+% 29                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 356.641 621.199 moveto
+ 361.441 624.078 lineto
+stroke
+ 
+ 
+% 30                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 335.762 638.238 moveto
+ 333.121 623.121 lineto
+stroke
+ 
+ 
+% 31                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 333.121 623.121 moveto
+ 324.48 615.441 lineto
+stroke
+ 
+ 
+% 32                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 336.719 621.199 moveto
+ 333.121 624.078 lineto
+stroke
+ 
+ 
+% 33                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 358.398 moveto
+ 272.641 357.441 lineto
+stroke
+ 
+ 
+% 34                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 272.641 357.441 moveto
+ 282.0 354.801 lineto
+stroke
+ 
+ 
+% 35                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 282.0 354.801 moveto
+ 290.641 350.238 lineto
+stroke
+ 
+ 
+% 36                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 290.641 350.238 moveto
+ 298.32 344.238 lineto
+stroke
+ 
+ 
+% 37                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 298.32 344.238 moveto
+ 304.559 337.039 lineto
+stroke
+ 
+ 
+% 38                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 304.559 337.039 moveto
+ 309.602 328.641 lineto
+stroke
+ 
+ 
+% 39                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 309.602 328.641 moveto
+ 312.719 319.281 lineto
+stroke
+ 
+ 
+% 40                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 312.719 319.281 moveto
+ 314.16 309.922 lineto
+stroke
+ 
+ 
+% 41                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 314.16 309.922 moveto
+ 313.68 300.078 lineto
+stroke
+ 
+ 
+% 42                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 313.68 300.078 moveto
+ 311.281 290.719 lineto
+stroke
+ 
+ 
+% 43                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 311.281 290.719 moveto
+ 307.199 281.84 lineto
+stroke
+ 
+ 
+% 44                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 307.199 281.84 moveto
+ 301.68 273.922 lineto
+stroke
+ 
+ 
+% 45                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 301.68 273.922 moveto
+ 294.719 267.199 lineto
+stroke
+ 
+ 
+% 46                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 294.719 267.199 moveto
+ 286.559 261.922 lineto
+stroke
+ 
+ 
+% 47                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 286.559 261.922 moveto
+ 277.441 258.32 lineto
+stroke
+ 
+ 
+% 48                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.441 258.32 moveto
+ 267.84 256.641 lineto
+stroke
+ 
+ 
+% 49                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 267.84 256.641 moveto
+ 258.238 256.641 lineto
+stroke
+ 
+ 
+% 50                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 258.238 256.641 moveto
+ 248.641 258.32 lineto
+stroke
+ 
+ 
+% 51                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 248.641 258.32 moveto
+ 239.762 261.922 lineto
+stroke
+ 
+ 
+% 52                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 239.762 261.922 moveto
+ 231.602 267.199 lineto
+stroke
+ 
+ 
+% 53                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 231.602 267.199 moveto
+ 224.641 273.922 lineto
+stroke
+ 
+ 
+% 54                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 224.641 273.922 moveto
+ 218.879 281.84 lineto
+stroke
+ 
+ 
+% 55                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 218.879 281.84 moveto
+ 214.801 290.719 lineto
+stroke
+ 
+ 
+% 56                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 214.801 290.719 moveto
+ 212.641 300.078 lineto
+stroke
+ 
+ 
+% 57                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 212.641 300.078 moveto
+ 212.16 309.922 lineto
+stroke
+ 
+ 
+% 58                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 212.16 309.922 moveto
+ 213.602 319.281 lineto
+stroke
+ 
+ 
+% 59                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 213.602 319.281 moveto
+ 216.719 328.641 lineto
+stroke
+ 
+ 
+% 60                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 216.719 328.641 moveto
+ 221.52 337.039 lineto
+stroke
+ 
+ 
+% 61                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 221.52 337.039 moveto
+ 228.0 344.238 lineto
+stroke
+ 
+ 
+% 62                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 228.0 344.238 moveto
+ 235.441 350.238 lineto
+stroke
+ 
+ 
+% 63                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 235.441 350.238 moveto
+ 244.078 354.801 lineto
+stroke
+ 
+ 
+% 64                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 244.078 354.801 moveto
+ 263.039 358.398 lineto
+stroke
+ 
+ 
+% 65                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 350.0 moveto
+ 271.441 349.039 lineto
+stroke
+ 
+ 
+% 66                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 271.441 349.039 moveto
+ 279.602 346.641 lineto
+stroke
+ 
+ 
+% 67                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 279.602 346.641 moveto
+ 287.039 342.559 lineto
+stroke
+ 
+ 
+% 68                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 287.039 342.559 moveto
+ 293.52 337.039 lineto
+stroke
+ 
+ 
+% 69                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 293.52 337.039 moveto
+ 298.801 330.559 lineto
+stroke
+ 
+ 
+% 70                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 298.801 330.559 moveto
+ 302.641 322.879 lineto
+stroke
+ 
+ 
+% 71                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 302.641 322.879 moveto
+ 305.039 314.719 lineto
+stroke
+ 
+ 
+% 72                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 305.039 314.719 moveto
+ 305.52 306.32 lineto
+stroke
+ 
+ 
+% 73                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 305.52 306.32 moveto
+ 304.559 297.922 lineto
+stroke
+ 
+ 
+% 74                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 304.559 297.922 moveto
+ 301.922 290.0 lineto
+stroke
+ 
+ 
+% 75                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 301.922 290.0 moveto
+ 297.602 282.559 lineto
+stroke
+ 
+ 
+% 76                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 297.602 282.559 moveto
+ 292.078 276.078 lineto
+stroke
+ 
+ 
+% 77                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 292.078 276.078 moveto
+ 285.359 271.039 lineto
+stroke
+ 
+ 
+% 78                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 285.359 271.039 moveto
+ 277.68 267.441 lineto
+stroke
+ 
+ 
+% 79                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.68 267.441 moveto
+ 269.52 265.281 lineto
+stroke
+ 
+ 
+% 80                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 269.52 265.281 moveto
+ 260.879 264.801 lineto
+stroke
+ 
+ 
+% 81                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 260.879 264.801 moveto
+ 252.719 266.238 lineto
+stroke
+ 
+ 
+% 82                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 252.719 266.238 moveto
+ 244.559 269.121 lineto
+stroke
+ 
+ 
+% 83                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 244.559 269.121 moveto
+ 237.359 273.441 lineto
+stroke
+ 
+ 
+% 84                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 237.359 273.441 moveto
+ 231.121 279.199 lineto
+stroke
+ 
+ 
+% 85                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 231.121 279.199 moveto
+ 226.32 286.16 lineto
+stroke
+ 
+ 
+% 86                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 226.32 286.16 moveto
+ 222.719 293.84 lineto
+stroke
+ 
+ 
+% 87                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 222.719 293.84 moveto
+ 220.801 302.0 lineto
+stroke
+ 
+ 
+% 88                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 220.801 302.0 moveto
+ 220.801 310.641 lineto
+stroke
+ 
+ 
+% 89                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 220.801 310.641 moveto
+ 222.238 318.801 lineto
+stroke
+ 
+ 
+% 90                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 222.238 318.801 moveto
+ 225.359 326.719 lineto
+stroke
+ 
+ 
+% 91                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 225.359 326.719 moveto
+ 229.922 333.922 lineto
+stroke
+ 
+ 
+% 92                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 229.922 333.922 moveto
+ 235.68 339.922 lineto
+stroke
+ 
+ 
+% 93                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 235.68 339.922 moveto
+ 242.879 344.719 lineto
+stroke
+ 
+ 
+% 94                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 242.879 344.719 moveto
+ 250.559 348.078 lineto
+stroke
+ 
+ 
+% 95                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 250.559 348.078 moveto
+ 263.039 350.0 lineto
+stroke
+ 
+ 
+% 96                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 341.359 moveto
+ 237.602 332.961 lineto
+stroke
+ 
+ 
+% 97                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 237.602 332.961 moveto
+ 226.32 304.641 lineto
+stroke
+ 
+ 
+% 98                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 226.32 304.641 moveto
+ 240.48 276.078 lineto
+stroke
+ 
+ 
+% 99                  pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 240.48 276.078 moveto
+ 285.84 276.078 lineto
+stroke
+ 
+ 
+% 100                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 285.84 276.078 moveto
+ 300.0 304.641 lineto
+stroke
+ 
+ 
+% 101                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 300.0 304.641 moveto
+ 288.719 332.961 lineto
+stroke
+ 
+ 
+% 102                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.719 332.961 moveto
+ 263.039 341.359 lineto
+stroke
+ 
+ 
+% 103                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 341.359 moveto
+ 263.039 350.0 lineto
+stroke
+ 
+ 
+% 104                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 226.32 304.641 moveto
+ 220.559 301.762 lineto
+stroke
+ 
+ 
+% 105                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 300.0 304.641 moveto
+ 305.52 301.762 lineto
+stroke
+ 
+ 
+% 106                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.719 332.961 moveto
+ 282.961 327.199 lineto
+stroke
+ 
+ 
+% 107                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 282.961 327.199 moveto
+ 263.039 332.961 lineto
+stroke
+ 
+ 
+% 108                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 332.961 moveto
+ 243.359 327.199 lineto
+stroke
+ 
+ 
+% 109                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 327.199 moveto
+ 237.602 332.961 lineto
+stroke
+ 
+ 
+% 110                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 327.199 moveto
+ 234.719 307.281 lineto
+stroke
+ 
+ 
+% 111                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 234.719 307.281 moveto
+ 246.0 284.719 lineto
+stroke
+ 
+ 
+% 112                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 246.0 284.719 moveto
+ 240.48 276.078 lineto
+stroke
+ 
+ 
+% 113                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 285.84 276.078 moveto
+ 280.078 284.719 lineto
+stroke
+ 
+ 
+% 114                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 280.078 284.719 moveto
+ 291.359 307.281 lineto
+stroke
+ 
+ 
+% 115                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 291.359 307.281 moveto
+ 282.961 327.199 lineto
+stroke
+ 
+ 
+% 116                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 280.078 284.719 moveto
+ 246.0 284.719 lineto
+stroke
+ 
+ 
+% 117                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 251.762 284.719 moveto
+ 251.762 293.121 lineto
+stroke
+ 
+ 
+% 118                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 251.762 293.121 moveto
+ 274.32 293.121 lineto
+stroke
+ 
+ 
+% 119                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 274.32 293.121 moveto
+ 274.32 284.719 lineto
+stroke
+ 
+ 
+% 120                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 274.32 293.121 moveto
+ 282.961 313.039 lineto
+stroke
+ 
+ 
+% 121                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 282.961 313.039 moveto
+ 263.039 324.32 lineto
+stroke
+ 
+ 
+% 122                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 324.32 moveto
+ 243.359 313.039 lineto
+stroke
+ 
+ 
+% 123                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 313.039 moveto
+ 251.762 293.121 lineto
+stroke
+ 
+ 
+% 124                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 293.121 moveto
+ 263.039 298.879 lineto
+stroke
+ 
+ 
+% 125                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 298.879 moveto
+ 271.68 304.641 lineto
+stroke
+ 
+ 
+% 126                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 271.68 304.641 moveto
+ 268.801 313.039 lineto
+stroke
+ 
+ 
+% 127                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 268.801 313.039 moveto
+ 257.52 313.039 lineto
+stroke
+ 
+ 
+% 128                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 257.52 313.039 moveto
+ 254.641 304.641 lineto
+stroke
+ 
+ 
+% 129                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 254.641 304.641 moveto
+ 263.039 298.879 lineto
+stroke
+ 
+ 
+% 130                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 271.68 304.641 moveto
+ 277.199 301.762 lineto
+stroke
+ 
+ 
+% 131                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 254.641 303.68 moveto
+ 248.879 300.801 lineto
+stroke
+ 
+ 
+% 132                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 257.52 313.039 moveto
+ 252.719 319.762 lineto
+stroke
+ 
+ 
+% 133                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 268.801 313.039 moveto
+ 273.602 318.801 lineto
+stroke
+ 
+ 
+% 134                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 367.762 moveto
+ 274.078 366.801 lineto
+stroke
+ 
+ 
+% 135                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 274.078 366.801 moveto
+ 284.641 363.922 lineto
+stroke
+ 
+ 
+% 136                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 284.641 363.922 moveto
+ 294.48 359.121 lineto
+stroke
+ 
+ 
+% 137                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 294.48 359.121 moveto
+ 303.121 352.641 lineto
+stroke
+ 
+ 
+% 138                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 303.121 352.641 moveto
+ 310.801 344.719 lineto
+stroke
+ 
+ 
+% 139                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 310.801 344.719 moveto
+ 316.559 335.359 lineto
+stroke
+ 
+ 
+% 140                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 316.559 335.359 moveto
+ 320.879 325.281 lineto
+stroke
+ 
+ 
+% 141                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 320.879 325.281 moveto
+ 323.039 314.719 lineto
+stroke
+ 
+ 
+% 142                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 323.039 314.719 moveto
+ 323.52 303.68 lineto
+stroke
+ 
+ 
+% 143                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 323.52 303.68 moveto
+ 321.84 292.879 lineto
+stroke
+ 
+ 
+% 144                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 321.84 292.879 moveto
+ 318.238 282.559 lineto
+stroke
+ 
+ 
+% 145                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 318.238 282.559 moveto
+ 312.961 272.961 lineto
+stroke
+ 
+ 
+% 146                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 312.961 272.961 moveto
+ 305.762 264.559 lineto
+stroke
+ 
+ 
+% 147                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 305.762 264.559 moveto
+ 297.359 257.602 lineto
+stroke
+ 
+ 
+% 148                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 297.359 257.602 moveto
+ 288.0 252.32 lineto
+stroke
+ 
+ 
+% 149                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.0 252.32 moveto
+ 277.68 248.719 lineto
+stroke
+ 
+ 
+% 150                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.68 248.719 moveto
+ 266.641 247.039 lineto
+stroke
+ 
+ 
+% 151                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 266.641 247.039 moveto
+ 255.84 247.281 lineto
+stroke
+ 
+ 
+% 152                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 255.84 247.281 moveto
+ 245.039 249.68 lineto
+stroke
+ 
+ 
+% 153                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 245.039 249.68 moveto
+ 234.961 253.762 lineto
+stroke
+ 
+ 
+% 154                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 234.961 253.762 moveto
+ 225.84 259.762 lineto
+stroke
+ 
+ 
+% 155                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 225.84 259.762 moveto
+ 217.922 267.199 lineto
+stroke
+ 
+ 
+% 156                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 217.922 267.199 moveto
+ 211.441 276.078 lineto
+stroke
+ 
+ 
+% 157                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 211.441 276.078 moveto
+ 206.641 285.922 lineto
+stroke
+ 
+ 
+% 158                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 206.641 285.922 moveto
+ 203.52 296.48 lineto
+stroke
+ 
+ 
+% 159                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 203.52 296.48 moveto
+ 203.52 318.32 lineto
+stroke
+ 
+ 
+% 160                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 203.52 318.32 moveto
+ 206.641 328.879 lineto
+stroke
+ 
+ 
+% 161                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 206.641 328.879 moveto
+ 211.441 338.719 lineto
+stroke
+ 
+ 
+% 162                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 211.441 338.719 moveto
+ 217.922 347.602 lineto
+stroke
+ 
+ 
+% 163                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 217.922 347.602 moveto
+ 225.84 355.039 lineto
+stroke
+ 
+ 
+% 164                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 225.84 355.039 moveto
+ 234.961 361.039 lineto
+stroke
+ 
+ 
+% 165                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 234.961 361.039 moveto
+ 245.039 365.121 lineto
+stroke
+ 
+ 
+% 166                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 245.039 365.121 moveto
+ 263.039 367.762 lineto
+stroke
+ 
+ 
+% 167                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 367.762 moveto
+ 263.039 358.398 lineto
+stroke
+ 
+ 
+% 168                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 220.559 307.281 moveto
+ 212.16 307.281 lineto
+stroke
+ 
+ 
+% 169                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 305.52 308.238 moveto
+ 314.16 308.238 lineto
+stroke
+ 
+ 
+% 170                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 505.762 moveto
+ 272.641 504.801 lineto
+stroke
+ 
+ 
+% 171                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 272.641 504.801 moveto
+ 282.0 502.16 lineto
+stroke
+ 
+ 
+% 172                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 282.0 502.16 moveto
+ 290.641 497.602 lineto
+stroke
+ 
+ 
+% 173                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 290.641 497.602 moveto
+ 298.32 491.602 lineto
+stroke
+ 
+ 
+% 174                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 298.32 491.602 moveto
+ 304.559 484.398 lineto
+stroke
+ 
+ 
+% 175                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 304.559 484.398 moveto
+ 309.602 476.0 lineto
+stroke
+ 
+ 
+% 176                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 309.602 476.0 moveto
+ 312.719 466.879 lineto
+stroke
+ 
+ 
+% 177                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 312.719 466.879 moveto
+ 314.16 457.281 lineto
+stroke
+ 
+ 
+% 178                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 314.16 457.281 moveto
+ 313.68 447.441 lineto
+stroke
+ 
+ 
+% 179                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 313.68 447.441 moveto
+ 311.281 438.078 lineto
+stroke
+ 
+ 
+% 180                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 311.281 438.078 moveto
+ 307.199 429.199 lineto
+stroke
+ 
+ 
+% 181                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 307.199 429.199 moveto
+ 301.68 421.281 lineto
+stroke
+ 
+ 
+% 182                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 301.68 421.281 moveto
+ 294.719 414.559 lineto
+stroke
+ 
+ 
+% 183                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 294.719 414.559 moveto
+ 286.559 409.52 lineto
+stroke
+ 
+ 
+% 184                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 286.559 409.52 moveto
+ 277.441 405.922 lineto
+stroke
+ 
+ 
+% 185                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.441 405.922 moveto
+ 267.84 404.0 lineto
+stroke
+ 
+ 
+% 186                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 267.84 404.0 moveto
+ 258.238 404.0 lineto
+stroke
+ 
+ 
+% 187                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 258.238 404.0 moveto
+ 248.641 405.922 lineto
+stroke
+ 
+ 
+% 188                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 248.641 405.922 moveto
+ 239.762 409.52 lineto
+stroke
+ 
+ 
+% 189                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 239.762 409.52 moveto
+ 231.602 414.559 lineto
+stroke
+ 
+ 
+% 190                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 231.602 414.559 moveto
+ 224.641 421.281 lineto
+stroke
+ 
+ 
+% 191                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 224.641 421.281 moveto
+ 218.879 429.199 lineto
+stroke
+ 
+ 
+% 192                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 218.879 429.199 moveto
+ 214.801 438.078 lineto
+stroke
+ 
+ 
+% 193                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 214.801 438.078 moveto
+ 212.641 447.441 lineto
+stroke
+ 
+ 
+% 194                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 212.641 447.441 moveto
+ 212.16 457.281 lineto
+stroke
+ 
+ 
+% 195                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 212.16 457.281 moveto
+ 213.602 466.879 lineto
+stroke
+ 
+ 
+% 196                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 213.602 466.879 moveto
+ 216.719 476.0 lineto
+stroke
+ 
+ 
+% 197                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 216.719 476.0 moveto
+ 221.52 484.398 lineto
+stroke
+ 
+ 
+% 198                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 221.52 484.398 moveto
+ 228.0 491.602 lineto
+stroke
+ 
+ 
+% 199                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 228.0 491.602 moveto
+ 235.441 497.602 lineto
+stroke
+ 
+ 
+% 200                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 235.441 497.602 moveto
+ 244.078 502.16 lineto
+stroke
+ 
+ 
+% 201                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 244.078 502.16 moveto
+ 263.039 505.762 lineto
+stroke
+ 
+ 
+% 202                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 497.359 moveto
+ 271.441 496.398 lineto
+stroke
+ 
+ 
+% 203                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 271.441 496.398 moveto
+ 279.602 494.0 lineto
+stroke
+ 
+ 
+% 204                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 279.602 494.0 moveto
+ 287.039 489.922 lineto
+stroke
+ 
+ 
+% 205                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 287.039 489.922 moveto
+ 293.52 484.398 lineto
+stroke
+ 
+ 
+% 206                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 293.52 484.398 moveto
+ 298.801 477.922 lineto
+stroke
+ 
+ 
+% 207                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 298.801 477.922 moveto
+ 302.641 470.238 lineto
+stroke
+ 
+ 
+% 208                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 302.641 470.238 moveto
+ 305.039 462.078 lineto
+stroke
+ 
+ 
+% 209                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 305.039 462.078 moveto
+ 305.52 453.68 lineto
+stroke
+ 
+ 
+% 210                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 305.52 453.68 moveto
+ 304.559 445.281 lineto
+stroke
+ 
+ 
+% 211                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 304.559 445.281 moveto
+ 301.922 437.359 lineto
+stroke
+ 
+ 
+% 212                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 301.922 437.359 moveto
+ 297.602 429.922 lineto
+stroke
+ 
+ 
+% 213                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 297.602 429.922 moveto
+ 292.078 423.68 lineto
+stroke
+ 
+ 
+% 214                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 292.078 423.68 moveto
+ 285.359 418.398 lineto
+stroke
+ 
+ 
+% 215                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 285.359 418.398 moveto
+ 277.68 414.801 lineto
+stroke
+ 
+ 
+% 216                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.68 414.801 moveto
+ 269.52 412.641 lineto
+stroke
+ 
+ 
+% 217                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 269.52 412.641 moveto
+ 260.879 412.398 lineto
+stroke
+ 
+ 
+% 218                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 260.879 412.398 moveto
+ 252.719 413.602 lineto
+stroke
+ 
+ 
+% 219                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 252.719 413.602 moveto
+ 244.559 416.48 lineto
+stroke
+ 
+ 
+% 220                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 244.559 416.48 moveto
+ 237.359 420.801 lineto
+stroke
+ 
+ 
+% 221                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 237.359 420.801 moveto
+ 231.121 426.559 lineto
+stroke
+ 
+ 
+% 222                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 231.121 426.559 moveto
+ 226.32 433.52 lineto
+stroke
+ 
+ 
+% 223                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 226.32 433.52 moveto
+ 222.719 441.199 lineto
+stroke
+ 
+ 
+% 224                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 222.719 441.199 moveto
+ 220.801 449.359 lineto
+stroke
+ 
+ 
+% 225                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 220.801 449.359 moveto
+ 220.801 458.0 lineto
+stroke
+ 
+ 
+% 226                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 220.801 458.0 moveto
+ 222.238 466.398 lineto
+stroke
+ 
+ 
+% 227                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 222.238 466.398 moveto
+ 225.359 474.078 lineto
+stroke
+ 
+ 
+% 228                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 225.359 474.078 moveto
+ 229.922 481.281 lineto
+stroke
+ 
+ 
+% 229                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 229.922 481.281 moveto
+ 235.68 487.281 lineto
+stroke
+ 
+ 
+% 230                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 235.68 487.281 moveto
+ 242.879 492.078 lineto
+stroke
+ 
+ 
+% 231                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 242.879 492.078 moveto
+ 250.559 495.441 lineto
+stroke
+ 
+ 
+% 232                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 250.559 495.441 moveto
+ 263.039 497.359 lineto
+stroke
+ 
+ 
+% 233                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 488.719 moveto
+ 237.602 480.32 lineto
+stroke
+ 
+ 
+% 234                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 237.602 480.32 moveto
+ 226.32 452.0 lineto
+stroke
+ 
+ 
+% 235                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 226.32 452.0 moveto
+ 240.48 423.68 lineto
+stroke
+ 
+ 
+% 236                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 240.48 423.68 moveto
+ 285.84 423.68 lineto
+stroke
+ 
+ 
+% 237                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 285.84 423.68 moveto
+ 300.0 452.0 lineto
+stroke
+ 
+ 
+% 238                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 300.0 452.0 moveto
+ 288.719 480.32 lineto
+stroke
+ 
+ 
+% 239                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.719 480.32 moveto
+ 263.039 488.719 lineto
+stroke
+ 
+ 
+% 240                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 488.719 moveto
+ 263.039 497.359 lineto
+stroke
+ 
+ 
+% 241                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 226.32 452.0 moveto
+ 220.559 449.121 lineto
+stroke
+ 
+ 
+% 242                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 300.0 452.0 moveto
+ 305.52 449.121 lineto
+stroke
+ 
+ 
+% 243                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.719 480.32 moveto
+ 282.961 474.559 lineto
+stroke
+ 
+ 
+% 244                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 282.961 474.559 moveto
+ 263.039 480.32 lineto
+stroke
+ 
+ 
+% 245                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 480.32 moveto
+ 243.359 474.559 lineto
+stroke
+ 
+ 
+% 246                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 474.559 moveto
+ 237.602 480.32 lineto
+stroke
+ 
+ 
+% 247                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 474.559 moveto
+ 234.719 454.879 lineto
+stroke
+ 
+ 
+% 248                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 234.719 454.879 moveto
+ 246.0 432.078 lineto
+stroke
+ 
+ 
+% 249                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 246.0 432.078 moveto
+ 240.48 423.68 lineto
+stroke
+ 
+ 
+% 250                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 285.84 423.68 moveto
+ 280.078 432.078 lineto
+stroke
+ 
+ 
+% 251                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 280.078 432.078 moveto
+ 291.359 454.879 lineto
+stroke
+ 
+ 
+% 252                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 291.359 454.879 moveto
+ 282.961 474.559 lineto
+stroke
+ 
+ 
+% 253                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 280.078 432.078 moveto
+ 246.0 432.078 lineto
+stroke
+ 
+ 
+% 254                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 251.762 432.078 moveto
+ 251.762 440.719 lineto
+stroke
+ 
+ 
+% 255                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 251.762 440.719 moveto
+ 274.32 440.719 lineto
+stroke
+ 
+ 
+% 256                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 274.32 440.719 moveto
+ 274.32 432.078 lineto
+stroke
+ 
+ 
+% 257                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 274.32 440.719 moveto
+ 282.961 460.398 lineto
+stroke
+ 
+ 
+% 258                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 282.961 460.398 moveto
+ 263.039 471.68 lineto
+stroke
+ 
+ 
+% 259                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 471.68 moveto
+ 243.359 460.398 lineto
+stroke
+ 
+ 
+% 260                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 460.398 moveto
+ 251.762 440.719 lineto
+stroke
+ 
+ 
+% 261                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 268.801 460.398 moveto
+ 257.52 460.398 lineto
+stroke
+ 
+ 
+% 262                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 257.52 460.398 moveto
+ 252.719 467.121 lineto
+stroke
+ 
+ 
+% 263                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 268.801 460.398 moveto
+ 273.602 466.16 lineto
+stroke
+ 
+ 
+% 264                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 515.121 moveto
+ 274.078 514.16 lineto
+stroke
+ 
+ 
+% 265                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 274.078 514.16 moveto
+ 284.641 511.281 lineto
+stroke
+ 
+ 
+% 266                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 284.641 511.281 moveto
+ 294.48 506.48 lineto
+stroke
+ 
+ 
+% 267                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 294.48 506.48 moveto
+ 303.121 500.0 lineto
+stroke
+ 
+ 
+% 268                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 303.121 500.0 moveto
+ 310.801 492.078 lineto
+stroke
+ 
+ 
+% 269                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 310.801 492.078 moveto
+ 316.559 482.961 lineto
+stroke
+ 
+ 
+% 270                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 316.559 482.961 moveto
+ 320.879 472.879 lineto
+stroke
+ 
+ 
+% 271                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 320.879 472.879 moveto
+ 323.039 462.078 lineto
+stroke
+ 
+ 
+% 272                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 323.039 462.078 moveto
+ 323.52 451.039 lineto
+stroke
+ 
+ 
+% 273                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 323.52 451.039 moveto
+ 321.84 440.238 lineto
+stroke
+ 
+ 
+% 274                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 321.84 440.238 moveto
+ 318.238 429.922 lineto
+stroke
+ 
+ 
+% 275                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 318.238 429.922 moveto
+ 312.961 420.32 lineto
+stroke
+ 
+ 
+% 276                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 312.961 420.32 moveto
+ 305.762 411.922 lineto
+stroke
+ 
+ 
+% 277                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 305.762 411.922 moveto
+ 297.359 404.961 lineto
+stroke
+ 
+ 
+% 278                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 297.359 404.961 moveto
+ 288.0 399.68 lineto
+stroke
+ 
+ 
+% 279                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.0 399.68 moveto
+ 277.68 396.078 lineto
+stroke
+ 
+ 
+% 280                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.68 396.078 moveto
+ 266.641 394.398 lineto
+stroke
+ 
+ 
+% 281                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 266.641 394.398 moveto
+ 255.84 394.641 lineto
+stroke
+ 
+ 
+% 282                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 255.84 394.641 moveto
+ 245.039 397.039 lineto
+stroke
+ 
+ 
+% 283                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 245.039 397.039 moveto
+ 234.961 401.121 lineto
+stroke
+ 
+ 
+% 284                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 234.961 401.121 moveto
+ 225.84 407.121 lineto
+stroke
+ 
+ 
+% 285                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 225.84 407.121 moveto
+ 217.922 414.559 lineto
+stroke
+ 
+ 
+% 286                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 217.922 414.559 moveto
+ 211.441 423.441 lineto
+stroke
+ 
+ 
+% 287                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 211.441 423.441 moveto
+ 206.641 433.281 lineto
+stroke
+ 
+ 
+% 288                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 206.641 433.281 moveto
+ 203.52 443.84 lineto
+stroke
+ 
+ 
+% 289                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 203.52 443.84 moveto
+ 203.52 465.68 lineto
+stroke
+ 
+ 
+% 290                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 203.52 465.68 moveto
+ 206.641 476.238 lineto
+stroke
+ 
+ 
+% 291                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 206.641 476.238 moveto
+ 211.441 486.078 lineto
+stroke
+ 
+ 
+% 292                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 211.441 486.078 moveto
+ 217.922 494.961 lineto
+stroke
+ 
+ 
+% 293                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 217.922 494.961 moveto
+ 225.84 502.398 lineto
+stroke
+ 
+ 
+% 294                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 225.84 502.398 moveto
+ 234.961 508.398 lineto
+stroke
+ 
+ 
+% 295                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 234.961 508.398 moveto
+ 245.039 512.48 lineto
+stroke
+ 
+ 
+% 296                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 245.039 512.48 moveto
+ 263.039 515.121 lineto
+stroke
+ 
+ 
+% 297                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 515.121 moveto
+ 263.039 505.762 lineto
+stroke
+ 
+ 
+% 298                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 220.559 454.879 moveto
+ 212.16 454.879 lineto
+stroke
+ 
+ 
+% 299                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 305.52 455.602 moveto
+ 314.16 455.602 lineto
+stroke
+ 
+ 
+% 300                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 268.801 440.719 moveto
+ 268.801 446.238 lineto
+stroke
+ 
+ 
+% 301                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 268.801 446.238 moveto
+ 257.52 446.238 lineto
+stroke
+ 
+ 
+% 302                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 257.52 446.238 moveto
+ 257.52 440.719 lineto
+stroke
+ 
+ 
+% 303                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 268.801 460.398 moveto
+ 272.641 453.922 lineto
+stroke
+ 
+ 
+% 304                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 272.641 453.922 moveto
+ 268.801 446.238 lineto
+stroke
+ 
+ 
+% 305                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 257.52 446.238 moveto
+ 254.641 453.922 lineto
+stroke
+ 
+ 
+% 306                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 254.641 453.922 moveto
+ 257.52 460.398 lineto
+stroke
+ 
+ 
+% 307                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 253.68 454.879 moveto
+ 246.961 452.0 lineto
+stroke
+ 
+ 
+% 308                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 271.68 454.879 moveto
+ 279.121 452.0 lineto
+stroke
+ 
+ 
+% 309                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 460.398 moveto
+ 270.719 450.078 lineto
+stroke
+ 
+ 
+% 310                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 255.602 457.52 moveto
+ 263.039 446.238 lineto
+stroke
+ 
+ 
+% 311                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 260.16 452.0 moveto
+ 265.922 454.879 lineto
+stroke
+ 
+ 
+% 312                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 470.0 moveto
+ 263.039 480.32 lineto
+stroke
+ 
+ 
+% 313                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 460.398 moveto
+ 234.719 454.879 lineto
+stroke
+ 
+ 
+% 314                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 282.961 460.398 moveto
+ 291.359 452.0 lineto
+stroke
+ 
+ 
+% 315                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 291.359 307.281 moveto
+ 282.961 313.039 lineto
+stroke
+ 
+ 
+% 316                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 313.039 moveto
+ 234.719 307.281 lineto
+stroke
+ 
+ 
+% 317                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 324.32 moveto
+ 263.039 332.961 lineto
+stroke
+ 
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+(Courier) cvn findfont  1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.408 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+[  8.41304 0 0 8.41304 304.08 152.24 ] makefont setfont
+  0 0 moveto
+ 0.0 0.0 32 0.0 0.0 309.119 152.24 1  setshowparams
+(31) awidthshowhex
+showpage
+%%BoundingBox: 203 152 433 706 
+%%Page: 1 1
+ 
+ 
+% 318                 pathnumber
+% strokedpath
+ 612 792 setPageSize
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 703.52 moveto
+ 273.84 702.32 lineto
+stroke
+ 
+ 
+% 319                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 273.84 702.32 moveto
+ 284.398 699.441 lineto
+stroke
+ 
+ 
+% 320                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 284.398 699.441 moveto
+ 294.0 694.641 lineto
+stroke
+ 
+ 
+% 321                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 294.0 694.641 moveto
+ 302.641 688.398 lineto
+stroke
+ 
+ 
+% 322                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 302.641 688.398 moveto
+ 310.078 680.48 lineto
+stroke
+ 
+ 
+% 323                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 310.078 680.48 moveto
+ 315.84 671.359 lineto
+stroke
+ 
+ 
+% 324                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 315.84 671.359 moveto
+ 320.16 661.281 lineto
+stroke
+ 
+ 
+% 325                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 320.16 661.281 moveto
+ 322.32 650.719 lineto
+stroke
+ 
+ 
+% 326                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 322.32 650.719 moveto
+ 322.559 639.922 lineto
+stroke
+ 
+ 
+% 327                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 322.559 639.922 moveto
+ 320.641 629.121 lineto
+stroke
+ 
+ 
+% 328                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 320.641 629.121 moveto
+ 317.039 619.039 lineto
+stroke
+ 
+ 
+% 329                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 317.039 619.039 moveto
+ 311.762 609.441 lineto
+stroke
+ 
+ 
+% 330                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 311.762 609.441 moveto
+ 304.801 601.281 lineto
+stroke
+ 
+ 
+% 331                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 304.801 601.281 moveto
+ 296.398 594.559 lineto
+stroke
+ 
+ 
+% 332                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 296.398 594.559 moveto
+ 286.801 589.281 lineto
+stroke
+ 
+ 
+% 333                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 286.801 589.281 moveto
+ 276.48 585.922 lineto
+stroke
+ 
+ 
+% 334                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 276.48 585.922 moveto
+ 265.922 584.48 lineto
+stroke
+ 
+ 
+% 335                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 265.922 584.48 moveto
+ 254.879 584.961 lineto
+stroke
+ 
+ 
+% 336                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 254.879 584.961 moveto
+ 244.559 587.359 lineto
+stroke
+ 
+ 
+% 337                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 244.559 587.359 moveto
+ 234.48 591.68 lineto
+stroke
+ 
+ 
+% 338                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 234.48 591.68 moveto
+ 225.602 597.68 lineto
+stroke
+ 
+ 
+% 339                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 225.602 597.68 moveto
+ 217.68 605.359 lineto
+stroke
+ 
+ 
+% 340                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 217.68 605.359 moveto
+ 211.441 614.0 lineto
+stroke
+ 
+ 
+% 341                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 211.441 614.0 moveto
+ 206.879 623.84 lineto
+stroke
+ 
+ 
+% 342                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 206.879 623.84 moveto
+ 204.238 634.398 lineto
+stroke
+ 
+ 
+% 343                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 204.238 634.398 moveto
+ 203.52 645.199 lineto
+stroke
+ 
+ 
+% 344                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 203.52 645.199 moveto
+ 204.719 656.0 lineto
+stroke
+ 
+ 
+% 345                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 204.719 656.0 moveto
+ 208.078 666.32 lineto
+stroke
+ 
+ 
+% 346                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 208.078 666.32 moveto
+ 212.879 675.922 lineto
+stroke
+ 
+ 
+% 347                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 212.879 675.922 moveto
+ 219.602 684.559 lineto
+stroke
+ 
+ 
+% 348                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 219.602 684.559 moveto
+ 227.762 691.762 lineto
+stroke
+ 
+ 
+% 349                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 227.762 691.762 moveto
+ 236.879 697.281 lineto
+stroke
+ 
+ 
+% 350                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 236.879 697.281 moveto
+ 246.961 701.121 lineto
+stroke
+ 
+ 
+% 351                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 246.961 701.121 moveto
+ 263.039 703.52 lineto
+stroke
+ 
+ 
+% 352                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 322.559 643.762 moveto
+ 317.039 643.762 lineto
+stroke
+ 
+ 
+% 353                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 203.52 643.762 moveto
+ 209.281 643.762 lineto
+stroke
+ 
+ 
+% 354                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 209.281 643.762 moveto
+ 237.602 692.0 lineto
+stroke
+ 
+ 
+% 355                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 237.602 692.0 moveto
+ 288.719 692.0 lineto
+stroke
+ 
+ 
+% 356                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.719 692.0 moveto
+ 317.039 643.762 lineto
+stroke
+ 
+ 
+% 357                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 317.039 643.762 moveto
+ 288.719 595.762 lineto
+stroke
+ 
+ 
+% 358                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.719 595.762 moveto
+ 237.602 595.762 lineto
+stroke
+ 
+ 
+% 359                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 237.602 595.762 moveto
+ 209.281 643.762 lineto
+stroke
+ 
+ 
+% 360                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 220.559 643.762 moveto
+ 243.359 683.602 lineto
+stroke
+ 
+ 
+% 361                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 683.602 moveto
+ 282.961 683.602 lineto
+stroke
+ 
+ 
+% 362                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 282.961 683.602 moveto
+ 308.398 643.762 lineto
+stroke
+ 
+ 
+% 363                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 308.398 643.762 moveto
+ 282.961 604.16 lineto
+stroke
+ 
+ 
+% 364                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 282.961 604.16 moveto
+ 243.359 604.16 lineto
+stroke
+ 
+ 
+% 365                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 604.16 moveto
+ 220.559 643.762 lineto
+stroke
+ 
+ 
+% 366                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 231.84 643.762 moveto
+ 248.879 674.961 lineto
+stroke
+ 
+ 
+% 367                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 248.879 674.961 moveto
+ 277.199 674.961 lineto
+stroke
+ 
+ 
+% 368                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.199 674.961 moveto
+ 297.121 643.762 lineto
+stroke
+ 
+ 
+% 369                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 297.121 643.762 moveto
+ 277.199 612.801 lineto
+stroke
+ 
+ 
+% 370                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.199 612.801 moveto
+ 248.879 612.801 lineto
+stroke
+ 
+ 
+% 371                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 248.879 612.801 moveto
+ 231.84 643.762 lineto
+stroke
+ 
+ 
+% 372                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 231.84 643.762 moveto
+ 220.559 643.762 lineto
+stroke
+ 
+ 
+% 373                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 297.121 643.762 moveto
+ 308.398 643.762 lineto
+stroke
+ 
+ 
+% 374                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.719 692.0 moveto
+ 282.961 683.602 lineto
+stroke
+ 
+ 
+% 375                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 237.602 692.0 moveto
+ 243.359 683.602 lineto
+stroke
+ 
+ 
+% 376                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 604.16 moveto
+ 237.602 595.762 lineto
+stroke
+ 
+ 
+% 377                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.719 595.762 moveto
+ 282.961 604.16 lineto
+stroke
+ 
+ 
+% 378                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.199 604.16 moveto
+ 277.199 612.801 lineto
+stroke
+ 
+ 
+% 379                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 248.879 612.801 moveto
+ 248.879 604.16 lineto
+stroke
+ 
+ 
+% 380                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 248.879 674.961 moveto
+ 248.879 683.602 lineto
+stroke
+ 
+ 
+% 381                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.199 683.602 moveto
+ 277.199 674.961 lineto
+stroke
+ 
+ 
+% 382                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 410.398 564.559 moveto
+ 421.199 563.602 lineto
+stroke
+ 
+ 
+% 383                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 421.199 563.602 moveto
+ 431.762 560.48 lineto
+stroke
+ 
+ 
+% 384                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 431.762 560.48 moveto
+ 441.359 555.922 lineto
+stroke
+ 
+ 
+% 385                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 441.359 555.922 moveto
+ 450.238 549.441 lineto
+stroke
+ 
+ 
+% 386                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 450.238 549.441 moveto
+ 457.441 541.52 lineto
+stroke
+ 
+ 
+% 387                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 457.441 541.52 moveto
+ 463.441 532.398 lineto
+stroke
+ 
+ 
+% 388                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 463.441 532.398 moveto
+ 467.52 522.32 lineto
+stroke
+ 
+ 
+% 389                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 467.52 522.32 moveto
+ 469.68 511.762 lineto
+stroke
+ 
+ 
+% 390                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 469.68 511.762 moveto
+ 469.922 500.961 lineto
+stroke
+ 
+ 
+% 391                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 469.922 500.961 moveto
+ 468.238 490.16 lineto
+stroke
+ 
+ 
+% 392                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 468.238 490.16 moveto
+ 464.641 480.078 lineto
+stroke
+ 
+ 
+% 393                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 464.641 480.078 moveto
+ 459.121 470.719 lineto
+stroke
+ 
+ 
+% 394                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 459.121 470.719 moveto
+ 452.16 462.32 lineto
+stroke
+ 
+ 
+% 395                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 452.16 462.32 moveto
+ 443.762 455.602 lineto
+stroke
+ 
+ 
+% 396                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 443.762 455.602 moveto
+ 434.16 450.32 lineto
+stroke
+ 
+ 
+% 397                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 434.16 450.32 moveto
+ 423.84 446.961 lineto
+stroke
+ 
+ 
+% 398                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 423.84 446.961 moveto
+ 413.281 445.52 lineto
+stroke
+ 
+ 
+% 399                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 413.281 445.52 moveto
+ 402.48 446.0 lineto
+stroke
+ 
+ 
+% 400                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 402.48 446.0 moveto
+ 391.922 448.398 lineto
+stroke
+ 
+ 
+% 401                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 391.922 448.398 moveto
+ 381.84 452.719 lineto
+stroke
+ 
+ 
+% 402                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 381.84 452.719 moveto
+ 372.961 458.719 lineto
+stroke
+ 
+ 
+% 403                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 372.961 458.719 moveto
+ 365.281 466.398 lineto
+stroke
+ 
+ 
+% 404                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 365.281 466.398 moveto
+ 359.039 475.281 lineto
+stroke
+ 
+ 
+% 405                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 359.039 475.281 moveto
+ 354.48 485.121 lineto
+stroke
+ 
+ 
+% 406                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 354.48 485.121 moveto
+ 351.84 495.441 lineto
+stroke
+ 
+ 
+% 407                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 351.84 495.441 moveto
+ 350.879 506.238 lineto
+stroke
+ 
+ 
+% 408                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 350.879 506.238 moveto
+ 352.32 517.039 lineto
+stroke
+ 
+ 
+% 409                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 352.32 517.039 moveto
+ 355.441 527.359 lineto
+stroke
+ 
+ 
+% 410                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 355.441 527.359 moveto
+ 360.238 536.961 lineto
+stroke
+ 
+ 
+% 411                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 360.238 536.961 moveto
+ 366.961 545.602 lineto
+stroke
+ 
+ 
+% 412                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 366.961 545.602 moveto
+ 375.121 552.801 lineto
+stroke
+ 
+ 
+% 413                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 375.121 552.801 moveto
+ 384.238 558.559 lineto
+stroke
+ 
+ 
+% 414                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 384.238 558.559 moveto
+ 394.32 562.398 lineto
+stroke
+ 
+ 
+% 415                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 394.32 562.398 moveto
+ 410.398 564.559 lineto
+stroke
+ 
+ 
+% 416                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 469.922 505.039 moveto
+ 464.398 505.039 lineto
+stroke
+ 
+ 
+% 417                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 350.879 505.039 moveto
+ 356.641 505.039 lineto
+stroke
+ 
+ 
+% 418                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 356.641 505.039 moveto
+ 384.961 553.281 lineto
+stroke
+ 
+ 
+% 419                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 384.961 553.281 moveto
+ 436.078 553.281 lineto
+stroke
+ 
+ 
+% 420                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 436.078 553.281 moveto
+ 464.398 505.039 lineto
+stroke
+ 
+ 
+% 421                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 464.398 505.039 moveto
+ 436.078 456.801 lineto
+stroke
+ 
+ 
+% 422                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 436.078 456.801 moveto
+ 384.961 456.801 lineto
+stroke
+ 
+ 
+% 423                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 384.961 456.801 moveto
+ 356.641 505.039 lineto
+stroke
+ 
+ 
+% 424                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 367.922 505.039 moveto
+ 390.719 544.641 lineto
+stroke
+ 
+ 
+% 425                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 390.719 544.641 moveto
+ 430.32 544.641 lineto
+stroke
+ 
+ 
+% 426                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 430.32 544.641 moveto
+ 455.762 505.039 lineto
+stroke
+ 
+ 
+% 427                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 455.762 505.039 moveto
+ 430.32 465.199 lineto
+stroke
+ 
+ 
+% 428                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 430.32 465.199 moveto
+ 390.719 465.199 lineto
+stroke
+ 
+ 
+% 429                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 390.719 465.199 moveto
+ 367.922 505.039 lineto
+stroke
+ 
+ 
+% 430                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 379.199 505.039 moveto
+ 396.238 536.238 lineto
+stroke
+ 
+ 
+% 431                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 396.238 536.238 moveto
+ 424.559 536.238 lineto
+stroke
+ 
+ 
+% 432                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 424.559 536.238 moveto
+ 444.48 505.039 lineto
+stroke
+ 
+ 
+% 433                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 444.48 505.039 moveto
+ 424.559 473.84 lineto
+stroke
+ 
+ 
+% 434                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 424.559 473.84 moveto
+ 396.238 473.84 lineto
+stroke
+ 
+ 
+% 435                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 396.238 473.84 moveto
+ 379.199 505.039 lineto
+stroke
+ 
+ 
+% 436                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 379.199 505.039 moveto
+ 367.922 505.039 lineto
+stroke
+ 
+ 
+% 437                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 444.48 505.039 moveto
+ 455.762 505.039 lineto
+stroke
+ 
+ 
+% 438                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 436.078 553.281 moveto
+ 430.32 544.641 lineto
+stroke
+ 
+ 
+% 439                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 384.961 553.281 moveto
+ 390.719 544.641 lineto
+stroke
+ 
+ 
+% 440                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 390.719 465.199 moveto
+ 384.961 456.801 lineto
+stroke
+ 
+ 
+% 441                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 436.078 456.801 moveto
+ 430.32 465.199 lineto
+stroke
+ 
+ 
+% 442                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 424.559 465.199 moveto
+ 424.559 473.84 lineto
+stroke
+ 
+ 
+% 443                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 396.238 473.84 moveto
+ 396.238 465.199 lineto
+stroke
+ 
+ 
+% 444                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 396.238 536.238 moveto
+ 396.238 544.641 lineto
+stroke
+ 
+ 
+% 445                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 424.559 544.641 moveto
+ 424.559 536.238 lineto
+stroke
+ 
+ 
+% 446                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 564.559 moveto
+ 273.84 563.602 lineto
+stroke
+ 
+ 
+% 447                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 273.84 563.602 moveto
+ 284.398 560.48 lineto
+stroke
+ 
+ 
+% 448                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 284.398 560.48 moveto
+ 294.0 555.922 lineto
+stroke
+ 
+ 
+% 449                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 294.0 555.922 moveto
+ 302.641 549.441 lineto
+stroke
+ 
+ 
+% 450                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 302.641 549.441 moveto
+ 310.078 541.52 lineto
+stroke
+ 
+ 
+% 451                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 310.078 541.52 moveto
+ 315.84 532.398 lineto
+stroke
+ 
+ 
+% 452                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 315.84 532.398 moveto
+ 320.16 522.32 lineto
+stroke
+ 
+ 
+% 453                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 320.16 522.32 moveto
+ 322.32 511.762 lineto
+stroke
+ 
+ 
+% 454                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 322.32 511.762 moveto
+ 322.559 500.961 lineto
+stroke
+ 
+ 
+% 455                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 322.559 500.961 moveto
+ 320.641 490.16 lineto
+stroke
+ 
+ 
+% 456                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 320.641 490.16 moveto
+ 317.039 480.078 lineto
+stroke
+ 
+ 
+% 457                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 317.039 480.078 moveto
+ 311.762 470.719 lineto
+stroke
+ 
+ 
+% 458                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 311.762 470.719 moveto
+ 304.801 462.32 lineto
+stroke
+ 
+ 
+% 459                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 304.801 462.32 moveto
+ 296.398 455.602 lineto
+stroke
+ 
+ 
+% 460                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 296.398 455.602 moveto
+ 286.801 450.32 lineto
+stroke
+ 
+ 
+% 461                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 286.801 450.32 moveto
+ 276.48 446.961 lineto
+stroke
+ 
+ 
+% 462                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 276.48 446.961 moveto
+ 265.922 445.52 lineto
+stroke
+ 
+ 
+% 463                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 265.922 445.52 moveto
+ 254.879 446.0 lineto
+stroke
+ 
+ 
+% 464                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 254.879 446.0 moveto
+ 244.559 448.398 lineto
+stroke
+ 
+ 
+% 465                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 244.559 448.398 moveto
+ 234.48 452.719 lineto
+stroke
+ 
+ 
+% 466                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 234.48 452.719 moveto
+ 225.602 458.719 lineto
+stroke
+ 
+ 
+% 467                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 225.602 458.719 moveto
+ 217.68 466.398 lineto
+stroke
+ 
+ 
+% 468                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 217.68 466.398 moveto
+ 211.441 475.281 lineto
+stroke
+ 
+ 
+% 469                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 211.441 475.281 moveto
+ 206.879 485.121 lineto
+stroke
+ 
+ 
+% 470                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 206.879 485.121 moveto
+ 204.238 495.441 lineto
+stroke
+ 
+ 
+% 471                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 204.238 495.441 moveto
+ 203.52 506.238 lineto
+stroke
+ 
+ 
+% 472                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 203.52 506.238 moveto
+ 204.719 517.039 lineto
+stroke
+ 
+ 
+% 473                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 204.719 517.039 moveto
+ 208.078 527.359 lineto
+stroke
+ 
+ 
+% 474                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 208.078 527.359 moveto
+ 212.879 536.961 lineto
+stroke
+ 
+ 
+% 475                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 212.879 536.961 moveto
+ 219.602 545.602 lineto
+stroke
+ 
+ 
+% 476                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 219.602 545.602 moveto
+ 227.762 552.801 lineto
+stroke
+ 
+ 
+% 477                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 227.762 552.801 moveto
+ 236.879 558.559 lineto
+stroke
+ 
+ 
+% 478                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 236.879 558.559 moveto
+ 246.961 562.398 lineto
+stroke
+ 
+ 
+% 479                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 246.961 562.398 moveto
+ 263.039 564.559 lineto
+stroke
+ 
+ 
+% 480                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 322.559 505.039 moveto
+ 317.039 505.039 lineto
+stroke
+ 
+ 
+% 481                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 203.52 505.039 moveto
+ 209.281 505.039 lineto
+stroke
+ 
+ 
+% 482                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 209.281 505.039 moveto
+ 237.602 553.281 lineto
+stroke
+ 
+ 
+% 483                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 237.602 553.281 moveto
+ 288.719 553.281 lineto
+stroke
+ 
+ 
+% 484                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.719 553.281 moveto
+ 317.039 505.039 lineto
+stroke
+ 
+ 
+% 485                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 317.039 505.039 moveto
+ 288.719 456.801 lineto
+stroke
+ 
+ 
+% 486                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.719 456.801 moveto
+ 237.602 456.801 lineto
+stroke
+ 
+ 
+% 487                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 237.602 456.801 moveto
+ 209.281 505.039 lineto
+stroke
+ 
+ 
+% 488                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 220.559 505.039 moveto
+ 243.359 544.641 lineto
+stroke
+ 
+ 
+% 489                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 544.641 moveto
+ 282.961 544.641 lineto
+stroke
+ 
+ 
+% 490                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 282.961 544.641 moveto
+ 308.398 505.039 lineto
+stroke
+ 
+ 
+% 491                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 308.398 505.039 moveto
+ 282.961 465.199 lineto
+stroke
+ 
+ 
+% 492                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 282.961 465.199 moveto
+ 243.359 465.199 lineto
+stroke
+ 
+ 
+% 493                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 465.199 moveto
+ 220.559 505.039 lineto
+stroke
+ 
+ 
+% 494                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 231.84 505.039 moveto
+ 248.879 536.238 lineto
+stroke
+ 
+ 
+% 495                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 248.879 536.238 moveto
+ 277.199 536.238 lineto
+stroke
+ 
+ 
+% 496                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.199 536.238 moveto
+ 297.121 505.039 lineto
+stroke
+ 
+ 
+% 497                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 297.121 505.039 moveto
+ 277.199 473.84 lineto
+stroke
+ 
+ 
+% 498                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.199 473.84 moveto
+ 248.879 473.84 lineto
+stroke
+ 
+ 
+% 499                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 248.879 473.84 moveto
+ 231.84 505.039 lineto
+stroke
+ 
+ 
+% 500                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 231.84 505.039 moveto
+ 220.559 505.039 lineto
+stroke
+ 
+ 
+% 501                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 297.121 505.039 moveto
+ 308.398 505.039 lineto
+stroke
+ 
+ 
+% 502                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.719 553.281 moveto
+ 282.961 544.641 lineto
+stroke
+ 
+ 
+% 503                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 237.602 553.281 moveto
+ 243.359 544.641 lineto
+stroke
+ 
+ 
+% 504                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 243.359 465.199 moveto
+ 237.602 456.801 lineto
+stroke
+ 
+ 
+% 505                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 288.719 456.801 moveto
+ 282.961 465.199 lineto
+stroke
+ 
+ 
+% 506                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.199 465.199 moveto
+ 277.199 473.84 lineto
+stroke
+ 
+ 
+% 507                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 248.879 473.84 moveto
+ 248.879 465.199 lineto
+stroke
+ 
+ 
+% 508                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 248.879 536.238 moveto
+ 248.879 544.641 lineto
+stroke
+ 
+ 
+% 509                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 277.199 544.641 moveto
+ 277.199 536.238 lineto
+stroke
+ 
+ 
+% 510                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 410.398 706.16 moveto
+ 421.199 705.199 lineto
+stroke
+ 
+ 
+% 511                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 421.199 705.199 moveto
+ 431.762 702.32 lineto
+stroke
+ 
+ 
+% 512                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 431.762 702.32 moveto
+ 441.359 697.52 lineto
+stroke
+ 
+ 
+% 513                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 441.359 697.52 moveto
+ 450.238 691.039 lineto
+stroke
+ 
+ 
+% 514                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 450.238 691.039 moveto
+ 457.441 683.121 lineto
+stroke
+ 
+ 
+% 515                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 457.441 683.121 moveto
+ 463.441 674.0 lineto
+stroke
+ 
+ 
+% 516                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 463.441 674.0 moveto
+ 467.52 664.16 lineto
+stroke
+ 
+ 
+% 517                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 467.52 664.16 moveto
+ 469.68 653.602 lineto
+stroke
+ 
+ 
+% 518                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 469.68 653.602 moveto
+ 469.922 642.559 lineto
+stroke
+ 
+ 
+% 519                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 469.922 642.559 moveto
+ 468.238 632.0 lineto
+stroke
+ 
+ 
+% 520                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 468.238 632.0 moveto
+ 464.641 621.68 lineto
+stroke
+ 
+ 
+% 521                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 464.641 621.68 moveto
+ 459.121 612.32 lineto
+stroke
+ 
+ 
+% 522                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 459.121 612.32 moveto
+ 452.16 604.16 lineto
+stroke
+ 
+ 
+% 523                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 452.16 604.16 moveto
+ 443.762 597.199 lineto
+stroke
+ 
+ 
+% 524                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 443.762 597.199 moveto
+ 434.16 592.16 lineto
+stroke
+ 
+ 
+% 525                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 434.16 592.16 moveto
+ 423.84 588.801 lineto
+stroke
+ 
+ 
+% 526                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 423.84 588.801 moveto
+ 413.281 587.359 lineto
+stroke
+ 
+ 
+% 527                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 413.281 587.359 moveto
+ 402.48 587.84 lineto
+stroke
+ 
+ 
+% 528                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 402.48 587.84 moveto
+ 391.922 590.238 lineto
+stroke
+ 
+ 
+% 529                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 391.922 590.238 moveto
+ 381.84 594.559 lineto
+stroke
+ 
+ 
+% 530                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 381.84 594.559 moveto
+ 372.961 600.559 lineto
+stroke
+ 
+ 
+% 531                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 372.961 600.559 moveto
+ 365.281 608.0 lineto
+stroke
+ 
+ 
+% 532                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 365.281 608.0 moveto
+ 359.039 616.879 lineto
+stroke
+ 
+ 
+% 533                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 359.039 616.879 moveto
+ 354.48 626.719 lineto
+stroke
+ 
+ 
+% 534                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 354.48 626.719 moveto
+ 351.84 637.281 lineto
+stroke
+ 
+ 
+% 535                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 351.84 637.281 moveto
+ 350.879 648.078 lineto
+stroke
+ 
+ 
+% 536                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 350.879 648.078 moveto
+ 352.32 658.879 lineto
+stroke
+ 
+ 
+% 537                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 352.32 658.879 moveto
+ 355.441 669.199 lineto
+stroke
+ 
+ 
+% 538                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 355.441 669.199 moveto
+ 360.238 678.801 lineto
+stroke
+ 
+ 
+% 539                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 360.238 678.801 moveto
+ 366.961 687.441 lineto
+stroke
+ 
+ 
+% 540                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 366.961 687.441 moveto
+ 375.121 694.641 lineto
+stroke
+ 
+ 
+% 541                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 375.121 694.641 moveto
+ 384.238 700.16 lineto
+stroke
+ 
+ 
+% 542                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 384.238 700.16 moveto
+ 394.32 704.0 lineto
+stroke
+ 
+ 
+% 543                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 394.32 704.0 moveto
+ 410.398 706.16 lineto
+stroke
+ 
+ 
+% 544                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 469.922 646.641 moveto
+ 464.398 646.641 lineto
+stroke
+ 
+ 
+% 545                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 350.879 646.641 moveto
+ 356.641 646.641 lineto
+stroke
+ 
+ 
+% 546                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 356.641 646.641 moveto
+ 384.961 694.879 lineto
+stroke
+ 
+ 
+% 547                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 384.961 694.879 moveto
+ 436.078 694.879 lineto
+stroke
+ 
+ 
+% 548                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 436.078 694.879 moveto
+ 464.398 646.641 lineto
+stroke
+ 
+ 
+% 549                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 464.398 646.641 moveto
+ 436.078 598.641 lineto
+stroke
+ 
+ 
+% 550                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 436.078 598.641 moveto
+ 384.961 598.641 lineto
+stroke
+ 
+ 
+% 551                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 384.961 598.641 moveto
+ 356.641 646.641 lineto
+stroke
+ 
+ 
+% 552                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 367.922 646.641 moveto
+ 390.719 686.48 lineto
+stroke
+ 
+ 
+% 553                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 390.719 686.48 moveto
+ 430.32 686.48 lineto
+stroke
+ 
+ 
+% 554                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 430.32 686.48 moveto
+ 455.762 646.641 lineto
+stroke
+ 
+ 
+% 555                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 455.762 646.641 moveto
+ 430.32 607.039 lineto
+stroke
+ 
+ 
+% 556                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 430.32 607.039 moveto
+ 390.719 607.039 lineto
+stroke
+ 
+ 
+% 557                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 390.719 607.039 moveto
+ 367.922 646.641 lineto
+stroke
+ 
+ 
+% 558                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 379.199 646.641 moveto
+ 396.238 677.84 lineto
+stroke
+ 
+ 
+% 559                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 396.238 677.84 moveto
+ 424.559 677.84 lineto
+stroke
+ 
+ 
+% 560                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 424.559 677.84 moveto
+ 444.48 646.641 lineto
+stroke
+ 
+ 
+% 561                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 444.48 646.641 moveto
+ 424.559 615.441 lineto
+stroke
+ 
+ 
+% 562                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 424.559 615.441 moveto
+ 396.238 615.441 lineto
+stroke
+ 
+ 
+% 563                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 396.238 615.441 moveto
+ 379.199 646.641 lineto
+stroke
+ 
+ 
+% 564                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 379.199 646.641 moveto
+ 367.922 646.641 lineto
+stroke
+ 
+ 
+% 565                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 444.48 646.641 moveto
+ 455.762 646.641 lineto
+stroke
+ 
+ 
+% 566                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 436.078 694.879 moveto
+ 430.32 686.48 lineto
+stroke
+ 
+ 
+% 567                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 384.961 694.879 moveto
+ 390.719 686.48 lineto
+stroke
+ 
+ 
+% 568                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 390.719 607.039 moveto
+ 384.961 598.641 lineto
+stroke
+ 
+ 
+% 569                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 436.078 598.641 moveto
+ 430.32 607.039 lineto
+stroke
+ 
+ 
+% 570                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 424.559 607.039 moveto
+ 424.559 615.441 lineto
+stroke
+ 
+ 
+% 571                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 396.238 615.441 moveto
+ 396.238 607.039 lineto
+stroke
+ 
+ 
+% 572                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 396.238 677.84 moveto
+ 396.238 686.48 lineto
+stroke
+ 
+ 
+% 573                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 424.559 686.48 moveto
+ 424.559 677.84 lineto
+stroke
+ 
+ 
+% 574                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 536.238 moveto
+ 286.801 488.961 lineto
+stroke
+ 
+ 
+% 575                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 473.84 moveto
+ 240.48 521.121 lineto
+stroke
+ 
+ 
+% 576                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 251.762 498.32 moveto
+ 274.32 512.48 lineto
+stroke
+ 
+ 
+% 577                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 404.879 677.84 moveto
+ 388.801 631.52 lineto
+stroke
+ 
+ 
+% 578                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 434.16 631.52 moveto
+ 416.16 677.84 lineto
+stroke
+ 
+ 
+% 579                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 410.398 615.441 moveto
+ 410.398 643.762 lineto
+stroke
+ 
+ 
+% 580                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 396.238 652.398 moveto
+ 410.398 643.762 lineto
+stroke
+ 
+ 
+% 581                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 410.398 643.762 moveto
+ 424.559 652.398 lineto
+stroke
+ 
+ 
+% 582                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 612.801 moveto
+ 284.879 644.719 lineto
+stroke
+ 
+ 
+% 583                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 291.359 635.359 moveto
+ 270.719 666.559 lineto
+stroke
+ 
+ 
+% 584                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 263.039 674.961 moveto
+ 251.762 655.281 lineto
+stroke
+ 
+ 
+% 585                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 251.762 655.281 moveto
+ 269.762 623.121 lineto
+stroke
+ 
+ 
+% 586                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 252.719 655.281 moveto
+ 238.559 655.281 lineto
+stroke
+ 
+ 
+% 587                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 282.0 666.559 moveto
+ 258.238 666.559 lineto
+stroke
+ 
+ 
+% 588                 pathnumber
+% strokedpath
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+newpath
+ 410.398 536.238 moveto
+ 410.398 473.84 lineto
+stroke
+ 
+ 1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+(Courier) cvn findfont  1 setlinecap
+ 10.0 setmiterlimit
+ 0 setlinejoin
+ [ ] 0.0 setdash
+ 0.24 setlinewidth
+ 0.0 0.0 0.0 1.0 setcmykcolor
+() p2esetcolorname
+[  8.41304 0 0 8.41304 304.08 152.24 ] makefont setfont
+  0 0 moveto
+ 0.0 0.0 32 0.0 0.0 309.119 152.24 1  setshowparams
+(32) awidthshowhex
+showpage
+%%BoundingBox: 203 152 469 706 
+%%Page: 2 2
+% normal end reached by pstoedit.pro
+%%Trailer
+%%Pages: 2
+%%EOF

@@ -1,0 +1,53 @@
+\begin{picture}(0,0)%
+\includegraphics{GoldArtPicture/GoldbergMaster.pstex}%
+\end{picture}%
+\setlength{\unitlength}{3552sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(6000,3312)(226,-3061)
+\put(1201,-2761){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$k=5$}%
+}}}
+\put(2776,-2161){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$l=2$}%
+}}}
+\put(6226,-1936){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$l=2$}%
+}}}
+\put(676,-2386){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$1$}%
+}}}
+\put(976,-2386){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$2$}%
+}}}
+\put(2251,-2161){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$6$}%
+}}}
+\put(2401,-1861){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$7$}%
+}}}
+\put(4276,-2386){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$1$}%
+}}}
+\put(4576,-2386){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$2$}%
+}}}
+\put(4876,-2386){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$3$}%
+}}}
+\put(5176,-2386){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$4$}%
+}}}
+\put(5476,-2386){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$5$}%
+}}}
+\put(5776,-2086){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$6$}%
+}}}
+\put(5776,-1786){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$7$}%
+}}}
+\put(1276,-2386){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$3$}%
+}}}
+\put(1576,-2386){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$4$}%
+}}}
+\put(1876,-2386){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$5$}%
+}}}
+\put(226,-736){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$ZC^*$}%
+}}}
+\put(4576, 14){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$ZC^*$}%
+}}}
+\put(4726,-2761){\makebox(0,0)[lb]{\smash{\SetFigFont{11}{13.2}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$k=5$}%
+}}}
+\end{picture}

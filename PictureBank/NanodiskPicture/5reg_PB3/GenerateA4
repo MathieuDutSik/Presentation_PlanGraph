@@ -1,0 +1,27 @@
+PL:=ReadAsFunction("ExmpA4")();
+
+LPLori:=DoConversionPlanGraphToPlanGraphOriented(PL);
+
+LPLoriCand:=[];
+for ePLori in LPLori
+do
+  VEFori:=PlanGraphOrientedToVEF(ePLori);
+  nbVert:=Length(VEFori.VertSet);
+  nbEdge:=Length(VEFori.EdgeSet);
+  nbFace:=Length(VEFori.FaceSet);
+  eChar:=nbVert - nbEdge + nbFace;
+  Print("eChar=", eChar, "\n");
+  if eChar=2 then
+    ListLenFace:=List(VEFori.FaceSet, Length);
+    ListLenVert:=List(VEFori.VertSet, Length);
+    if Set(ListLenFace)=[5] and Set(ListLenVert)=[3,9] then
+      Add(LPLoriCand, ePLori);
+    fi;
+  fi;
+od;
+ePLori:=LPLoriCand[1];
+ePLoriDual:=DualGraphOriented(ePLori);
+ePLd:=PlanGraphOrientedToPlanGraph(ePLoriDual);
+GRPinfo:=GroupPlan(ePLd);
+PlanGraphToCaGe("PLa4", ePLd);
+
