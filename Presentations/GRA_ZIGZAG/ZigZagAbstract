@@ -1,0 +1,17 @@
+Title: Zigzag structure for maps and complexes
+
+Abstract: A zigzag in a planar graph is a circuit of edges,
+such that any two, but no three, consecutive edges belong
+to the same face.
+
+A railroad in a planar graph is a circuit of hexagonal faces,
+such that any hexagon is adjacent to its neighbors on opposite
+edges. A graph without a railroad is called tight.
+
+We consider those notions for 3-valent plane graphs, whose
+faces have gonality q ( <6) or 6. 
+
+Then, we explain how zigzags are part of Lins trialities on
+surfaces and how they can be defined on n-dimensional complexes.
+
+Joint work with Michel Deza
