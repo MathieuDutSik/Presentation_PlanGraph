@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.07pt}
+\beamer@sectionintoc {1}{$8$ families of standard $(\{a,b\},k)$-spheres}{4}{0}{1}
+\beamer@sectionintoc {2}{Listing of $(\{a,b\},k)$-spheres with small $p_b$}{11}{0}{2}
+\beamer@sectionintoc {3}{$8$ standard families: four smallest members}{16}{0}{3}
+\beamer@sectionintoc {4}{Symmetry groups of $(\{a,b\},k)$-spheres}{21}{0}{4}
+\beamer@sectionintoc {5}{Goldberg-Coxeter construction}{28}{0}{5}
+\beamer@sectionintoc {6}{Parameterizing $(\{a,b\},k)$-spheres}{47}{0}{6}
+\beamer@sectionintoc {7}{Railroads and tight $(\{a,b\},k)$-spheres}{54}{0}{7}
+\beamer@sectionintoc {8}{Tight pure $(\{a,b\},k)$-spheres}{63}{0}{8}
+\beamer@sectionintoc {9}{Other analogs of fullerenes: $c$-disks}{73}{0}{9}
+\beamer@sectionintoc {10}{Icosahedrites}{80}{0}{10}
+\beamer@sectionintoc {11}{Standard $(\{a,b\},k)$-maps on surfaces}{90}{0}{11}
+\beamer@sectionintoc {12}{Beyond surfaces}{104}{0}{12}

@@ -1,0 +1,74 @@
+#!/usr/bin/perl
+
+$uu=scalar(@ARGV);
+
+if ($uu ne 2)
+{
+    print "Program is used as\n";
+    print "Reindexing [FileIndex] [FileAdj]\n\n";
+    die;
+}
+$FileIndex=$ARGV[0];
+$FileAdj=$ARGV[1];
+
+open(IN, $FileIndex) or die "impossible to open ".$FileIndex;
+@RINDX=<IN>;
+close(IN);
+@INDX=();
+$nbIdx=scalar(@RINDX);
+for ($idx=1; $idx<=$nbIdx; $idx++)
+{
+    $_=$RINDX[$idx-1];
+    s/\n//;
+    $INDX[$idx-1]=$_;
+}
+
+open(IN, $FileAdj) or die "impossible to open ".$FileAdj;
+@ADJ=<IN>;
+close(IN);
+$nbLine=scalar(@ADJ);
+
+for ($iLine; $iLine<=$nbLine; $iLine++)
+{
+    $_=$ADJ[$iLine-1];
+    
+#    s/[//g;
+#    s/]//g;
+    s/,/ /g;
+    $eLine=$_;
+#    print "eLine=".$eLine."\n";
+    @U=split(" ", $eLine);
+    $nbAdj=scalar(@U);
+#    print "nbAdj=".$nbAdj."\n";
+    $eStrRet="[";
+    for ($iAdj=1; $iAdj<=$nbAdj; $iAdj++)
+    {
+	$eStr=$U[$iAdj-1];
+	for ($idx=1; $idx<=$nbIdx; $idx++)
+	{
+	    if ($INDX[$idx-1] eq $eStr)
+	    {
+		if ($iAdj > 1)
+		{
+		    $eStrRet=$eStrRet.",";
+		    
+		}
+		$eStrRet=$eStrRet.$idx;
+	    }
+	}
+    }
+    $eStrRet=$eStrRet."]";
+    if ($iLine eq 1)
+    {
+	print "return [";
+    }
+    print $eStrRet;
+    if ($iLine < $nbLine)
+    {
+	print ",\n";
+    }
+    else
+    {
+	print "];\n";
+    }
+}
